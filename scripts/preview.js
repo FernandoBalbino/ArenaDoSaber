@@ -1,0 +1,11 @@
+import {chromium} from 'playwright';
+import {mkdir} from 'node:fs/promises';
+await mkdir('test-results',{recursive:true});
+const browser=await chromium.launch({headless:true,channel:'chrome'});
+const page=await browser.newPage({viewport:{width:1366,height:768}});
+page.on('pageerror',e=>console.log('PAGE ERROR',e.message));
+await page.goto(process.env.BASE_URL||'http://localhost:3000');
+await page.waitForTimeout(1500);
+await page.screenshot({path:'test-results/entry-1366.png',fullPage:true});
+console.log(await page.evaluate(()=>({width:innerWidth,scroll:document.documentElement.scrollWidth,height:document.documentElement.scrollHeight,canvas:!!document.querySelector('canvas')})));
+await browser.close();

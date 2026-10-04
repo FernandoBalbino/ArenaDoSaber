@@ -1,0 +1,40 @@
+Qual extensão costuma identificar um documento PDF?|.pdf|.mp3|.jpg|.exe|PDF é um formato comum para distribuição de documentos.
+Qual extensão costuma identificar áudio comprimido?|.mp3|.xlsx|.docx|.png|MP3 armazena áudio com compressão.
+Qual extensão é comum em fotografias?|.jpg|.exe|.txt|.pptx|JPEG é muito usado para fotografias digitais.
+Qual extensão pode identificar uma imagem com transparência?|.png|.mp3|.txt|.wav|PNG suporta um canal de transparência.
+Qual extensão identifica normalmente texto simples?|.txt|.mp4|.zip|.jpg|TXT armazena texto sem recursos complexos de formatação.
+Qual extensão é comum em planilhas do Excel?|.xlsx|.pptx|.mp3|.png|XLSX é um formato de pasta de trabalho do Excel.
+Qual extensão é comum em documentos do Word?|.docx|.xlsx|.mp4|.wav|DOCX é um formato de documento de texto do Word.
+Qual extensão é comum em apresentações do PowerPoint?|.pptx|.docx|.jpg|.mp3|PPTX armazena apresentações de slides.
+Qual extensão indica um arquivo compactado comum?|.zip|.png|.mp3|.txt|ZIP pode reunir e comprimir vários arquivos.
+Qual extensão costuma indicar vídeo?|.mp4|.xlsx|.docx|.txt|MP4 é um contêiner muito usado para vídeo e áudio.
+Qual extensão pode ser de um executável do Windows?|.exe|.jpg|.png|.pdf|Arquivos EXE podem executar programas no Windows.
+Qual extensão é usada em páginas HTML?|.html|.mp3|.jpg|.xlsx|HTML descreve a estrutura de páginas web.
+Qual extensão é comum para folhas de estilo web?|.css|.mp4|.wav|.zip|CSS define a apresentação visual de páginas.
+Qual extensão é comum para código JavaScript?|.js|.jpg|.pptx|.mp3|JavaScript usa frequentemente arquivos com extensão JS.
+Qual extensão pertence a uma planilha OpenDocument?|.ods|.odt|.odp|.mp4|ODS é o formato OpenDocument para planilhas.
+Qual extensão pertence a um texto OpenDocument?|.odt|.ods|.odp|.wav|ODT é o formato OpenDocument para documentos de texto.
+Qual extensão pertence a uma apresentação OpenDocument?|.odp|.odt|.ods|.png|ODP é o formato OpenDocument para apresentações.
+Qual extensão pode identificar áudio WAV?|.wav|.pdf|.css|.xlsx|WAV é um contêiner de áudio frequentemente sem compressão.
+Qual extensão é associada a uma imagem vetorial?|.svg|.mp3|.exe|.txt|SVG representa formas vetoriais escaláveis.
+Qual extensão pode armazenar uma animação simples de imagem?|.gif|.txt|.xlsx|.docx|GIF suporta sequências de quadros.
+Onde normalmente aparece a extensão no nome de um arquivo?|Após o último ponto|Antes da primeira pasta sempre|Dentro do volume|Na barra de energia|A extensão costuma estar no fim do nome após um ponto.
+No nome trabalho.final.pdf, qual é a extensão?|pdf|final|trabalho|final.pdf como uma única extensão simples|A última parte após o ponto identifica a extensão comum.
+Um arquivo musica.mp3 é mais provável de abrir em qual aplicativo?|Reprodutor de áudio|Editor de slides apenas|Gerenciador de impressão apenas|Calculadora|A extensão indica um formato de áudio.
+Um arquivo foto.png deve ser aberto normalmente com o quê?|Visualizador de imagens|Driver de rede|Antivírus como editor|Calculadora|PNG é um formato de imagem.
+Um arquivo notas.xlsx está relacionado a quê?|Planilhas|Somente música|Somente filmes|Drivers de teclado|XLSX normalmente contém tabelas e fórmulas.
+Mudar .txt para .pdf basta para criar um PDF válido?|Não|Sim, sempre|Só se o nome for curto|Só se estiver na área de trabalho|É preciso exportar ou converter o conteúdo para o formato PDF.
+Qual nome exige cuidado por poder disfarçar um executável?|foto.jpg.exe|foto.jpg|aula.txt|relatorio.pdf|A extensão final EXE indica um possível programa executável.
+Qual opção ajuda a conferir o tipo real declarado no nome?|Mostrar extensões de arquivos|Esconder todos os ícones|Diminuir o volume|Trocar o fundo|Extensões visíveis tornam o nome completo mais claro.
+O ícone de um arquivo pode variar conforme o aplicativo padrão?|Sim|Não, nunca|Só se o arquivo estiver vazio|Só em pastas|A associação de aplicativo pode determinar o ícone exibido.
+Qual extensão é comum em arquivos de dados tabulares de texto?|.csv|.mp3|.png|.exe|CSV organiza valores em linhas e separadores.
+Um CSV preserva normalmente todas as cores e fórmulas de uma planilha?|Não, é um formato simples de valores em texto|Sim, todas as formatações|Sim, incluindo animações|Apenas cores, nunca valores|CSV não preserva os recursos completos de uma pasta de trabalho.
+Por que uma imagem SVG pode ampliar sem pixelar suas formas vetoriais?|Porque descreve formas matematicamente|Porque sempre tem mais bytes|Porque é executável Windows|Porque não contém dados|Vetores podem ser redesenhados em diferentes tamanhos.
+Um MP4 garante que qualquer reprodutor decodifique o vídeo?|Não, também depende do codec usado|Sim, em todo dispositivo|Só se renomeado para TXT|Sim, mesmo sem aplicativo|O contêiner pode usar codecs não suportados pelo reprodutor.
+Qual diferença comum entre JPEG e PNG é correta?|JPEG costuma ser com perdas; PNG preserva pixels sem perdas|PNG é sempre áudio|JPEG sempre tem transparência alfa|PNG é um programa executável|A compressão JPEG pode descartar detalhes; PNG preserva a imagem codificada.
+O que fazer ao receber um executável inesperado disfarçado de trabalho?|Confirmar a origem sem executá-lo|Abrir imediatamente|Renomear e confiar|Desativar o antivírus|Arquivos inesperados exigem verificar a procedência.
+O que uma extensão informa com maior precisão?|Uma indicação do formato esperado|Uma garantia de segurança|A identidade verdadeira do autor|O preço do arquivo|Extensões podem ser alteradas e não autenticam conteúdo.
+Ao extrair um ZIP, o que normalmente é obtido?|Os arquivos e pastas contidos nele|Somente um novo cabo|Um programa obrigatoriamente instalado|A senha de todos os arquivos|Extrair recupera os itens do arquivo compactado.
+Um DOCX e um PDF têm exatamente a mesma finalidade principal?|Não, DOCX facilita edição e PDF distribuição com layout estável|Sim, são nomes idênticos|DOCX é somente áudio|PDF é sempre editável como DOCX|Os formatos atendem fluxos diferentes, embora ambos possam conter texto.
+Um arquivo sem extensão é necessariamente vazio?|Não|Sim|Só em pendrive|Só em SSD|A ausência de extensão não determina se existe conteúdo.
+Por que verificar a compatibilidade antes de enviar uma apresentação?|O destinatário pode não conseguir abrir o formato|Extensões definem velocidade da internet|Todo formato abre em toda máquina|A extensão mede o tamanho da turma|Aplicativos e versões podem ter suporte diferente aos formatos.

@@ -1,0 +1,40 @@
+Para que serve uma pasta?|Organizar arquivos e subpastas|Aumentar a potência da tomada|Substituir a RAM|Transmitir áudio|Pastas agrupam conteúdos para facilitar sua localização.
+Qual pasta normalmente recebe arquivos baixados pelo navegador?|Downloads|Ventilação|Processadores|Cabos|Downloads costuma ser o destino padrão dos downloads.
+O que acontece ao copiar um arquivo para outra pasta?|Uma cópia é criada no destino|O original sempre some|O computador desliga|A extensão necessariamente muda|Copiar preserva o original e cria outra ocorrência.
+O que acontece ao mover um arquivo para outra pasta?|Ele muda de local|Ele sempre vira imagem|É duplicado obrigatoriamente|Perde o nome sempre|Mover transfere o arquivo de um local para outro.
+Qual sequência costuma mover um arquivo?|Recortar e colar|Copiar e aumentar zoom|Imprimir e fechar|Renomear e minimizar|Recortar seguido de colar transfere o item selecionado.
+O que significa renomear?|Alterar o nome de um item|Mudar o brilho|Desinstalar o sistema|Compactar obrigatoriamente|Renomear ajuda a identificar arquivos e pastas.
+Qual nome ajuda mais a identificar um trabalho?|Relatorio_Ciencias_TurmaA.docx|aaaa.docx|novo_final_qualquer.docx|semnome999.docx|Nomes descritivos facilitam a busca e a organização.
+Qual recurso localiza arquivos pelo nome?|Pesquisa do gerenciador de arquivos|Controle de volume|Configuração de brilho|Relógio|A pesquisa ajuda a encontrar itens sem abrir cada pasta.
+A Lixeira do sistema normalmente permite o quê?|Restaurar itens excluídos que ainda estão nela|Aumentar a RAM|Recuperar qualquer arquivo de qualquer época|Reinstalar todos os programas|Itens ainda presentes na Lixeira podem ser restaurados.
+O que significa esvaziar a Lixeira?|Excluir definitivamente os itens que ela contém|Mover tudo para Documentos|Criar cópias de segurança|Renomear arquivos|Esvaziar remove os itens do fluxo normal de restauração da Lixeira.
+Qual ação recupera um arquivo ainda presente na Lixeira?|Restaurar|Compactar|Fixar na barra|Maximizar|Restaurar devolve o arquivo ao local de origem quando disponível.
+O que é um atalho para uma pasta?|Uma referência que abre a pasta|Uma cópia completa de todos os arquivos|Uma nova unidade física|Uma senha|O atalho aponta para o destino original.
+Excluir um atalho normalmente exclui a pasta original?|Não|Sim, sempre|Só se a pasta tiver fotos|Só às sextas-feiras|A remoção do atalho normalmente remove apenas a referência.
+Qual local é adequado para organizar relatórios escolares?|Uma pasta descritiva em Documentos|Uma pasta do sistema operacional|Dentro de um driver|Apenas na Lixeira|Uma estrutura descritiva facilita encontrar e preservar o trabalho.
+O que é uma subpasta?|Pasta dentro de outra pasta|Arquivo de áudio|Uma memória externa|Uma tecla|Pastas podem formar uma estrutura hierárquica.
+Qual comando cria uma pasta no gerenciador de arquivos?|Nova pasta|Novo processador|Reiniciar rede|Esvaziar tudo|Nova pasta cria um contêiner para organizar itens.
+Para conferir onde um arquivo está, o que observar?|Caminho da pasta|Volume do áudio|Cor do mouse|Hora do recreio|O caminho mostra a sequência de locais até o arquivo.
+Como selecionar vários arquivos não consecutivos no Windows?|Manter Ctrl e clicar nos itens|Apertar somente Caps Lock|Fechar o explorador|Aumentar o brilho|Ctrl permite adicionar itens separados à seleção.
+Como selecionar uma sequência de arquivos no Windows?|Selecionar o primeiro e Shift no último|Arrastar a janela para fora|Apertar Alt sozinho|Trocar o monitor|Shift estende a seleção entre dois itens.
+Qual visualização pode mostrar tamanho e data dos arquivos?|Detalhes|Tela desligada|Volume|Modo avião|A visualização de detalhes apresenta propriedades em colunas.
+Ordenar por data de modificação ajuda a encontrar o quê?|Arquivos alterados recentemente|Somente arquivos impressos|A senha da rede|A cor original da tela|A data de modificação registra a última alteração do conteúdo.
+O que verificar antes de substituir um arquivo com o mesmo nome?|Se o conteúdo existente precisa ser preservado|Somente a cor do ícone|O volume dos alto-falantes|A posição da cadeira|Substituir pode descartar uma versão que ainda seja necessária.
+Qual prática reduz a perda de trabalhos?|Manter cópias de segurança em outro local|Guardar a única cópia na Lixeira|Nunca salvar|Trocar nomes diariamente sem motivo|Backups permitem recuperar dados quando a cópia principal falha.
+Um arquivo está em Downloads e deve ir para Documentos. Qual ação atende?|Mover para Documentos|Mudar só o papel de parede|Criar uma pasta sem transferir|Silenciar áudio|Mover altera o local do arquivo original.
+Qual unidade é maior?|1 GB|1 KB|1 byte|1 bit|Gigabyte representa uma quantidade de dados maior que essas unidades.
+Para liberar espaço de arquivos já enviados à Lixeira, o que falta?|Revisar e esvaziar a Lixeira|Aumentar o zoom|Mudar o nome da Lixeira|Fechar o monitor|Itens na Lixeira ainda ocupam espaço de armazenamento.
+Antes de retirar um pendrive em uso, qual cuidado é apropriado?|Concluir transferências e ejetar com segurança|Puxar durante a cópia|Apagar o driver|Reiniciar a impressora|Concluir gravações evita arquivos incompletos ou corrompidos.
+O que uma pasta vazia contém?|Nenhum arquivo ou subpasta visível naquele local|Todos os documentos do computador|Somente programas abertos|Sempre um vídeo|Uma pasta pode existir sem conter itens.
+Qual ação abre um arquivo selecionado no Windows?|Pressionar Enter|Pressionar apenas Shift|Desconectar a fonte|Silenciar o sistema|Enter normalmente abre o item selecionado.
+Qual cuidado tomar ao apagar arquivos para liberar espaço?|Preservar documentos pessoais importantes|Apagar primeiro a pasta do sistema|Excluir tudo sem revisar|Apagar o trabalho atual sem backup|A limpeza deve focar itens dispensáveis e conhecidos.
+Uma cópia no mesmo SSD protege contra falha física desse SSD?|Não|Sim, integralmente|Somente se renomeada|Somente se estiver oculta|Uma falha do dispositivo pode atingir todas as cópias armazenadas nele.
+Se o destino de um atalho for movido, o que pode acontecer?|O atalho pode deixar de funcionar|O atalho vira backup|O monitor perde resolução|A RAM é apagada|A referência pode apontar para um caminho que não existe mais.
+Dois arquivos com o mesmo nome em pastas diferentes são necessariamente iguais?|Não|Sim, sempre|Só se forem grandes|Só se tiverem ícone igual|Nome igual não garante conteúdo igual.
+Por que mostrar extensões ajuda a avaliar um arquivo?|Permite ver seu tipo declarado no nome|Garante ausência de vírus|Descriptografa arquivos|Cria backup automático|A extensão ajuda a reconhecer tipos e nomes potencialmente enganosos.
+Qual caminho representa um arquivo dentro de duas pastas?|Documentos/Escola/Relatorio.pdf|Relatorio.pdf/Escola|Teclado/Volume|Somente Relatorio|A ordem do caminho parte das pastas até chegar ao arquivo.
+Copiar uma pasta contendo subpastas normalmente inclui o quê?|Sua estrutura e os arquivos contidos|Apenas o nome externo|Somente atalhos da área de trabalho|O sistema operacional inteiro|Uma cópia de pasta normalmente inclui os itens descendentes.
+Renomear foto.jpg para foto.txt converte a imagem em texto?|Não, muda apenas o nome|Sim, reconhece o texto automaticamente|Sim, compacta a imagem|Só se estiver em Downloads|Conversão real exige alterar o formato dos dados.
+Qual situação exige cuidado especial ao mover um arquivo em uso?|O aplicativo pode bloquear ou perder a referência ao arquivo|O teclado será desinstalado|O monitor para permanentemente|O Wi-Fi muda de senha|Programas podem manter arquivos abertos ou referências ao caminho.
+Uma pasta sincronizada na nuvem dispensa verificar o estado de envio?|Não, alterações podem estar pendentes|Sim, qualquer ícone garante envio|Sim, mesmo sem conexão inicial|Só em arquivos grandes|Sincronização pode atrasar ou falhar, exigindo conferir o estado.
+Qual diferença entre tamanho do arquivo e espaço livre está correta?|Um mede o item, o outro a capacidade disponível|São sempre valores idênticos|Ambos medem apenas a RAM|Espaço livre é o nome da pasta|Um arquivo consome parte do armazenamento disponível.

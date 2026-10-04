@@ -1,0 +1,40 @@
+Qual destes é um navegador?|Firefox|Excel|Paint|Bloco de Notas|Firefox permite acessar e interagir com páginas web.
+Qual destes também é um navegador?|Chrome|Impress|Calculadora|Explorador de Arquivos|Chrome é um aplicativo de navegação na web.
+Para que serve a barra de endereços?|Digitar endereços ou pesquisas|Regular a ventoinha|Trocar a bateria|Formatar o disco|Ela permite informar um endereço e, normalmente, termos de busca.
+O que uma aba permite?|Abrir outra página na mesma janela|Adicionar RAM física|Imprimir automaticamente|Trocar o teclado|Abas organizam várias páginas em uma janela.
+Para que serve um favorito?|Guardar um endereço para acessar depois|Copiar toda a internet|Garantir acesso offline|Aumentar a velocidade do provedor|Favoritos salvam referências às páginas.
+Onde consultar páginas visitadas anteriormente?|Histórico|Configuração de brilho|Lixeira física|Lista de impressoras|O histórico registra visitas conforme as configurações do navegador.
+Qual botão retorna à página anterior?|Voltar|Atualizar|Nova aba|Maximizar|Voltar percorre a navegação anterior da aba.
+Qual botão carrega novamente a página atual?|Atualizar|Favoritar|Minimizar|Fechar|Atualizar solicita novamente o conteúdo da página.
+O que é um download?|Transferência de arquivo para seu dispositivo|Envio de papel à impressora apenas|Exclusão de uma conta|Mudança do mouse|Download traz dados de uma origem para o dispositivo.
+O que é upload?|Envio de arquivo do dispositivo para um serviço|Baixar um arquivo|Fechar o navegador|Apagar o histórico|Upload transfere dados para um destino remoto.
+Qual painel mostra arquivos baixados recentemente?|Downloads|Favoritos apenas|Zoom|Impressoras do sistema|A lista de downloads permite acompanhar e encontrar transferências.
+Fechar o navegador apaga automaticamente os favoritos?|Não, normalmente são preservados|Sim, sempre|Só se houver imagens|Só em tela cheia|Favoritos são salvos no perfil do navegador.
+O que o zoom da página modifica?|O tamanho visual do conteúdo|A velocidade real da internet|A capacidade do SSD|O número de roteadores|Zoom ajusta a escala de apresentação da página.
+Para abrir uma página sem fechar a atual, use o quê?|Nova aba|Esvaziar a Lixeira|Desinstalar o navegador|Desligar a rede|Uma nova aba mantém a anterior disponível.
+Qual prática ajuda a ler um texto pequeno na web?|Aumentar o zoom|Diminuir a fonte do sistema|Apagar a página|Desconectar a tela|Aumentar a escala melhora a legibilidade.
+Qual recurso busca uma palavra dentro da página aberta?|Localizar na página|Nova janela|Modo avião|Limpar downloads|A busca interna destaca ocorrências no conteúdo atual.
+Qual ação salva o endereço atual para uso futuro?|Adicionar aos favoritos|Apenas minimizar|Fechar a aba|Desligar o monitor|Favoritar registra o endereço no perfil.
+O que é a página inicial do navegador?|Página configurada para início ou botão inicial|Sempre o primeiro site da internet|Uma pasta física|O gabarito de qualquer página|A página inicial depende das preferências do navegador.
+Um site pede autorização para câmera. O que fazer?|Permitir somente se necessário e confiável|Aceitar todo pedido|Enviar a senha junto|Desativar o sistema|Permissões devem corresponder à função desejada.
+Uma aba está tocando som. Qual recurso pode ajudar?|Silenciar a aba ou o site|Formatar o disco|Apagar a RAM|Trocar o processador|Navegadores comuns permitem controlar o áudio de abas ou sites.
+Qual sinal pode indicar que o download ainda não acabou?|Barra de progresso em andamento|Nome na lista de favoritos|Relógio do sistema parado|Cor da mesa|A interface de downloads informa o andamento da transferência.
+Antes de abrir um arquivo baixado, o que conferir?|Origem e tipo de arquivo|Somente o tamanho do ponteiro|A cor do cabo|O número de teclas|A procedência e o formato ajudam a avaliar o arquivo.
+Qual diferença entre buscador e navegador é correta?|Buscador encontra conteúdos; navegador abre páginas|São sempre o mesmo programa|Buscador é uma placa física|Navegador só imprime|Um buscador é um serviço acessado normalmente pelo navegador.
+Ao digitar um endereço errado, qual primeira ação faz sentido?|Revisar a escrita do endereço|Apagar o sistema|Comprar outro teclado|Excluir todos os arquivos|Pequenos erros no endereço podem impedir o acesso.
+Para usar outro navegador, qual caminho é adequado?|Baixá-lo de fonte oficial e instalar|Apagar a pasta do Windows|Renomear qualquer foto para EXE|Desligar o roteador|Navegadores podem ser obtidos dos canais oficiais de seus desenvolvedores.
+O que uma extensão de navegador faz?|Acrescenta funções ao navegador|Aumenta o cabo fisicamente|Troca a placa-mãe|Aumenta obrigatoriamente a segurança|Extensões adicionam recursos e podem solicitar permissões.
+Instalar muitas extensões desnecessárias pode causar o quê?|Maior consumo de recursos e riscos de privacidade|Mais RAM física|Internet sempre ilimitada|Backup automático de tudo|Extensões executam código e podem acessar informações autorizadas.
+O que o modo de tela cheia faz?|Amplia a área ocupada pela página|Duplica a resolução física|Salva todas as senhas|Desinstala o sistema|A tela cheia reduz elementos da interface ao redor do conteúdo.
+Qual atitude é melhor diante de um aviso de conexão insegura?|Interromper e verificar o endereço e a origem|Ignorar sem ler|Informar a senha para testar|Enviar dados pessoais|Avisos de segurança podem sinalizar problemas de identidade ou conexão.
+Qual recurso permite organizar favoritos por assunto?|Pastas de favoritos|Volume do navegador|Fonte de energia|Modo avião|Pastas agrupam links salvos para facilitar o acesso.
+A janela anônima torna a atividade invisível à escola e aos sites?|Não|Sim, totalmente|Somente se maximizada|Só à noite|O modo privado limita registros locais, não toda observação da rede ou dos sites.
+Limpar cookies pode exigir login novamente por quê?|Eles podem manter identificadores de sessão|Eles alimentam a fonte|Eles são a memória RAM inteira|Eles contêm todos os programas|Remover dados de sessão pode encerrar autenticações em sites.
+Favoritar uma página garante acesso sem internet?|Não|Sim, sempre|Só se o nome for curto|Só com duas abas|Favoritos guardam endereços; disponibilidade offline depende de outros recursos.
+Por que uma página pode mostrar dados antigos até atualizar?|Pode estar exibindo conteúdo já carregado ou em cache|O teclado alterou a data|O monitor armazena toda a internet|O mouse bloqueia o provedor|Cache e estado da página podem manter versões anteriores do conteúdo.
+Qual risco de permitir notificações em sites desconhecidos?|Receber avisos indesejados ou enganosos|O monitor perde pixels|O SSD muda de tamanho|Todos os arquivos viram PDF|A permissão autoriza o site a enviar notificações.
+Sincronizar o navegador em um computador compartilhado exige qual cuidado?|Evitar expor dados pessoais e sair ao terminar|Salvar a senha de todos|Deixar a conta aberta para a turma|Desativar o bloqueio da tela|A sincronização pode trazer histórico, favoritos e outros dados pessoais.
+Um site funciona em outro navegador. O que isso sugere verificar?|Extensões, cache e configurações do primeiro|A cor do gabinete|O tamanho da mesa|O nível de tinta|Diferenças de configuração podem afetar o funcionamento do site.
+Por que atualizar o navegador é relevante para segurança?|Atualizações corrigem vulnerabilidades conhecidas|Impedem qualquer golpe para sempre|Eliminam a necessidade de cuidado|Garantem anonimato absoluto|Correções reduzem falhas exploráveis, mas não substituem atenção do usuário.
+Qual diferença entre fechar uma aba e sair de uma conta é correta?|Fechar pode manter a sessão autenticada|Fechar sempre remove a conta|Sair apaga todos os documentos|São ações obrigatoriamente idênticas|Sessões podem continuar salvas mesmo após fechar a aba.
+O cadeado de HTTPS garante que a loja seja honesta?|Não, indica proteção da conexão, não honestidade|Sim, garante qualquer compra|Sim, elimina fraudes|Só se o site tiver fotos|HTTPS protege a comunicação, mas sites fraudulentos também podem utilizá-lo.

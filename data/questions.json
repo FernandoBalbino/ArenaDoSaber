@@ -1,0 +1,6722 @@
+[
+  {
+    "id": "browsers-01",
+    "category": "browsers",
+    "difficult": false,
+    "text": "Qual destes é um navegador?",
+    "options": [
+      "Firefox",
+      "Excel",
+      "Paint",
+      "Bloco de Notas"
+    ],
+    "correctIndex": 0,
+    "explanation": "Firefox permite acessar e interagir com páginas web."
+  },
+  {
+    "id": "browsers-02",
+    "category": "browsers",
+    "difficult": false,
+    "text": "Qual destes também é um navegador?",
+    "options": [
+      "Chrome",
+      "Impress",
+      "Calculadora",
+      "Explorador de Arquivos"
+    ],
+    "correctIndex": 0,
+    "explanation": "Chrome é um aplicativo de navegação na web."
+  },
+  {
+    "id": "browsers-03",
+    "category": "browsers",
+    "difficult": false,
+    "text": "Para que serve a barra de endereços?",
+    "options": [
+      "Digitar endereços ou pesquisas",
+      "Regular a ventoinha",
+      "Trocar a bateria",
+      "Formatar o disco"
+    ],
+    "correctIndex": 0,
+    "explanation": "Ela permite informar um endereço e, normalmente, termos de busca."
+  },
+  {
+    "id": "browsers-04",
+    "category": "browsers",
+    "difficult": false,
+    "text": "O que uma aba permite?",
+    "options": [
+      "Abrir outra página na mesma janela",
+      "Adicionar RAM física",
+      "Imprimir automaticamente",
+      "Trocar o teclado"
+    ],
+    "correctIndex": 0,
+    "explanation": "Abas organizam várias páginas em uma janela."
+  },
+  {
+    "id": "browsers-05",
+    "category": "browsers",
+    "difficult": false,
+    "text": "Para que serve um favorito?",
+    "options": [
+      "Guardar um endereço para acessar depois",
+      "Copiar toda a internet",
+      "Garantir acesso offline",
+      "Aumentar a velocidade do provedor"
+    ],
+    "correctIndex": 0,
+    "explanation": "Favoritos salvam referências às páginas."
+  },
+  {
+    "id": "browsers-06",
+    "category": "browsers",
+    "difficult": false,
+    "text": "Onde consultar páginas visitadas anteriormente?",
+    "options": [
+      "Histórico",
+      "Configuração de brilho",
+      "Lixeira física",
+      "Lista de impressoras"
+    ],
+    "correctIndex": 0,
+    "explanation": "O histórico registra visitas conforme as configurações do navegador."
+  },
+  {
+    "id": "browsers-07",
+    "category": "browsers",
+    "difficult": false,
+    "text": "Qual botão retorna à página anterior?",
+    "options": [
+      "Voltar",
+      "Atualizar",
+      "Nova aba",
+      "Maximizar"
+    ],
+    "correctIndex": 0,
+    "explanation": "Voltar percorre a navegação anterior da aba."
+  },
+  {
+    "id": "browsers-08",
+    "category": "browsers",
+    "difficult": false,
+    "text": "Qual botão carrega novamente a página atual?",
+    "options": [
+      "Atualizar",
+      "Favoritar",
+      "Minimizar",
+      "Fechar"
+    ],
+    "correctIndex": 0,
+    "explanation": "Atualizar solicita novamente o conteúdo da página."
+  },
+  {
+    "id": "browsers-09",
+    "category": "browsers",
+    "difficult": false,
+    "text": "O que é um download?",
+    "options": [
+      "Transferência de arquivo para seu dispositivo",
+      "Envio de papel à impressora apenas",
+      "Exclusão de uma conta",
+      "Mudança do mouse"
+    ],
+    "correctIndex": 0,
+    "explanation": "Download traz dados de uma origem para o dispositivo."
+  },
+  {
+    "id": "browsers-10",
+    "category": "browsers",
+    "difficult": false,
+    "text": "O que é upload?",
+    "options": [
+      "Envio de arquivo do dispositivo para um serviço",
+      "Baixar um arquivo",
+      "Fechar o navegador",
+      "Apagar o histórico"
+    ],
+    "correctIndex": 0,
+    "explanation": "Upload transfere dados para um destino remoto."
+  },
+  {
+    "id": "browsers-11",
+    "category": "browsers",
+    "difficult": false,
+    "text": "Qual painel mostra arquivos baixados recentemente?",
+    "options": [
+      "Downloads",
+      "Favoritos apenas",
+      "Zoom",
+      "Impressoras do sistema"
+    ],
+    "correctIndex": 0,
+    "explanation": "A lista de downloads permite acompanhar e encontrar transferências."
+  },
+  {
+    "id": "browsers-12",
+    "category": "browsers",
+    "difficult": false,
+    "text": "Fechar o navegador apaga automaticamente os favoritos?",
+    "options": [
+      "Não, normalmente são preservados",
+      "Sim, sempre",
+      "Só se houver imagens",
+      "Só em tela cheia"
+    ],
+    "correctIndex": 0,
+    "explanation": "Favoritos são salvos no perfil do navegador."
+  },
+  {
+    "id": "browsers-13",
+    "category": "browsers",
+    "difficult": false,
+    "text": "O que o zoom da página modifica?",
+    "options": [
+      "O tamanho visual do conteúdo",
+      "A velocidade real da internet",
+      "A capacidade do SSD",
+      "O número de roteadores"
+    ],
+    "correctIndex": 0,
+    "explanation": "Zoom ajusta a escala de apresentação da página."
+  },
+  {
+    "id": "browsers-14",
+    "category": "browsers",
+    "difficult": false,
+    "text": "Para abrir uma página sem fechar a atual, use o quê?",
+    "options": [
+      "Nova aba",
+      "Esvaziar a Lixeira",
+      "Desinstalar o navegador",
+      "Desligar a rede"
+    ],
+    "correctIndex": 0,
+    "explanation": "Uma nova aba mantém a anterior disponível."
+  },
+  {
+    "id": "browsers-15",
+    "category": "browsers",
+    "difficult": false,
+    "text": "Qual prática ajuda a ler um texto pequeno na web?",
+    "options": [
+      "Aumentar o zoom",
+      "Diminuir a fonte do sistema",
+      "Apagar a página",
+      "Desconectar a tela"
+    ],
+    "correctIndex": 0,
+    "explanation": "Aumentar a escala melhora a legibilidade."
+  },
+  {
+    "id": "browsers-16",
+    "category": "browsers",
+    "difficult": false,
+    "text": "Qual recurso busca uma palavra dentro da página aberta?",
+    "options": [
+      "Localizar na página",
+      "Nova janela",
+      "Modo avião",
+      "Limpar downloads"
+    ],
+    "correctIndex": 0,
+    "explanation": "A busca interna destaca ocorrências no conteúdo atual."
+  },
+  {
+    "id": "browsers-17",
+    "category": "browsers",
+    "difficult": false,
+    "text": "Qual ação salva o endereço atual para uso futuro?",
+    "options": [
+      "Adicionar aos favoritos",
+      "Apenas minimizar",
+      "Fechar a aba",
+      "Desligar o monitor"
+    ],
+    "correctIndex": 0,
+    "explanation": "Favoritar registra o endereço no perfil."
+  },
+  {
+    "id": "browsers-18",
+    "category": "browsers",
+    "difficult": false,
+    "text": "O que é a página inicial do navegador?",
+    "options": [
+      "Página configurada para início ou botão inicial",
+      "Sempre o primeiro site da internet",
+      "Uma pasta física",
+      "O gabarito de qualquer página"
+    ],
+    "correctIndex": 0,
+    "explanation": "A página inicial depende das preferências do navegador."
+  },
+  {
+    "id": "browsers-19",
+    "category": "browsers",
+    "difficult": false,
+    "text": "Um site pede autorização para câmera. O que fazer?",
+    "options": [
+      "Permitir somente se necessário e confiável",
+      "Aceitar todo pedido",
+      "Enviar a senha junto",
+      "Desativar o sistema"
+    ],
+    "correctIndex": 0,
+    "explanation": "Permissões devem corresponder à função desejada."
+  },
+  {
+    "id": "browsers-20",
+    "category": "browsers",
+    "difficult": false,
+    "text": "Uma aba está tocando som. Qual recurso pode ajudar?",
+    "options": [
+      "Silenciar a aba ou o site",
+      "Formatar o disco",
+      "Apagar a RAM",
+      "Trocar o processador"
+    ],
+    "correctIndex": 0,
+    "explanation": "Navegadores comuns permitem controlar o áudio de abas ou sites."
+  },
+  {
+    "id": "browsers-21",
+    "category": "browsers",
+    "difficult": false,
+    "text": "Qual sinal pode indicar que o download ainda não acabou?",
+    "options": [
+      "Barra de progresso em andamento",
+      "Nome na lista de favoritos",
+      "Relógio do sistema parado",
+      "Cor da mesa"
+    ],
+    "correctIndex": 0,
+    "explanation": "A interface de downloads informa o andamento da transferência."
+  },
+  {
+    "id": "browsers-22",
+    "category": "browsers",
+    "difficult": false,
+    "text": "Antes de abrir um arquivo baixado, o que conferir?",
+    "options": [
+      "Origem e tipo de arquivo",
+      "Somente o tamanho do ponteiro",
+      "A cor do cabo",
+      "O número de teclas"
+    ],
+    "correctIndex": 0,
+    "explanation": "A procedência e o formato ajudam a avaliar o arquivo."
+  },
+  {
+    "id": "browsers-23",
+    "category": "browsers",
+    "difficult": false,
+    "text": "Qual diferença entre buscador e navegador é correta?",
+    "options": [
+      "Buscador encontra conteúdos; navegador abre páginas",
+      "São sempre o mesmo programa",
+      "Buscador é uma placa física",
+      "Navegador só imprime"
+    ],
+    "correctIndex": 0,
+    "explanation": "Um buscador é um serviço acessado normalmente pelo navegador."
+  },
+  {
+    "id": "browsers-24",
+    "category": "browsers",
+    "difficult": false,
+    "text": "Ao digitar um endereço errado, qual primeira ação faz sentido?",
+    "options": [
+      "Revisar a escrita do endereço",
+      "Apagar o sistema",
+      "Comprar outro teclado",
+      "Excluir todos os arquivos"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pequenos erros no endereço podem impedir o acesso."
+  },
+  {
+    "id": "browsers-25",
+    "category": "browsers",
+    "difficult": false,
+    "text": "Para usar outro navegador, qual caminho é adequado?",
+    "options": [
+      "Baixá-lo de fonte oficial e instalar",
+      "Apagar a pasta do Windows",
+      "Renomear qualquer foto para EXE",
+      "Desligar o roteador"
+    ],
+    "correctIndex": 0,
+    "explanation": "Navegadores podem ser obtidos dos canais oficiais de seus desenvolvedores."
+  },
+  {
+    "id": "browsers-26",
+    "category": "browsers",
+    "difficult": false,
+    "text": "O que uma extensão de navegador faz?",
+    "options": [
+      "Acrescenta funções ao navegador",
+      "Aumenta o cabo fisicamente",
+      "Troca a placa-mãe",
+      "Aumenta obrigatoriamente a segurança"
+    ],
+    "correctIndex": 0,
+    "explanation": "Extensões adicionam recursos e podem solicitar permissões."
+  },
+  {
+    "id": "browsers-27",
+    "category": "browsers",
+    "difficult": false,
+    "text": "Instalar muitas extensões desnecessárias pode causar o quê?",
+    "options": [
+      "Maior consumo de recursos e riscos de privacidade",
+      "Mais RAM física",
+      "Internet sempre ilimitada",
+      "Backup automático de tudo"
+    ],
+    "correctIndex": 0,
+    "explanation": "Extensões executam código e podem acessar informações autorizadas."
+  },
+  {
+    "id": "browsers-28",
+    "category": "browsers",
+    "difficult": false,
+    "text": "O que o modo de tela cheia faz?",
+    "options": [
+      "Amplia a área ocupada pela página",
+      "Duplica a resolução física",
+      "Salva todas as senhas",
+      "Desinstala o sistema"
+    ],
+    "correctIndex": 0,
+    "explanation": "A tela cheia reduz elementos da interface ao redor do conteúdo."
+  },
+  {
+    "id": "browsers-29",
+    "category": "browsers",
+    "difficult": false,
+    "text": "Qual atitude é melhor diante de um aviso de conexão insegura?",
+    "options": [
+      "Interromper e verificar o endereço e a origem",
+      "Ignorar sem ler",
+      "Informar a senha para testar",
+      "Enviar dados pessoais"
+    ],
+    "correctIndex": 0,
+    "explanation": "Avisos de segurança podem sinalizar problemas de identidade ou conexão."
+  },
+  {
+    "id": "browsers-30",
+    "category": "browsers",
+    "difficult": false,
+    "text": "Qual recurso permite organizar favoritos por assunto?",
+    "options": [
+      "Pastas de favoritos",
+      "Volume do navegador",
+      "Fonte de energia",
+      "Modo avião"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pastas agrupam links salvos para facilitar o acesso."
+  },
+  {
+    "id": "browsers-31",
+    "category": "browsers",
+    "difficult": true,
+    "text": "A janela anônima torna a atividade invisível à escola e aos sites?",
+    "options": [
+      "Não",
+      "Sim, totalmente",
+      "Somente se maximizada",
+      "Só à noite"
+    ],
+    "correctIndex": 0,
+    "explanation": "O modo privado limita registros locais, não toda observação da rede ou dos sites."
+  },
+  {
+    "id": "browsers-32",
+    "category": "browsers",
+    "difficult": true,
+    "text": "Limpar cookies pode exigir login novamente por quê?",
+    "options": [
+      "Eles podem manter identificadores de sessão",
+      "Eles alimentam a fonte",
+      "Eles são a memória RAM inteira",
+      "Eles contêm todos os programas"
+    ],
+    "correctIndex": 0,
+    "explanation": "Remover dados de sessão pode encerrar autenticações em sites."
+  },
+  {
+    "id": "browsers-33",
+    "category": "browsers",
+    "difficult": true,
+    "text": "Favoritar uma página garante acesso sem internet?",
+    "options": [
+      "Não",
+      "Sim, sempre",
+      "Só se o nome for curto",
+      "Só com duas abas"
+    ],
+    "correctIndex": 0,
+    "explanation": "Favoritos guardam endereços; disponibilidade offline depende de outros recursos."
+  },
+  {
+    "id": "browsers-34",
+    "category": "browsers",
+    "difficult": true,
+    "text": "Por que uma página pode mostrar dados antigos até atualizar?",
+    "options": [
+      "Pode estar exibindo conteúdo já carregado ou em cache",
+      "O teclado alterou a data",
+      "O monitor armazena toda a internet",
+      "O mouse bloqueia o provedor"
+    ],
+    "correctIndex": 0,
+    "explanation": "Cache e estado da página podem manter versões anteriores do conteúdo."
+  },
+  {
+    "id": "browsers-35",
+    "category": "browsers",
+    "difficult": true,
+    "text": "Qual risco de permitir notificações em sites desconhecidos?",
+    "options": [
+      "Receber avisos indesejados ou enganosos",
+      "O monitor perde pixels",
+      "O SSD muda de tamanho",
+      "Todos os arquivos viram PDF"
+    ],
+    "correctIndex": 0,
+    "explanation": "A permissão autoriza o site a enviar notificações."
+  },
+  {
+    "id": "browsers-36",
+    "category": "browsers",
+    "difficult": true,
+    "text": "Sincronizar o navegador em um computador compartilhado exige qual cuidado?",
+    "options": [
+      "Evitar expor dados pessoais e sair ao terminar",
+      "Salvar a senha de todos",
+      "Deixar a conta aberta para a turma",
+      "Desativar o bloqueio da tela"
+    ],
+    "correctIndex": 0,
+    "explanation": "A sincronização pode trazer histórico, favoritos e outros dados pessoais."
+  },
+  {
+    "id": "browsers-37",
+    "category": "browsers",
+    "difficult": true,
+    "text": "Um site funciona em outro navegador. O que isso sugere verificar?",
+    "options": [
+      "Extensões, cache e configurações do primeiro",
+      "A cor do gabinete",
+      "O tamanho da mesa",
+      "O nível de tinta"
+    ],
+    "correctIndex": 0,
+    "explanation": "Diferenças de configuração podem afetar o funcionamento do site."
+  },
+  {
+    "id": "browsers-38",
+    "category": "browsers",
+    "difficult": true,
+    "text": "Por que atualizar o navegador é relevante para segurança?",
+    "options": [
+      "Atualizações corrigem vulnerabilidades conhecidas",
+      "Impedem qualquer golpe para sempre",
+      "Eliminam a necessidade de cuidado",
+      "Garantem anonimato absoluto"
+    ],
+    "correctIndex": 0,
+    "explanation": "Correções reduzem falhas exploráveis, mas não substituem atenção do usuário."
+  },
+  {
+    "id": "browsers-39",
+    "category": "browsers",
+    "difficult": true,
+    "text": "Qual diferença entre fechar uma aba e sair de uma conta é correta?",
+    "options": [
+      "Fechar pode manter a sessão autenticada",
+      "Fechar sempre remove a conta",
+      "Sair apaga todos os documentos",
+      "São ações obrigatoriamente idênticas"
+    ],
+    "correctIndex": 0,
+    "explanation": "Sessões podem continuar salvas mesmo após fechar a aba."
+  },
+  {
+    "id": "browsers-40",
+    "category": "browsers",
+    "difficult": true,
+    "text": "O cadeado de HTTPS garante que a loja seja honesta?",
+    "options": [
+      "Não, indica proteção da conexão, não honestidade",
+      "Sim, garante qualquer compra",
+      "Sim, elimina fraudes",
+      "Só se o site tiver fotos"
+    ],
+    "correctIndex": 0,
+    "explanation": "HTTPS protege a comunicação, mas sites fraudulentos também podem utilizá-lo."
+  },
+  {
+    "id": "documents-01",
+    "category": "documents",
+    "difficult": false,
+    "text": "Qual aplicativo é apropriado para redigir um texto com parágrafos?",
+    "options": [
+      "Editor de documentos",
+      "Roteador",
+      "Reprodutor de vídeo apenas",
+      "Gerenciador de energia"
+    ],
+    "correctIndex": 0,
+    "explanation": "Editores de documentos oferecem escrita e formatação."
+  },
+  {
+    "id": "documents-02",
+    "category": "documents",
+    "difficult": false,
+    "text": "O que o negrito faz?",
+    "options": [
+      "Destaca visualmente o texto com traço mais espesso",
+      "Corrige todos os erros",
+      "Muda o significado automaticamente",
+      "Apaga o parágrafo"
+    ],
+    "correctIndex": 0,
+    "explanation": "Negrito é um recurso de destaque visual."
+  },
+  {
+    "id": "documents-03",
+    "category": "documents",
+    "difficult": false,
+    "text": "O que o itálico faz?",
+    "options": [
+      "Inclina visualmente as letras",
+      "Duplica a página",
+      "Exclui imagens",
+      "Converte em planilha"
+    ],
+    "correctIndex": 0,
+    "explanation": "Itálico é uma forma de apresentação tipográfica."
+  },
+  {
+    "id": "documents-04",
+    "category": "documents",
+    "difficult": false,
+    "text": "O que o sublinhado acrescenta?",
+    "options": [
+      "Uma linha abaixo do texto",
+      "Uma nova página sempre",
+      "Um comentário invisível",
+      "Um arquivo ZIP"
+    ],
+    "correctIndex": 0,
+    "explanation": "Sublinhado é um recurso de formatação de caracteres."
+  },
+  {
+    "id": "documents-05",
+    "category": "documents",
+    "difficult": false,
+    "text": "O que é a fonte de um texto no editor?",
+    "options": [
+      "O desenho tipográfico das letras",
+      "O cabo de energia",
+      "O remetente de um e-mail sempre",
+      "Uma pasta"
+    ],
+    "correctIndex": 0,
+    "explanation": "A fonte define a aparência dos caracteres."
+  },
+  {
+    "id": "documents-06",
+    "category": "documents",
+    "difficult": false,
+    "text": "O tamanho da fonte altera o quê?",
+    "options": [
+      "O tamanho visual das letras",
+      "O número de teclas",
+      "A velocidade da rede",
+      "O tamanho físico do papel sempre"
+    ],
+    "correctIndex": 0,
+    "explanation": "O tamanho tipográfico controla a dimensão do texto."
+  },
+  {
+    "id": "documents-07",
+    "category": "documents",
+    "difficult": false,
+    "text": "Qual alinhamento deixa as linhas junto da margem esquerda?",
+    "options": [
+      "À esquerda",
+      "Centralizado",
+      "À direita",
+      "Sem margens"
+    ],
+    "correctIndex": 0,
+    "explanation": "O alinhamento à esquerda mantém o início das linhas nessa margem."
+  },
+  {
+    "id": "documents-08",
+    "category": "documents",
+    "difficult": false,
+    "text": "Qual alinhamento posiciona um título no centro?",
+    "options": [
+      "Centralizado",
+      "À esquerda",
+      "À direita",
+      "Recuo negativo"
+    ],
+    "correctIndex": 0,
+    "explanation": "Centralizar posiciona o texto entre as margens."
+  },
+  {
+    "id": "documents-09",
+    "category": "documents",
+    "difficult": false,
+    "text": "O que é um parágrafo?",
+    "options": [
+      "Bloco de texto separado por uma marca de parágrafo",
+      "Uma imagem obrigatória",
+      "Uma extensão",
+      "Um cabo"
+    ],
+    "correctIndex": 0,
+    "explanation": "Parágrafos organizam ideias no documento."
+  },
+  {
+    "id": "documents-10",
+    "category": "documents",
+    "difficult": false,
+    "text": "Qual tecla normalmente inicia um novo parágrafo?",
+    "options": [
+      "Enter",
+      "Shift sozinho",
+      "Ctrl sozinho",
+      "Caps Lock"
+    ],
+    "correctIndex": 0,
+    "explanation": "Enter insere uma quebra de parágrafo em editores comuns."
+  },
+  {
+    "id": "documents-11",
+    "category": "documents",
+    "difficult": false,
+    "text": "Para que servem marcadores em uma lista?",
+    "options": [
+      "Organizar itens sem numeração sequencial obrigatória",
+      "Criar senhas",
+      "Imprimir todas as páginas",
+      "Trocar a fonte do sistema"
+    ],
+    "correctIndex": 0,
+    "explanation": "Marcadores facilitam a leitura de itens paralelos."
+  },
+  {
+    "id": "documents-12",
+    "category": "documents",
+    "difficult": false,
+    "text": "Quando uma lista numerada é especialmente útil?",
+    "options": [
+      "Para etapas em sequência",
+      "Para apagar texto",
+      "Para aumentar o volume",
+      "Para reduzir a tela"
+    ],
+    "correctIndex": 0,
+    "explanation": "Números evidenciam ordem e sequência."
+  },
+  {
+    "id": "documents-13",
+    "category": "documents",
+    "difficult": false,
+    "text": "O que são margens de uma página?",
+    "options": [
+      "Espaços entre o conteúdo e as bordas",
+      "Senhas do documento",
+      "Nomes das imagens",
+      "Atalhos do sistema"
+    ],
+    "correctIndex": 0,
+    "explanation": "Margens delimitam a área útil do conteúdo."
+  },
+  {
+    "id": "documents-14",
+    "category": "documents",
+    "difficult": false,
+    "text": "O que fica normalmente no cabeçalho?",
+    "options": [
+      "Conteúdo no topo das páginas",
+      "Somente arquivos excluídos",
+      "Fórmulas da placa-mãe",
+      "A senha do Wi-Fi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Cabeçalhos podem repetir informações no alto das páginas."
+  },
+  {
+    "id": "documents-15",
+    "category": "documents",
+    "difficult": false,
+    "text": "O que fica normalmente no rodapé?",
+    "options": [
+      "Conteúdo na parte inferior das páginas",
+      "Um novo navegador",
+      "O título da janela sempre",
+      "A lista de downloads"
+    ],
+    "correctIndex": 0,
+    "explanation": "Rodapés podem conter números de página e outras informações."
+  },
+  {
+    "id": "documents-16",
+    "category": "documents",
+    "difficult": false,
+    "text": "Qual recurso insere números de página automaticamente?",
+    "options": [
+      "Numeração de páginas",
+      "Aumentar zoom",
+      "Negrito",
+      "Contar letras manualmente"
+    ],
+    "correctIndex": 0,
+    "explanation": "A numeração automática acompanha a estrutura do documento."
+  },
+  {
+    "id": "documents-17",
+    "category": "documents",
+    "difficult": false,
+    "text": "Qual recurso ajuda a detectar erros de escrita?",
+    "options": [
+      "Verificação ortográfica",
+      "Volume do sistema",
+      "Gerenciador de rede",
+      "Modo avião"
+    ],
+    "correctIndex": 0,
+    "explanation": "O corretor sugere revisão de grafias conforme o idioma."
+  },
+  {
+    "id": "documents-18",
+    "category": "documents",
+    "difficult": false,
+    "text": "Uma palavra sublinhada pelo corretor está sempre errada?",
+    "options": [
+      "Não",
+      "Sim, sempre",
+      "Só se estiver em negrito",
+      "Só se for curta"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nomes próprios e termos não reconhecidos também podem ser sinalizados."
+  },
+  {
+    "id": "documents-19",
+    "category": "documents",
+    "difficult": false,
+    "text": "Antes de imprimir, qual recurso ajuda a conferir o resultado?",
+    "options": [
+      "Visualização de impressão",
+      "Lixeira",
+      "Gerenciador de áudio",
+      "Lista de redes"
+    ],
+    "correctIndex": 0,
+    "explanation": "A prévia mostra como o conteúdo ocupará as páginas."
+  },
+  {
+    "id": "documents-20",
+    "category": "documents",
+    "difficult": false,
+    "text": "Para inserir uma fotografia em um documento, qual comando usar?",
+    "options": [
+      "Inserir imagem",
+      "Inserir placa de rede",
+      "Limpar histórico",
+      "Mudar senha"
+    ],
+    "correctIndex": 0,
+    "explanation": "A inserção de imagem adiciona conteúdo visual ao documento."
+  },
+  {
+    "id": "documents-21",
+    "category": "documents",
+    "difficult": false,
+    "text": "Qual prática evita distorcer uma foto ao redimensionar?",
+    "options": [
+      "Manter a proporção",
+      "Esticar apenas a largura sem cuidado",
+      "Apagar metade da foto",
+      "Mudar a extensão"
+    ],
+    "correctIndex": 0,
+    "explanation": "Proporções preservam a relação entre altura e largura."
+  },
+  {
+    "id": "documents-22",
+    "category": "documents",
+    "difficult": false,
+    "text": "Para organizar dados em linhas e colunas dentro do texto, use o quê?",
+    "options": [
+      "Tabela",
+      "Áudio",
+      "Atalho do desktop",
+      "Senha"
+    ],
+    "correctIndex": 0,
+    "explanation": "Tabelas estruturam informações relacionadas."
+  },
+  {
+    "id": "documents-23",
+    "category": "documents",
+    "difficult": false,
+    "text": "O que o recurso Localizar faz no documento?",
+    "options": [
+      "Procura ocorrências de um texto",
+      "Envia o arquivo à internet",
+      "Desinstala a fonte",
+      "Troca o teclado"
+    ],
+    "correctIndex": 0,
+    "explanation": "Localizar encontra palavras ou trechos."
+  },
+  {
+    "id": "documents-24",
+    "category": "documents",
+    "difficult": false,
+    "text": "O que o recurso Substituir permite?",
+    "options": [
+      "Trocar ocorrências de texto por outro",
+      "Comprar outro monitor",
+      "Trocar o aplicativo por hardware",
+      "Apenas imprimir"
+    ],
+    "correctIndex": 0,
+    "explanation": "Substituir automatiza a alteração de trechos encontrados."
+  },
+  {
+    "id": "documents-25",
+    "category": "documents",
+    "difficult": false,
+    "text": "Qual formato costuma preservar o layout ao distribuir um relatório?",
+    "options": [
+      "PDF",
+      "MP3",
+      "EXE",
+      "WAV"
+    ],
+    "correctIndex": 0,
+    "explanation": "PDF é adequado para distribuição com apresentação estável."
+  },
+  {
+    "id": "documents-26",
+    "category": "documents",
+    "difficult": false,
+    "text": "Qual cuidado tomar antes de exportar a versão final?",
+    "options": [
+      "Revisar conteúdo e formatação",
+      "Apagar todos os títulos",
+      "Trocar a senha do roteador",
+      "Desconectar a tela"
+    ],
+    "correctIndex": 0,
+    "explanation": "Revisão reduz erros que iriam para a versão distribuída."
+  },
+  {
+    "id": "documents-27",
+    "category": "documents",
+    "difficult": false,
+    "text": "O que é espaçamento entre linhas?",
+    "options": [
+      "Distância vertical entre linhas de texto",
+      "Largura do cabo",
+      "Quantidade de abas",
+      "Tamanho do disco"
+    ],
+    "correctIndex": 0,
+    "explanation": "O espaçamento influencia a leitura e a ocupação da página."
+  },
+  {
+    "id": "documents-28",
+    "category": "documents",
+    "difficult": false,
+    "text": "Qual recurso adiciona uma observação sem alterar diretamente o texto principal?",
+    "options": [
+      "Comentário",
+      "Esvaziar Lixeira",
+      "Renomear extensão",
+      "Desligar"
+    ],
+    "correctIndex": 0,
+    "explanation": "Comentários permitem revisão e discussão do conteúdo."
+  },
+  {
+    "id": "documents-29",
+    "category": "documents",
+    "difficult": false,
+    "text": "Por que usar títulos descritivos em um relatório?",
+    "options": [
+      "Facilitar a organização e a leitura",
+      "Garantir nota máxima",
+      "Aumentar a RAM",
+      "Impedir a edição"
+    ],
+    "correctIndex": 0,
+    "explanation": "Títulos orientam o leitor sobre o assunto de cada parte."
+  },
+  {
+    "id": "documents-30",
+    "category": "documents",
+    "difficult": false,
+    "text": "O que é orientação paisagem da página?",
+    "options": [
+      "Página mais larga do que alta",
+      "Página obrigatoriamente verde",
+      "Página sem texto",
+      "Página sempre quadrada"
+    ],
+    "correctIndex": 0,
+    "explanation": "Paisagem usa a dimensão maior na horizontal."
+  },
+  {
+    "id": "documents-31",
+    "category": "documents",
+    "difficult": true,
+    "text": "Qual vantagem dos estilos de título em relação a formatar cada título manualmente?",
+    "options": [
+      "Mantêm consistência e permitem recursos estruturais",
+      "Apagam erros automaticamente",
+      "Impedem salvar em PDF",
+      "Transformam títulos em imagens"
+    ],
+    "correctIndex": 0,
+    "explanation": "Estilos vinculam aparência e estrutura, ajudando também em sumários."
+  },
+  {
+    "id": "documents-32",
+    "category": "documents",
+    "difficult": true,
+    "text": "Por que usar quebra de página em vez de muitos Enter para iniciar outra página?",
+    "options": [
+      "A estrutura resiste melhor a edições anteriores",
+      "O arquivo deixa de precisar de fonte",
+      "A impressão fica gratuita",
+      "A internet acelera"
+    ],
+    "correctIndex": 0,
+    "explanation": "Uma quebra expressa a intenção de começar outra página."
+  },
+  {
+    "id": "documents-33",
+    "category": "documents",
+    "difficult": true,
+    "text": "Qual recurso acompanha sugestões de edição de várias pessoas?",
+    "options": [
+      "Controle de alterações",
+      "Somente zoom",
+      "Plano de fundo do sistema",
+      "Modo avião"
+    ],
+    "correctIndex": 0,
+    "explanation": "O controle de alterações registra inserções e exclusões para revisão."
+  },
+  {
+    "id": "documents-34",
+    "category": "documents",
+    "difficult": true,
+    "text": "Aceitar todas as alterações sem ler é uma boa revisão?",
+    "options": [
+      "Não",
+      "Sim, sempre",
+      "Só em documentos longos",
+      "Só se a fonte for grande"
+    ],
+    "correctIndex": 0,
+    "explanation": "É necessário avaliar as mudanças antes de incorporá-las."
+  },
+  {
+    "id": "documents-35",
+    "category": "documents",
+    "difficult": true,
+    "text": "Um sumário automático costuma depender de quê?",
+    "options": [
+      "Estrutura de títulos e estilos",
+      "Cor do mouse",
+      "Quantidade de abas do navegador",
+      "Volume do áudio"
+    ],
+    "correctIndex": 0,
+    "explanation": "Títulos estruturados permitem gerar e atualizar entradas do sumário."
+  },
+  {
+    "id": "documents-36",
+    "category": "documents",
+    "difficult": true,
+    "text": "Qual diferença entre recuo e margem é correta?",
+    "options": [
+      "Recuo ajusta parágrafo; margem define limites da página",
+      "São sempre idênticos",
+      "Margem muda apenas a cor",
+      "Recuo apaga palavras"
+    ],
+    "correctIndex": 0,
+    "explanation": "São controles de posicionamento em níveis diferentes."
+  },
+  {
+    "id": "documents-37",
+    "category": "documents",
+    "difficult": true,
+    "text": "Por que acrescentar texto alternativo a imagens informativas?",
+    "options": [
+      "Ajudar quem usa leitor de tela",
+      "Aumentar o peso sem finalidade",
+      "Esconder o autor",
+      "Impedir impressão"
+    ],
+    "correctIndex": 0,
+    "explanation": "Texto alternativo comunica a função ou conteúdo relevante da imagem."
+  },
+  {
+    "id": "documents-38",
+    "category": "documents",
+    "difficult": true,
+    "text": "Qual cuidado com Substituir tudo?",
+    "options": [
+      "Conferir se todas as ocorrências devem mudar",
+      "Nunca salvar depois",
+      "Apagar o arquivo original antes",
+      "Ignorar partes de palavras"
+    ],
+    "correctIndex": 0,
+    "explanation": "Uma substituição ampla pode afetar trechos não desejados."
+  },
+  {
+    "id": "documents-39",
+    "category": "documents",
+    "difficult": true,
+    "text": "Qual é a diferença entre zoom e tamanho da fonte?",
+    "options": [
+      "Zoom muda a visualização; fonte muda o conteúdo formatado",
+      "Ambos sempre alteram impressão igualmente",
+      "Zoom troca o idioma",
+      "Fonte muda só o monitor"
+    ],
+    "correctIndex": 0,
+    "explanation": "O zoom não redefine o tamanho tipográfico salvo no documento."
+  },
+  {
+    "id": "documents-40",
+    "category": "documents",
+    "difficult": true,
+    "text": "Qual prática melhora a acessibilidade de um relatório?",
+    "options": [
+      "Usar estrutura de títulos e bom contraste",
+      "Criar tudo como imagem sem descrição",
+      "Usar somente cor para distinguir instruções",
+      "Escolher texto minúsculo"
+    ],
+    "correctIndex": 0,
+    "explanation": "Estrutura e legibilidade ajudam diferentes modos de leitura."
+  },
+  {
+    "id": "extensions-01",
+    "category": "extensions",
+    "difficult": false,
+    "text": "Qual extensão costuma identificar um documento PDF?",
+    "options": [
+      ".pdf",
+      ".mp3",
+      ".jpg",
+      ".exe"
+    ],
+    "correctIndex": 0,
+    "explanation": "PDF é um formato comum para distribuição de documentos."
+  },
+  {
+    "id": "extensions-02",
+    "category": "extensions",
+    "difficult": false,
+    "text": "Qual extensão costuma identificar áudio comprimido?",
+    "options": [
+      ".mp3",
+      ".xlsx",
+      ".docx",
+      ".png"
+    ],
+    "correctIndex": 0,
+    "explanation": "MP3 armazena áudio com compressão."
+  },
+  {
+    "id": "extensions-03",
+    "category": "extensions",
+    "difficult": false,
+    "text": "Qual extensão é comum em fotografias?",
+    "options": [
+      ".jpg",
+      ".exe",
+      ".txt",
+      ".pptx"
+    ],
+    "correctIndex": 0,
+    "explanation": "JPEG é muito usado para fotografias digitais."
+  },
+  {
+    "id": "extensions-04",
+    "category": "extensions",
+    "difficult": false,
+    "text": "Qual extensão pode identificar uma imagem com transparência?",
+    "options": [
+      ".png",
+      ".mp3",
+      ".txt",
+      ".wav"
+    ],
+    "correctIndex": 0,
+    "explanation": "PNG suporta um canal de transparência."
+  },
+  {
+    "id": "extensions-05",
+    "category": "extensions",
+    "difficult": false,
+    "text": "Qual extensão identifica normalmente texto simples?",
+    "options": [
+      ".txt",
+      ".mp4",
+      ".zip",
+      ".jpg"
+    ],
+    "correctIndex": 0,
+    "explanation": "TXT armazena texto sem recursos complexos de formatação."
+  },
+  {
+    "id": "extensions-06",
+    "category": "extensions",
+    "difficult": false,
+    "text": "Qual extensão é comum em planilhas do Excel?",
+    "options": [
+      ".xlsx",
+      ".pptx",
+      ".mp3",
+      ".png"
+    ],
+    "correctIndex": 0,
+    "explanation": "XLSX é um formato de pasta de trabalho do Excel."
+  },
+  {
+    "id": "extensions-07",
+    "category": "extensions",
+    "difficult": false,
+    "text": "Qual extensão é comum em documentos do Word?",
+    "options": [
+      ".docx",
+      ".xlsx",
+      ".mp4",
+      ".wav"
+    ],
+    "correctIndex": 0,
+    "explanation": "DOCX é um formato de documento de texto do Word."
+  },
+  {
+    "id": "extensions-08",
+    "category": "extensions",
+    "difficult": false,
+    "text": "Qual extensão é comum em apresentações do PowerPoint?",
+    "options": [
+      ".pptx",
+      ".docx",
+      ".jpg",
+      ".mp3"
+    ],
+    "correctIndex": 0,
+    "explanation": "PPTX armazena apresentações de slides."
+  },
+  {
+    "id": "extensions-09",
+    "category": "extensions",
+    "difficult": false,
+    "text": "Qual extensão indica um arquivo compactado comum?",
+    "options": [
+      ".zip",
+      ".png",
+      ".mp3",
+      ".txt"
+    ],
+    "correctIndex": 0,
+    "explanation": "ZIP pode reunir e comprimir vários arquivos."
+  },
+  {
+    "id": "extensions-10",
+    "category": "extensions",
+    "difficult": false,
+    "text": "Qual extensão costuma indicar vídeo?",
+    "options": [
+      ".mp4",
+      ".xlsx",
+      ".docx",
+      ".txt"
+    ],
+    "correctIndex": 0,
+    "explanation": "MP4 é um contêiner muito usado para vídeo e áudio."
+  },
+  {
+    "id": "extensions-11",
+    "category": "extensions",
+    "difficult": false,
+    "text": "Qual extensão pode ser de um executável do Windows?",
+    "options": [
+      ".exe",
+      ".jpg",
+      ".png",
+      ".pdf"
+    ],
+    "correctIndex": 0,
+    "explanation": "Arquivos EXE podem executar programas no Windows."
+  },
+  {
+    "id": "extensions-12",
+    "category": "extensions",
+    "difficult": false,
+    "text": "Qual extensão é usada em páginas HTML?",
+    "options": [
+      ".html",
+      ".mp3",
+      ".jpg",
+      ".xlsx"
+    ],
+    "correctIndex": 0,
+    "explanation": "HTML descreve a estrutura de páginas web."
+  },
+  {
+    "id": "extensions-13",
+    "category": "extensions",
+    "difficult": false,
+    "text": "Qual extensão é comum para folhas de estilo web?",
+    "options": [
+      ".css",
+      ".mp4",
+      ".wav",
+      ".zip"
+    ],
+    "correctIndex": 0,
+    "explanation": "CSS define a apresentação visual de páginas."
+  },
+  {
+    "id": "extensions-14",
+    "category": "extensions",
+    "difficult": false,
+    "text": "Qual extensão é comum para código JavaScript?",
+    "options": [
+      ".js",
+      ".jpg",
+      ".pptx",
+      ".mp3"
+    ],
+    "correctIndex": 0,
+    "explanation": "JavaScript usa frequentemente arquivos com extensão JS."
+  },
+  {
+    "id": "extensions-15",
+    "category": "extensions",
+    "difficult": false,
+    "text": "Qual extensão pertence a uma planilha OpenDocument?",
+    "options": [
+      ".ods",
+      ".odt",
+      ".odp",
+      ".mp4"
+    ],
+    "correctIndex": 0,
+    "explanation": "ODS é o formato OpenDocument para planilhas."
+  },
+  {
+    "id": "extensions-16",
+    "category": "extensions",
+    "difficult": false,
+    "text": "Qual extensão pertence a um texto OpenDocument?",
+    "options": [
+      ".odt",
+      ".ods",
+      ".odp",
+      ".wav"
+    ],
+    "correctIndex": 0,
+    "explanation": "ODT é o formato OpenDocument para documentos de texto."
+  },
+  {
+    "id": "extensions-17",
+    "category": "extensions",
+    "difficult": false,
+    "text": "Qual extensão pertence a uma apresentação OpenDocument?",
+    "options": [
+      ".odp",
+      ".odt",
+      ".ods",
+      ".png"
+    ],
+    "correctIndex": 0,
+    "explanation": "ODP é o formato OpenDocument para apresentações."
+  },
+  {
+    "id": "extensions-18",
+    "category": "extensions",
+    "difficult": false,
+    "text": "Qual extensão pode identificar áudio WAV?",
+    "options": [
+      ".wav",
+      ".pdf",
+      ".css",
+      ".xlsx"
+    ],
+    "correctIndex": 0,
+    "explanation": "WAV é um contêiner de áudio frequentemente sem compressão."
+  },
+  {
+    "id": "extensions-19",
+    "category": "extensions",
+    "difficult": false,
+    "text": "Qual extensão é associada a uma imagem vetorial?",
+    "options": [
+      ".svg",
+      ".mp3",
+      ".exe",
+      ".txt"
+    ],
+    "correctIndex": 0,
+    "explanation": "SVG representa formas vetoriais escaláveis."
+  },
+  {
+    "id": "extensions-20",
+    "category": "extensions",
+    "difficult": false,
+    "text": "Qual extensão pode armazenar uma animação simples de imagem?",
+    "options": [
+      ".gif",
+      ".txt",
+      ".xlsx",
+      ".docx"
+    ],
+    "correctIndex": 0,
+    "explanation": "GIF suporta sequências de quadros."
+  },
+  {
+    "id": "extensions-21",
+    "category": "extensions",
+    "difficult": false,
+    "text": "Onde normalmente aparece a extensão no nome de um arquivo?",
+    "options": [
+      "Após o último ponto",
+      "Antes da primeira pasta sempre",
+      "Dentro do volume",
+      "Na barra de energia"
+    ],
+    "correctIndex": 0,
+    "explanation": "A extensão costuma estar no fim do nome após um ponto."
+  },
+  {
+    "id": "extensions-22",
+    "category": "extensions",
+    "difficult": false,
+    "text": "No nome trabalho.final.pdf, qual é a extensão?",
+    "options": [
+      "pdf",
+      "final",
+      "trabalho",
+      "final.pdf como uma única extensão simples"
+    ],
+    "correctIndex": 0,
+    "explanation": "A última parte após o ponto identifica a extensão comum."
+  },
+  {
+    "id": "extensions-23",
+    "category": "extensions",
+    "difficult": false,
+    "text": "Um arquivo musica.mp3 é mais provável de abrir em qual aplicativo?",
+    "options": [
+      "Reprodutor de áudio",
+      "Editor de slides apenas",
+      "Gerenciador de impressão apenas",
+      "Calculadora"
+    ],
+    "correctIndex": 0,
+    "explanation": "A extensão indica um formato de áudio."
+  },
+  {
+    "id": "extensions-24",
+    "category": "extensions",
+    "difficult": false,
+    "text": "Um arquivo foto.png deve ser aberto normalmente com o quê?",
+    "options": [
+      "Visualizador de imagens",
+      "Driver de rede",
+      "Antivírus como editor",
+      "Calculadora"
+    ],
+    "correctIndex": 0,
+    "explanation": "PNG é um formato de imagem."
+  },
+  {
+    "id": "extensions-25",
+    "category": "extensions",
+    "difficult": false,
+    "text": "Um arquivo notas.xlsx está relacionado a quê?",
+    "options": [
+      "Planilhas",
+      "Somente música",
+      "Somente filmes",
+      "Drivers de teclado"
+    ],
+    "correctIndex": 0,
+    "explanation": "XLSX normalmente contém tabelas e fórmulas."
+  },
+  {
+    "id": "extensions-26",
+    "category": "extensions",
+    "difficult": false,
+    "text": "Mudar .txt para .pdf basta para criar um PDF válido?",
+    "options": [
+      "Não",
+      "Sim, sempre",
+      "Só se o nome for curto",
+      "Só se estiver na área de trabalho"
+    ],
+    "correctIndex": 0,
+    "explanation": "É preciso exportar ou converter o conteúdo para o formato PDF."
+  },
+  {
+    "id": "extensions-27",
+    "category": "extensions",
+    "difficult": false,
+    "text": "Qual nome exige cuidado por poder disfarçar um executável?",
+    "options": [
+      "foto.jpg.exe",
+      "foto.jpg",
+      "aula.txt",
+      "relatorio.pdf"
+    ],
+    "correctIndex": 0,
+    "explanation": "A extensão final EXE indica um possível programa executável."
+  },
+  {
+    "id": "extensions-28",
+    "category": "extensions",
+    "difficult": false,
+    "text": "Qual opção ajuda a conferir o tipo real declarado no nome?",
+    "options": [
+      "Mostrar extensões de arquivos",
+      "Esconder todos os ícones",
+      "Diminuir o volume",
+      "Trocar o fundo"
+    ],
+    "correctIndex": 0,
+    "explanation": "Extensões visíveis tornam o nome completo mais claro."
+  },
+  {
+    "id": "extensions-29",
+    "category": "extensions",
+    "difficult": false,
+    "text": "O ícone de um arquivo pode variar conforme o aplicativo padrão?",
+    "options": [
+      "Sim",
+      "Não, nunca",
+      "Só se o arquivo estiver vazio",
+      "Só em pastas"
+    ],
+    "correctIndex": 0,
+    "explanation": "A associação de aplicativo pode determinar o ícone exibido."
+  },
+  {
+    "id": "extensions-30",
+    "category": "extensions",
+    "difficult": false,
+    "text": "Qual extensão é comum em arquivos de dados tabulares de texto?",
+    "options": [
+      ".csv",
+      ".mp3",
+      ".png",
+      ".exe"
+    ],
+    "correctIndex": 0,
+    "explanation": "CSV organiza valores em linhas e separadores."
+  },
+  {
+    "id": "extensions-31",
+    "category": "extensions",
+    "difficult": true,
+    "text": "Um CSV preserva normalmente todas as cores e fórmulas de uma planilha?",
+    "options": [
+      "Não, é um formato simples de valores em texto",
+      "Sim, todas as formatações",
+      "Sim, incluindo animações",
+      "Apenas cores, nunca valores"
+    ],
+    "correctIndex": 0,
+    "explanation": "CSV não preserva os recursos completos de uma pasta de trabalho."
+  },
+  {
+    "id": "extensions-32",
+    "category": "extensions",
+    "difficult": true,
+    "text": "Por que uma imagem SVG pode ampliar sem pixelar suas formas vetoriais?",
+    "options": [
+      "Porque descreve formas matematicamente",
+      "Porque sempre tem mais bytes",
+      "Porque é executável Windows",
+      "Porque não contém dados"
+    ],
+    "correctIndex": 0,
+    "explanation": "Vetores podem ser redesenhados em diferentes tamanhos."
+  },
+  {
+    "id": "extensions-33",
+    "category": "extensions",
+    "difficult": true,
+    "text": "Um MP4 garante que qualquer reprodutor decodifique o vídeo?",
+    "options": [
+      "Não, também depende do codec usado",
+      "Sim, em todo dispositivo",
+      "Só se renomeado para TXT",
+      "Sim, mesmo sem aplicativo"
+    ],
+    "correctIndex": 0,
+    "explanation": "O contêiner pode usar codecs não suportados pelo reprodutor."
+  },
+  {
+    "id": "extensions-34",
+    "category": "extensions",
+    "difficult": true,
+    "text": "Qual diferença comum entre JPEG e PNG é correta?",
+    "options": [
+      "JPEG costuma ser com perdas; PNG preserva pixels sem perdas",
+      "PNG é sempre áudio",
+      "JPEG sempre tem transparência alfa",
+      "PNG é um programa executável"
+    ],
+    "correctIndex": 0,
+    "explanation": "A compressão JPEG pode descartar detalhes; PNG preserva a imagem codificada."
+  },
+  {
+    "id": "extensions-35",
+    "category": "extensions",
+    "difficult": true,
+    "text": "O que fazer ao receber um executável inesperado disfarçado de trabalho?",
+    "options": [
+      "Confirmar a origem sem executá-lo",
+      "Abrir imediatamente",
+      "Renomear e confiar",
+      "Desativar o antivírus"
+    ],
+    "correctIndex": 0,
+    "explanation": "Arquivos inesperados exigem verificar a procedência."
+  },
+  {
+    "id": "extensions-36",
+    "category": "extensions",
+    "difficult": true,
+    "text": "O que uma extensão informa com maior precisão?",
+    "options": [
+      "Uma indicação do formato esperado",
+      "Uma garantia de segurança",
+      "A identidade verdadeira do autor",
+      "O preço do arquivo"
+    ],
+    "correctIndex": 0,
+    "explanation": "Extensões podem ser alteradas e não autenticam conteúdo."
+  },
+  {
+    "id": "extensions-37",
+    "category": "extensions",
+    "difficult": true,
+    "text": "Ao extrair um ZIP, o que normalmente é obtido?",
+    "options": [
+      "Os arquivos e pastas contidos nele",
+      "Somente um novo cabo",
+      "Um programa obrigatoriamente instalado",
+      "A senha de todos os arquivos"
+    ],
+    "correctIndex": 0,
+    "explanation": "Extrair recupera os itens do arquivo compactado."
+  },
+  {
+    "id": "extensions-38",
+    "category": "extensions",
+    "difficult": true,
+    "text": "Um DOCX e um PDF têm exatamente a mesma finalidade principal?",
+    "options": [
+      "Não, DOCX facilita edição e PDF distribuição com layout estável",
+      "Sim, são nomes idênticos",
+      "DOCX é somente áudio",
+      "PDF é sempre editável como DOCX"
+    ],
+    "correctIndex": 0,
+    "explanation": "Os formatos atendem fluxos diferentes, embora ambos possam conter texto."
+  },
+  {
+    "id": "extensions-39",
+    "category": "extensions",
+    "difficult": true,
+    "text": "Um arquivo sem extensão é necessariamente vazio?",
+    "options": [
+      "Não",
+      "Sim",
+      "Só em pendrive",
+      "Só em SSD"
+    ],
+    "correctIndex": 0,
+    "explanation": "A ausência de extensão não determina se existe conteúdo."
+  },
+  {
+    "id": "extensions-40",
+    "category": "extensions",
+    "difficult": true,
+    "text": "Por que verificar a compatibilidade antes de enviar uma apresentação?",
+    "options": [
+      "O destinatário pode não conseguir abrir o formato",
+      "Extensões definem velocidade da internet",
+      "Todo formato abre em toda máquina",
+      "A extensão mede o tamanho da turma"
+    ],
+    "correctIndex": 0,
+    "explanation": "Aplicativos e versões podem ter suporte diferente aos formatos."
+  },
+  {
+    "id": "files-01",
+    "category": "files",
+    "difficult": false,
+    "text": "Para que serve uma pasta?",
+    "options": [
+      "Organizar arquivos e subpastas",
+      "Aumentar a potência da tomada",
+      "Substituir a RAM",
+      "Transmitir áudio"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pastas agrupam conteúdos para facilitar sua localização."
+  },
+  {
+    "id": "files-02",
+    "category": "files",
+    "difficult": false,
+    "text": "Qual pasta normalmente recebe arquivos baixados pelo navegador?",
+    "options": [
+      "Downloads",
+      "Ventilação",
+      "Processadores",
+      "Cabos"
+    ],
+    "correctIndex": 0,
+    "explanation": "Downloads costuma ser o destino padrão dos downloads."
+  },
+  {
+    "id": "files-03",
+    "category": "files",
+    "difficult": false,
+    "text": "O que acontece ao copiar um arquivo para outra pasta?",
+    "options": [
+      "Uma cópia é criada no destino",
+      "O original sempre some",
+      "O computador desliga",
+      "A extensão necessariamente muda"
+    ],
+    "correctIndex": 0,
+    "explanation": "Copiar preserva o original e cria outra ocorrência."
+  },
+  {
+    "id": "files-04",
+    "category": "files",
+    "difficult": false,
+    "text": "O que acontece ao mover um arquivo para outra pasta?",
+    "options": [
+      "Ele muda de local",
+      "Ele sempre vira imagem",
+      "É duplicado obrigatoriamente",
+      "Perde o nome sempre"
+    ],
+    "correctIndex": 0,
+    "explanation": "Mover transfere o arquivo de um local para outro."
+  },
+  {
+    "id": "files-05",
+    "category": "files",
+    "difficult": false,
+    "text": "Qual sequência costuma mover um arquivo?",
+    "options": [
+      "Recortar e colar",
+      "Copiar e aumentar zoom",
+      "Imprimir e fechar",
+      "Renomear e minimizar"
+    ],
+    "correctIndex": 0,
+    "explanation": "Recortar seguido de colar transfere o item selecionado."
+  },
+  {
+    "id": "files-06",
+    "category": "files",
+    "difficult": false,
+    "text": "O que significa renomear?",
+    "options": [
+      "Alterar o nome de um item",
+      "Mudar o brilho",
+      "Desinstalar o sistema",
+      "Compactar obrigatoriamente"
+    ],
+    "correctIndex": 0,
+    "explanation": "Renomear ajuda a identificar arquivos e pastas."
+  },
+  {
+    "id": "files-07",
+    "category": "files",
+    "difficult": false,
+    "text": "Qual nome ajuda mais a identificar um trabalho?",
+    "options": [
+      "Relatorio_Ciencias_TurmaA.docx",
+      "aaaa.docx",
+      "novo_final_qualquer.docx",
+      "semnome999.docx"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nomes descritivos facilitam a busca e a organização."
+  },
+  {
+    "id": "files-08",
+    "category": "files",
+    "difficult": false,
+    "text": "Qual recurso localiza arquivos pelo nome?",
+    "options": [
+      "Pesquisa do gerenciador de arquivos",
+      "Controle de volume",
+      "Configuração de brilho",
+      "Relógio"
+    ],
+    "correctIndex": 0,
+    "explanation": "A pesquisa ajuda a encontrar itens sem abrir cada pasta."
+  },
+  {
+    "id": "files-09",
+    "category": "files",
+    "difficult": false,
+    "text": "A Lixeira do sistema normalmente permite o quê?",
+    "options": [
+      "Restaurar itens excluídos que ainda estão nela",
+      "Aumentar a RAM",
+      "Recuperar qualquer arquivo de qualquer época",
+      "Reinstalar todos os programas"
+    ],
+    "correctIndex": 0,
+    "explanation": "Itens ainda presentes na Lixeira podem ser restaurados."
+  },
+  {
+    "id": "files-10",
+    "category": "files",
+    "difficult": false,
+    "text": "O que significa esvaziar a Lixeira?",
+    "options": [
+      "Excluir definitivamente os itens que ela contém",
+      "Mover tudo para Documentos",
+      "Criar cópias de segurança",
+      "Renomear arquivos"
+    ],
+    "correctIndex": 0,
+    "explanation": "Esvaziar remove os itens do fluxo normal de restauração da Lixeira."
+  },
+  {
+    "id": "files-11",
+    "category": "files",
+    "difficult": false,
+    "text": "Qual ação recupera um arquivo ainda presente na Lixeira?",
+    "options": [
+      "Restaurar",
+      "Compactar",
+      "Fixar na barra",
+      "Maximizar"
+    ],
+    "correctIndex": 0,
+    "explanation": "Restaurar devolve o arquivo ao local de origem quando disponível."
+  },
+  {
+    "id": "files-12",
+    "category": "files",
+    "difficult": false,
+    "text": "O que é um atalho para uma pasta?",
+    "options": [
+      "Uma referência que abre a pasta",
+      "Uma cópia completa de todos os arquivos",
+      "Uma nova unidade física",
+      "Uma senha"
+    ],
+    "correctIndex": 0,
+    "explanation": "O atalho aponta para o destino original."
+  },
+  {
+    "id": "files-13",
+    "category": "files",
+    "difficult": false,
+    "text": "Excluir um atalho normalmente exclui a pasta original?",
+    "options": [
+      "Não",
+      "Sim, sempre",
+      "Só se a pasta tiver fotos",
+      "Só às sextas-feiras"
+    ],
+    "correctIndex": 0,
+    "explanation": "A remoção do atalho normalmente remove apenas a referência."
+  },
+  {
+    "id": "files-14",
+    "category": "files",
+    "difficult": false,
+    "text": "Qual local é adequado para organizar relatórios escolares?",
+    "options": [
+      "Uma pasta descritiva em Documentos",
+      "Uma pasta do sistema operacional",
+      "Dentro de um driver",
+      "Apenas na Lixeira"
+    ],
+    "correctIndex": 0,
+    "explanation": "Uma estrutura descritiva facilita encontrar e preservar o trabalho."
+  },
+  {
+    "id": "files-15",
+    "category": "files",
+    "difficult": false,
+    "text": "O que é uma subpasta?",
+    "options": [
+      "Pasta dentro de outra pasta",
+      "Arquivo de áudio",
+      "Uma memória externa",
+      "Uma tecla"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pastas podem formar uma estrutura hierárquica."
+  },
+  {
+    "id": "files-16",
+    "category": "files",
+    "difficult": false,
+    "text": "Qual comando cria uma pasta no gerenciador de arquivos?",
+    "options": [
+      "Nova pasta",
+      "Novo processador",
+      "Reiniciar rede",
+      "Esvaziar tudo"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nova pasta cria um contêiner para organizar itens."
+  },
+  {
+    "id": "files-17",
+    "category": "files",
+    "difficult": false,
+    "text": "Para conferir onde um arquivo está, o que observar?",
+    "options": [
+      "Caminho da pasta",
+      "Volume do áudio",
+      "Cor do mouse",
+      "Hora do recreio"
+    ],
+    "correctIndex": 0,
+    "explanation": "O caminho mostra a sequência de locais até o arquivo."
+  },
+  {
+    "id": "files-18",
+    "category": "files",
+    "difficult": false,
+    "text": "Como selecionar vários arquivos não consecutivos no Windows?",
+    "options": [
+      "Manter Ctrl e clicar nos itens",
+      "Apertar somente Caps Lock",
+      "Fechar o explorador",
+      "Aumentar o brilho"
+    ],
+    "correctIndex": 0,
+    "explanation": "Ctrl permite adicionar itens separados à seleção."
+  },
+  {
+    "id": "files-19",
+    "category": "files",
+    "difficult": false,
+    "text": "Como selecionar uma sequência de arquivos no Windows?",
+    "options": [
+      "Selecionar o primeiro e Shift no último",
+      "Arrastar a janela para fora",
+      "Apertar Alt sozinho",
+      "Trocar o monitor"
+    ],
+    "correctIndex": 0,
+    "explanation": "Shift estende a seleção entre dois itens."
+  },
+  {
+    "id": "files-20",
+    "category": "files",
+    "difficult": false,
+    "text": "Qual visualização pode mostrar tamanho e data dos arquivos?",
+    "options": [
+      "Detalhes",
+      "Tela desligada",
+      "Volume",
+      "Modo avião"
+    ],
+    "correctIndex": 0,
+    "explanation": "A visualização de detalhes apresenta propriedades em colunas."
+  },
+  {
+    "id": "files-21",
+    "category": "files",
+    "difficult": false,
+    "text": "Ordenar por data de modificação ajuda a encontrar o quê?",
+    "options": [
+      "Arquivos alterados recentemente",
+      "Somente arquivos impressos",
+      "A senha da rede",
+      "A cor original da tela"
+    ],
+    "correctIndex": 0,
+    "explanation": "A data de modificação registra a última alteração do conteúdo."
+  },
+  {
+    "id": "files-22",
+    "category": "files",
+    "difficult": false,
+    "text": "O que verificar antes de substituir um arquivo com o mesmo nome?",
+    "options": [
+      "Se o conteúdo existente precisa ser preservado",
+      "Somente a cor do ícone",
+      "O volume dos alto-falantes",
+      "A posição da cadeira"
+    ],
+    "correctIndex": 0,
+    "explanation": "Substituir pode descartar uma versão que ainda seja necessária."
+  },
+  {
+    "id": "files-23",
+    "category": "files",
+    "difficult": false,
+    "text": "Qual prática reduz a perda de trabalhos?",
+    "options": [
+      "Manter cópias de segurança em outro local",
+      "Guardar a única cópia na Lixeira",
+      "Nunca salvar",
+      "Trocar nomes diariamente sem motivo"
+    ],
+    "correctIndex": 0,
+    "explanation": "Backups permitem recuperar dados quando a cópia principal falha."
+  },
+  {
+    "id": "files-24",
+    "category": "files",
+    "difficult": false,
+    "text": "Um arquivo está em Downloads e deve ir para Documentos. Qual ação atende?",
+    "options": [
+      "Mover para Documentos",
+      "Mudar só o papel de parede",
+      "Criar uma pasta sem transferir",
+      "Silenciar áudio"
+    ],
+    "correctIndex": 0,
+    "explanation": "Mover altera o local do arquivo original."
+  },
+  {
+    "id": "files-25",
+    "category": "files",
+    "difficult": false,
+    "text": "Qual unidade é maior?",
+    "options": [
+      "1 GB",
+      "1 KB",
+      "1 byte",
+      "1 bit"
+    ],
+    "correctIndex": 0,
+    "explanation": "Gigabyte representa uma quantidade de dados maior que essas unidades."
+  },
+  {
+    "id": "files-26",
+    "category": "files",
+    "difficult": false,
+    "text": "Para liberar espaço de arquivos já enviados à Lixeira, o que falta?",
+    "options": [
+      "Revisar e esvaziar a Lixeira",
+      "Aumentar o zoom",
+      "Mudar o nome da Lixeira",
+      "Fechar o monitor"
+    ],
+    "correctIndex": 0,
+    "explanation": "Itens na Lixeira ainda ocupam espaço de armazenamento."
+  },
+  {
+    "id": "files-27",
+    "category": "files",
+    "difficult": false,
+    "text": "Antes de retirar um pendrive em uso, qual cuidado é apropriado?",
+    "options": [
+      "Concluir transferências e ejetar com segurança",
+      "Puxar durante a cópia",
+      "Apagar o driver",
+      "Reiniciar a impressora"
+    ],
+    "correctIndex": 0,
+    "explanation": "Concluir gravações evita arquivos incompletos ou corrompidos."
+  },
+  {
+    "id": "files-28",
+    "category": "files",
+    "difficult": false,
+    "text": "O que uma pasta vazia contém?",
+    "options": [
+      "Nenhum arquivo ou subpasta visível naquele local",
+      "Todos os documentos do computador",
+      "Somente programas abertos",
+      "Sempre um vídeo"
+    ],
+    "correctIndex": 0,
+    "explanation": "Uma pasta pode existir sem conter itens."
+  },
+  {
+    "id": "files-29",
+    "category": "files",
+    "difficult": false,
+    "text": "Qual ação abre um arquivo selecionado no Windows?",
+    "options": [
+      "Pressionar Enter",
+      "Pressionar apenas Shift",
+      "Desconectar a fonte",
+      "Silenciar o sistema"
+    ],
+    "correctIndex": 0,
+    "explanation": "Enter normalmente abre o item selecionado."
+  },
+  {
+    "id": "files-30",
+    "category": "files",
+    "difficult": false,
+    "text": "Qual cuidado tomar ao apagar arquivos para liberar espaço?",
+    "options": [
+      "Preservar documentos pessoais importantes",
+      "Apagar primeiro a pasta do sistema",
+      "Excluir tudo sem revisar",
+      "Apagar o trabalho atual sem backup"
+    ],
+    "correctIndex": 0,
+    "explanation": "A limpeza deve focar itens dispensáveis e conhecidos."
+  },
+  {
+    "id": "files-31",
+    "category": "files",
+    "difficult": true,
+    "text": "Uma cópia no mesmo SSD protege contra falha física desse SSD?",
+    "options": [
+      "Não",
+      "Sim, integralmente",
+      "Somente se renomeada",
+      "Somente se estiver oculta"
+    ],
+    "correctIndex": 0,
+    "explanation": "Uma falha do dispositivo pode atingir todas as cópias armazenadas nele."
+  },
+  {
+    "id": "files-32",
+    "category": "files",
+    "difficult": true,
+    "text": "Se o destino de um atalho for movido, o que pode acontecer?",
+    "options": [
+      "O atalho pode deixar de funcionar",
+      "O atalho vira backup",
+      "O monitor perde resolução",
+      "A RAM é apagada"
+    ],
+    "correctIndex": 0,
+    "explanation": "A referência pode apontar para um caminho que não existe mais."
+  },
+  {
+    "id": "files-33",
+    "category": "files",
+    "difficult": true,
+    "text": "Dois arquivos com o mesmo nome em pastas diferentes são necessariamente iguais?",
+    "options": [
+      "Não",
+      "Sim, sempre",
+      "Só se forem grandes",
+      "Só se tiverem ícone igual"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nome igual não garante conteúdo igual."
+  },
+  {
+    "id": "files-34",
+    "category": "files",
+    "difficult": true,
+    "text": "Por que mostrar extensões ajuda a avaliar um arquivo?",
+    "options": [
+      "Permite ver seu tipo declarado no nome",
+      "Garante ausência de vírus",
+      "Descriptografa arquivos",
+      "Cria backup automático"
+    ],
+    "correctIndex": 0,
+    "explanation": "A extensão ajuda a reconhecer tipos e nomes potencialmente enganosos."
+  },
+  {
+    "id": "files-35",
+    "category": "files",
+    "difficult": true,
+    "text": "Qual caminho representa um arquivo dentro de duas pastas?",
+    "options": [
+      "Documentos/Escola/Relatorio.pdf",
+      "Relatorio.pdf/Escola",
+      "Teclado/Volume",
+      "Somente Relatorio"
+    ],
+    "correctIndex": 0,
+    "explanation": "A ordem do caminho parte das pastas até chegar ao arquivo."
+  },
+  {
+    "id": "files-36",
+    "category": "files",
+    "difficult": true,
+    "text": "Copiar uma pasta contendo subpastas normalmente inclui o quê?",
+    "options": [
+      "Sua estrutura e os arquivos contidos",
+      "Apenas o nome externo",
+      "Somente atalhos da área de trabalho",
+      "O sistema operacional inteiro"
+    ],
+    "correctIndex": 0,
+    "explanation": "Uma cópia de pasta normalmente inclui os itens descendentes."
+  },
+  {
+    "id": "files-37",
+    "category": "files",
+    "difficult": true,
+    "text": "Renomear foto.jpg para foto.txt converte a imagem em texto?",
+    "options": [
+      "Não, muda apenas o nome",
+      "Sim, reconhece o texto automaticamente",
+      "Sim, compacta a imagem",
+      "Só se estiver em Downloads"
+    ],
+    "correctIndex": 0,
+    "explanation": "Conversão real exige alterar o formato dos dados."
+  },
+  {
+    "id": "files-38",
+    "category": "files",
+    "difficult": true,
+    "text": "Qual situação exige cuidado especial ao mover um arquivo em uso?",
+    "options": [
+      "O aplicativo pode bloquear ou perder a referência ao arquivo",
+      "O teclado será desinstalado",
+      "O monitor para permanentemente",
+      "O Wi-Fi muda de senha"
+    ],
+    "correctIndex": 0,
+    "explanation": "Programas podem manter arquivos abertos ou referências ao caminho."
+  },
+  {
+    "id": "files-39",
+    "category": "files",
+    "difficult": true,
+    "text": "Uma pasta sincronizada na nuvem dispensa verificar o estado de envio?",
+    "options": [
+      "Não, alterações podem estar pendentes",
+      "Sim, qualquer ícone garante envio",
+      "Sim, mesmo sem conexão inicial",
+      "Só em arquivos grandes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Sincronização pode atrasar ou falhar, exigindo conferir o estado."
+  },
+  {
+    "id": "files-40",
+    "category": "files",
+    "difficult": true,
+    "text": "Qual diferença entre tamanho do arquivo e espaço livre está correta?",
+    "options": [
+      "Um mede o item, o outro a capacidade disponível",
+      "São sempre valores idênticos",
+      "Ambos medem apenas a RAM",
+      "Espaço livre é o nome da pasta"
+    ],
+    "correctIndex": 0,
+    "explanation": "Um arquivo consome parte do armazenamento disponível."
+  },
+  {
+    "id": "hardware-01",
+    "category": "hardware",
+    "difficult": false,
+    "text": "Qual componente executa as instruções dos programas?",
+    "options": [
+      "Processador",
+      "Monitor",
+      "Microfone",
+      "Gabinete"
+    ],
+    "correctIndex": 0,
+    "explanation": "O processador realiza cálculos e executa instruções."
+  },
+  {
+    "id": "hardware-02",
+    "category": "hardware",
+    "difficult": false,
+    "text": "Onde ficam temporariamente os dados dos programas em uso?",
+    "options": [
+      "Memória RAM",
+      "Papel da impressora",
+      "Cabo HDMI",
+      "Caixa de som"
+    ],
+    "correctIndex": 0,
+    "explanation": "A RAM mantém dados de trabalho enquanto o computador está ligado."
+  },
+  {
+    "id": "hardware-03",
+    "category": "hardware",
+    "difficult": false,
+    "text": "Qual dispositivo guarda arquivos mesmo desligado?",
+    "options": [
+      "SSD",
+      "Memória RAM comum",
+      "Ventoinha",
+      "Webcam"
+    ],
+    "correctIndex": 0,
+    "explanation": "O SSD utiliza armazenamento não volátil."
+  },
+  {
+    "id": "hardware-04",
+    "category": "hardware",
+    "difficult": false,
+    "text": "Qual periférico mostra imagens do computador?",
+    "options": [
+      "Monitor",
+      "Teclado",
+      "Microfone",
+      "Scanner"
+    ],
+    "correctIndex": 0,
+    "explanation": "O monitor é um dispositivo de saída de imagem."
+  },
+  {
+    "id": "hardware-05",
+    "category": "hardware",
+    "difficult": false,
+    "text": "Qual equipamento captura a voz?",
+    "options": [
+      "Microfone",
+      "Impressora",
+      "Monitor",
+      "Projetor"
+    ],
+    "correctIndex": 0,
+    "explanation": "O microfone transforma som em sinal de entrada."
+  },
+  {
+    "id": "hardware-06",
+    "category": "hardware",
+    "difficult": false,
+    "text": "Qual dispositivo permite digitar textos?",
+    "options": [
+      "Teclado",
+      "Caixa de som",
+      "Roteador",
+      "Fonte"
+    ],
+    "correctIndex": 0,
+    "explanation": "O teclado envia letras e comandos ao computador."
+  },
+  {
+    "id": "hardware-07",
+    "category": "hardware",
+    "difficult": false,
+    "text": "Para apontar e clicar, qual periférico é usado?",
+    "options": [
+      "Mouse",
+      "SSD",
+      "Placa-mãe",
+      "Fonte"
+    ],
+    "correctIndex": 0,
+    "explanation": "O mouse controla o ponteiro na tela."
+  },
+  {
+    "id": "hardware-08",
+    "category": "hardware",
+    "difficult": false,
+    "text": "Qual peça conecta os componentes internos?",
+    "options": [
+      "Placa-mãe",
+      "Papel de parede",
+      "Pendrive",
+      "Fone de ouvido"
+    ],
+    "correctIndex": 0,
+    "explanation": "A placa-mãe possui conexões para processador, memória e outros componentes."
+  },
+  {
+    "id": "hardware-09",
+    "category": "hardware",
+    "difficult": false,
+    "text": "O que fornece energia elétrica aos componentes de um desktop?",
+    "options": [
+      "Fonte de alimentação",
+      "Placa de rede",
+      "Mousepad",
+      "Scanner"
+    ],
+    "correctIndex": 0,
+    "explanation": "A fonte converte e distribui a energia adequada."
+  },
+  {
+    "id": "hardware-10",
+    "category": "hardware",
+    "difficult": false,
+    "text": "Para que serve a ventoinha do computador?",
+    "options": [
+      "Ajudar no resfriamento",
+      "Guardar senhas",
+      "Aumentar o tamanho da tela",
+      "Imprimir documentos"
+    ],
+    "correctIndex": 0,
+    "explanation": "A circulação de ar ajuda a remover calor."
+  },
+  {
+    "id": "hardware-11",
+    "category": "hardware",
+    "difficult": false,
+    "text": "Qual aparelho produz uma cópia em papel?",
+    "options": [
+      "Impressora",
+      "Webcam",
+      "Monitor",
+      "Microfone"
+    ],
+    "correctIndex": 0,
+    "explanation": "A impressora transfere conteúdo digital para papel."
+  },
+  {
+    "id": "hardware-12",
+    "category": "hardware",
+    "difficult": false,
+    "text": "Qual equipamento digitaliza uma folha?",
+    "options": [
+      "Scanner",
+      "Caixa de som",
+      "Teclado",
+      "Projetor"
+    ],
+    "correctIndex": 0,
+    "explanation": "O scanner captura a imagem de um documento físico."
+  },
+  {
+    "id": "hardware-13",
+    "category": "hardware",
+    "difficult": false,
+    "text": "Qual dispositivo grava imagens do usuário em uma chamada?",
+    "options": [
+      "Webcam",
+      "Fonte",
+      "Gabinete",
+      "Roteador"
+    ],
+    "correctIndex": 0,
+    "explanation": "A webcam fornece vídeo ao computador."
+  },
+  {
+    "id": "hardware-14",
+    "category": "hardware",
+    "difficult": false,
+    "text": "Um pendrive normalmente é conectado a qual porta?",
+    "options": [
+      "USB",
+      "Tomada de água",
+      "Entrada de papel",
+      "Saída de ar"
+    ],
+    "correctIndex": 0,
+    "explanation": "USB é uma conexão comum para pendrives."
+  },
+  {
+    "id": "hardware-15",
+    "category": "hardware",
+    "difficult": false,
+    "text": "Qual cabo normalmente transporta vídeo e áudio digital para uma TV?",
+    "options": [
+      "HDMI",
+      "Cabo de energia simples",
+      "Cabo de telefone analógico",
+      "Cabo de segurança"
+    ],
+    "correctIndex": 0,
+    "explanation": "HDMI pode transportar imagem e som."
+  },
+  {
+    "id": "hardware-16",
+    "category": "hardware",
+    "difficult": false,
+    "text": "Qual componente é especializado em processamento gráfico?",
+    "options": [
+      "GPU",
+      "Fonte",
+      "Teclado",
+      "Microfone"
+    ],
+    "correctIndex": 0,
+    "explanation": "A GPU acelera a produção de gráficos e imagens."
+  },
+  {
+    "id": "hardware-17",
+    "category": "hardware",
+    "difficult": false,
+    "text": "Qual é um exemplo de dispositivo de entrada?",
+    "options": [
+      "Teclado",
+      "Monitor sem toque",
+      "Impressora",
+      "Caixa de som"
+    ],
+    "correctIndex": 0,
+    "explanation": "Dispositivos de entrada enviam dados ao sistema."
+  },
+  {
+    "id": "hardware-18",
+    "category": "hardware",
+    "difficult": false,
+    "text": "Qual é um exemplo de dispositivo de saída?",
+    "options": [
+      "Caixa de som",
+      "Mouse",
+      "Scanner",
+      "Microfone"
+    ],
+    "correctIndex": 0,
+    "explanation": "A caixa de som reproduz áudio gerado pelo computador."
+  },
+  {
+    "id": "hardware-19",
+    "category": "hardware",
+    "difficult": false,
+    "text": "Qual unidade costuma indicar a capacidade de um SSD?",
+    "options": [
+      "Gigabyte",
+      "Centímetro",
+      "Volt por segundo",
+      "Hertz de tela"
+    ],
+    "correctIndex": 0,
+    "explanation": "Bytes e seus múltiplos medem quantidade de dados."
+  },
+  {
+    "id": "hardware-20",
+    "category": "hardware",
+    "difficult": false,
+    "text": "O touchpad de um notebook substitui principalmente qual dispositivo?",
+    "options": [
+      "Mouse",
+      "Impressora",
+      "Monitor",
+      "Microfone"
+    ],
+    "correctIndex": 0,
+    "explanation": "O touchpad controla o ponteiro por toque."
+  },
+  {
+    "id": "hardware-21",
+    "category": "hardware",
+    "difficult": false,
+    "text": "Qual cuidado é adequado antes de limpar o teclado fisicamente?",
+    "options": [
+      "Desligar e desconectar o equipamento",
+      "Jogar água entre as teclas",
+      "Usar força nas portas",
+      "Cobrir a ventilação"
+    ],
+    "correctIndex": 0,
+    "explanation": "Desligar e desconectar reduz riscos durante a limpeza."
+  },
+  {
+    "id": "hardware-22",
+    "category": "hardware",
+    "difficult": false,
+    "text": "Por que não cobrir as saídas de ar do notebook?",
+    "options": [
+      "Para evitar superaquecimento",
+      "Para duplicar a RAM",
+      "Para mudar a senha",
+      "Para aumentar o armazenamento"
+    ],
+    "correctIndex": 0,
+    "explanation": "A ventilação precisa de espaço para dissipar calor."
+  },
+  {
+    "id": "hardware-23",
+    "category": "hardware",
+    "difficult": false,
+    "text": "Qual é a função principal do gabinete?",
+    "options": [
+      "Acomodar e proteger peças internas",
+      "Pesquisar na internet",
+      "Corrigir ortografia",
+      "Amplificar Wi-Fi automaticamente"
+    ],
+    "correctIndex": 0,
+    "explanation": "O gabinete organiza e protege os componentes."
+  },
+  {
+    "id": "hardware-24",
+    "category": "hardware",
+    "difficult": false,
+    "text": "Qual destes é hardware?",
+    "options": [
+      "Placa de vídeo",
+      "Editor de texto",
+      "Sistema operacional",
+      "Navegador"
+    ],
+    "correctIndex": 0,
+    "explanation": "Hardware corresponde aos componentes físicos."
+  },
+  {
+    "id": "hardware-25",
+    "category": "hardware",
+    "difficult": false,
+    "text": "Qual recurso permite usar um notebook sem tomada por algum tempo?",
+    "options": [
+      "Bateria",
+      "Pasta Downloads",
+      "Antivírus",
+      "Favorito do navegador"
+    ],
+    "correctIndex": 0,
+    "explanation": "A bateria armazena energia para uso móvel."
+  },
+  {
+    "id": "hardware-26",
+    "category": "hardware",
+    "difficult": false,
+    "text": "Qual conexão normalmente usa um plugue RJ45?",
+    "options": [
+      "Ethernet",
+      "HDMI",
+      "Áudio P2",
+      "USB-C"
+    ],
+    "correctIndex": 0,
+    "explanation": "Ethernet cabeada normalmente utiliza cabos com conectores RJ45."
+  },
+  {
+    "id": "hardware-27",
+    "category": "hardware",
+    "difficult": false,
+    "text": "Para ouvir sem incomodar a turma, qual periférico escolher?",
+    "options": [
+      "Fone de ouvido",
+      "Scanner",
+      "Projetor",
+      "Webcam"
+    ],
+    "correctIndex": 0,
+    "explanation": "Fones direcionam o áudio para quem os usa."
+  },
+  {
+    "id": "hardware-28",
+    "category": "hardware",
+    "difficult": false,
+    "text": "O que uma tela sensível ao toque combina?",
+    "options": [
+      "Entrada e saída",
+      "Somente armazenamento",
+      "Somente impressão",
+      "Somente energia"
+    ],
+    "correctIndex": 0,
+    "explanation": "Ela exibe imagens e também recebe toques."
+  },
+  {
+    "id": "hardware-29",
+    "category": "hardware",
+    "difficult": false,
+    "text": "Qual dispositivo portátil pode transportar arquivos?",
+    "options": [
+      "Pendrive",
+      "Ventoinha",
+      "Mousepad",
+      "Dissipador"
+    ],
+    "correctIndex": 0,
+    "explanation": "O pendrive armazena dados que podem ser levados a outro computador."
+  },
+  {
+    "id": "hardware-30",
+    "category": "hardware",
+    "difficult": false,
+    "text": "Ao conectar um USB, o que fazer se não encaixar facilmente?",
+    "options": [
+      "Verificar a orientação e o tipo",
+      "Forçar até entrar",
+      "Quebrar a lingueta",
+      "Molhar o conector"
+    ],
+    "correctIndex": 0,
+    "explanation": "Conectores incompatíveis ou invertidos não devem ser forçados."
+  },
+  {
+    "id": "hardware-31",
+    "category": "hardware",
+    "difficult": true,
+    "text": "Por que aumentar a RAM pode ajudar com muitos aplicativos abertos?",
+    "options": [
+      "Reduz a falta de memória de trabalho",
+      "Aumenta automaticamente o link de internet",
+      "Substitui a necessidade de CPU",
+      "Duplica o tamanho físico do monitor"
+    ],
+    "correctIndex": 0,
+    "explanation": "Mais RAM permite manter mais dados de trabalho sem recorrer tanto ao armazenamento."
+  },
+  {
+    "id": "hardware-32",
+    "category": "hardware",
+    "difficult": true,
+    "text": "Em comparação com um HD mecânico, por que um SSD resiste melhor a vibrações durante o uso?",
+    "options": [
+      "Não possui discos giratórios",
+      "Usa papel para salvar",
+      "Dispensa eletricidade",
+      "Nunca pode apresentar defeito"
+    ],
+    "correctIndex": 0,
+    "explanation": "SSDs não dependem de partes mecânicas móveis para acessar dados."
+  },
+  {
+    "id": "hardware-33",
+    "category": "hardware",
+    "difficult": true,
+    "text": "Um programa salvo no SSD está necessariamente aberto?",
+    "options": [
+      "Não, armazenamento e execução são diferentes",
+      "Sim, todo arquivo está rodando",
+      "Sim, se o SSD for grande",
+      "Não existe programa salvo"
+    ],
+    "correctIndex": 0,
+    "explanation": "Um programa precisa ser carregado para execução."
+  },
+  {
+    "id": "hardware-34",
+    "category": "hardware",
+    "difficult": true,
+    "text": "Um monitor de 144 Hz garante 144 quadros novos por segundo em qualquer jogo?",
+    "options": [
+      "Não, a geração de quadros também depende do sistema",
+      "Sim, independentemente do computador",
+      "Sim, basta mudar o cabo de energia",
+      "Não, monitores não atualizam imagens"
+    ],
+    "correctIndex": 0,
+    "explanation": "A taxa do monitor não força o computador a renderizar mais quadros."
+  },
+  {
+    "id": "hardware-35",
+    "category": "hardware",
+    "difficult": true,
+    "text": "O que acontece com o conteúdo da RAM comum ao faltar energia?",
+    "options": [
+      "É perdido",
+      "Vira backup permanente",
+      "Vai automaticamente para um pendrive",
+      "É impresso"
+    ],
+    "correctIndex": 0,
+    "explanation": "A RAM comum é volátil e depende de energia para manter dados."
+  },
+  {
+    "id": "hardware-36",
+    "category": "hardware",
+    "difficult": true,
+    "text": "Por que duas portas USB-C podem ter capacidades diferentes?",
+    "options": [
+      "O formato não determina todos os recursos",
+      "A cor da mesa muda a velocidade",
+      "USB-C é sempre apenas áudio",
+      "Toda porta USB-C tem recursos idênticos"
+    ],
+    "correctIndex": 0,
+    "explanation": "Vídeo, potência e velocidade dependem das especificações da porta e do cabo."
+  },
+  {
+    "id": "hardware-37",
+    "category": "hardware",
+    "difficult": true,
+    "text": "Um computador tem pouco espaço, mas RAM livre. O que resolve o armazenamento cheio?",
+    "options": [
+      "Remover ou transferir arquivos desnecessários",
+      "Trocar somente o mouse",
+      "Aumentar a RAM apenas",
+      "Diminuir o volume"
+    ],
+    "correctIndex": 0,
+    "explanation": "RAM e armazenamento são recursos diferentes."
+  },
+  {
+    "id": "hardware-38",
+    "category": "hardware",
+    "difficult": true,
+    "text": "Qual relação descreve corretamente CPU e GPU?",
+    "options": [
+      "Têm funções complementares",
+      "São sempre a mesma peça",
+      "A GPU guarda todos os documentos",
+      "A CPU serve apenas para rede"
+    ],
+    "correctIndex": 0,
+    "explanation": "A CPU é geral e a GPU é especialmente adequada ao processamento paralelo gráfico."
+  },
+  {
+    "id": "hardware-39",
+    "category": "hardware",
+    "difficult": true,
+    "text": "Por que fazer backup mesmo com um SSD novo?",
+    "options": [
+      "Qualquer dispositivo pode falhar",
+      "SSDs apagam tudo a cada minuto",
+      "RAM substitui o backup",
+      "Novidade impede perdas"
+    ],
+    "correctIndex": 0,
+    "explanation": "Falhas, acidentes e exclusões também podem atingir equipamentos novos."
+  },
+  {
+    "id": "hardware-40",
+    "category": "hardware",
+    "difficult": true,
+    "text": "Ao escolher RAM para uma placa-mãe, o que verificar?",
+    "options": [
+      "Compatibilidade de geração e capacidade",
+      "Cor do papel de parede",
+      "Quantidade de favoritos",
+      "Tamanho do ponteiro"
+    ],
+    "correctIndex": 0,
+    "explanation": "A placa-mãe e o processador limitam os tipos de memória suportados."
+  },
+  {
+    "id": "internet-01",
+    "category": "internet",
+    "difficult": false,
+    "text": "O que é a internet?",
+    "options": [
+      "Uma rede mundial de redes",
+      "Uma única pasta",
+      "Um modelo de teclado",
+      "Um programa de desenho"
+    ],
+    "correctIndex": 0,
+    "explanation": "A internet interliga muitas redes para troca de dados."
+  },
+  {
+    "id": "internet-02",
+    "category": "internet",
+    "difficult": false,
+    "text": "O que é um site?",
+    "options": [
+      "Conjunto de páginas e recursos relacionados",
+      "Um cabo elétrico",
+      "Uma memória RAM",
+      "Uma impressora"
+    ],
+    "correctIndex": 0,
+    "explanation": "Sites disponibilizam conteúdo e funções na web."
+  },
+  {
+    "id": "internet-03",
+    "category": "internet",
+    "difficult": false,
+    "text": "Para que serve um endereço de site?",
+    "options": [
+      "Identificar um recurso na web",
+      "Aumentar o brilho",
+      "Trocar o processador",
+      "Guardar eletricidade"
+    ],
+    "correctIndex": 0,
+    "explanation": "O endereço permite localizar e solicitar um recurso."
+  },
+  {
+    "id": "internet-04",
+    "category": "internet",
+    "difficult": false,
+    "text": "Qual serviço permite enviar mensagens com assunto e anexos?",
+    "options": [
+      "E-mail",
+      "Ventoinha",
+      "HDMI",
+      "Lixeira"
+    ],
+    "correctIndex": 0,
+    "explanation": "E-mail permite trocar mensagens eletrônicas e arquivos anexados."
+  },
+  {
+    "id": "internet-05",
+    "category": "internet",
+    "difficult": false,
+    "text": "O que é um anexo de e-mail?",
+    "options": [
+      "Arquivo enviado junto da mensagem",
+      "Nome da tomada",
+      "Cor do remetente",
+      "Tamanho do teclado"
+    ],
+    "correctIndex": 0,
+    "explanation": "Anexos transportam documentos, imagens e outros arquivos."
+  },
+  {
+    "id": "internet-06",
+    "category": "internet",
+    "difficult": false,
+    "text": "O campo Assunto do e-mail deve conter o quê?",
+    "options": [
+      "Um resumo do tema",
+      "A senha da conta",
+      "Todos os contatos da turma",
+      "O número da tomada"
+    ],
+    "correctIndex": 0,
+    "explanation": "Um assunto claro ajuda o destinatário a identificar a mensagem."
+  },
+  {
+    "id": "internet-07",
+    "category": "internet",
+    "difficult": false,
+    "text": "O que significa estar online?",
+    "options": [
+      "Estar conectado a um serviço ou rede",
+      "Ter o monitor ligado obrigatoriamente",
+      "Estar sem arquivos",
+      "Estar com áudio alto"
+    ],
+    "correctIndex": 0,
+    "explanation": "Online indica disponibilidade de conexão no contexto considerado."
+  },
+  {
+    "id": "internet-08",
+    "category": "internet",
+    "difficult": false,
+    "text": "O que significa estar offline?",
+    "options": [
+      "Estar sem conexão naquele contexto",
+      "Ter internet mais rápida",
+      "Ter todos os programas atualizados",
+      "Estar imprimindo"
+    ],
+    "correctIndex": 0,
+    "explanation": "Offline descreve ausência de conexão ou disponibilidade na rede."
+  },
+  {
+    "id": "internet-09",
+    "category": "internet",
+    "difficult": false,
+    "text": "Qual ação busca informações sobre um tema na web?",
+    "options": [
+      "Usar palavras-chave em um buscador",
+      "Trocar a bateria",
+      "Apagar o histórico antes de cada palavra",
+      "Alterar a RAM"
+    ],
+    "correctIndex": 0,
+    "explanation": "Palavras-chave relevantes ajudam o buscador a encontrar resultados."
+  },
+  {
+    "id": "internet-10",
+    "category": "internet",
+    "difficult": false,
+    "text": "Qual consulta é mais específica para uma tarefa sobre reciclagem?",
+    "options": [
+      "Reciclagem de eletrônicos na escola",
+      "Coisas",
+      "Tudo",
+      "Página"
+    ],
+    "correctIndex": 0,
+    "explanation": "Uma consulta específica reduz resultados pouco relacionados."
+  },
+  {
+    "id": "internet-11",
+    "category": "internet",
+    "difficult": false,
+    "text": "Ao pesquisar um fato, qual prática ajuda a conferir a informação?",
+    "options": [
+      "Comparar fontes confiáveis",
+      "Confiar só no primeiro título",
+      "Ignorar a data",
+      "Escolher apenas o texto mais colorido"
+    ],
+    "correctIndex": 0,
+    "explanation": "Comparação e qualidade das fontes ajudam na verificação."
+  },
+  {
+    "id": "internet-12",
+    "category": "internet",
+    "difficult": false,
+    "text": "Por que olhar a data de uma notícia?",
+    "options": [
+      "Informações antigas podem estar desatualizadas",
+      "A data garante veracidade",
+      "A data aumenta a velocidade",
+      "Notícias não têm contexto"
+    ],
+    "correctIndex": 0,
+    "explanation": "A atualidade deve ser considerada junto com a origem e o contexto."
+  },
+  {
+    "id": "internet-13",
+    "category": "internet",
+    "difficult": false,
+    "text": "Qual atitude respeita o autor de uma imagem utilizada em trabalho?",
+    "options": [
+      "Verificar a licença e citar a fonte",
+      "Apagar a marca do autor",
+      "Dizer que fez a foto",
+      "Ignorar qualquer condição"
+    ],
+    "correctIndex": 0,
+    "explanation": "Créditos e condições de uso devem ser respeitados."
+  },
+  {
+    "id": "internet-14",
+    "category": "internet",
+    "difficult": false,
+    "text": "O que é um link?",
+    "options": [
+      "Referência clicável para outro recurso",
+      "Uma placa de memória",
+      "Uma bateria",
+      "Uma folha impressa sempre"
+    ],
+    "correctIndex": 0,
+    "explanation": "Links conectam páginas e recursos."
+  },
+  {
+    "id": "internet-15",
+    "category": "internet",
+    "difficult": false,
+    "text": "O que é uma videoconferência?",
+    "options": [
+      "Conversa remota com áudio e vídeo",
+      "Somente impressão de fotos",
+      "Cópia de arquivos no mesmo disco",
+      "Troca de teclado"
+    ],
+    "correctIndex": 0,
+    "explanation": "Videoconferência transmite comunicação audiovisual pela rede."
+  },
+  {
+    "id": "internet-16",
+    "category": "internet",
+    "difficult": false,
+    "text": "Qual cuidado melhora uma reunião online em local barulhento?",
+    "options": [
+      "Silenciar o microfone quando não estiver falando",
+      "Aumentar todo o som",
+      "Abrir vários vídeos em paralelo",
+      "Cobrir o roteador"
+    ],
+    "correctIndex": 0,
+    "explanation": "Silenciar evita transmitir ruído desnecessário."
+  },
+  {
+    "id": "internet-17",
+    "category": "internet",
+    "difficult": false,
+    "text": "Qual serviço guarda arquivos em servidores acessíveis pela rede?",
+    "options": [
+      "Armazenamento em nuvem",
+      "Pasta apenas local desconectada",
+      "Mousepad",
+      "Memória da calculadora física"
+    ],
+    "correctIndex": 0,
+    "explanation": "Serviços de nuvem armazenam dados em infraestrutura remota."
+  },
+  {
+    "id": "internet-18",
+    "category": "internet",
+    "difficult": false,
+    "text": "O que verificar antes de compartilhar um link de arquivo da nuvem?",
+    "options": [
+      "Quem terá permissão de acesso",
+      "A cor do mouse",
+      "A marca do monitor",
+      "A quantidade de abas do colega"
+    ],
+    "correctIndex": 0,
+    "explanation": "Permissões determinam quem pode abrir ou editar o conteúdo."
+  },
+  {
+    "id": "internet-19",
+    "category": "internet",
+    "difficult": false,
+    "text": "Qual é uma boa prática em mensagens para a turma?",
+    "options": [
+      "Ser claro e respeitoso",
+      "Enviar ofensas",
+      "Compartilhar dados pessoais dos colegas",
+      "Repetir a mesma mensagem sem parar"
+    ],
+    "correctIndex": 0,
+    "explanation": "Comunicação respeitosa ajuda a colaboração."
+  },
+  {
+    "id": "internet-20",
+    "category": "internet",
+    "difficult": false,
+    "text": "O que é spam?",
+    "options": [
+      "Mensagem indesejada enviada em massa",
+      "Toda mensagem do professor",
+      "Um cabo de rede",
+      "Um formato de planilha"
+    ],
+    "correctIndex": 0,
+    "explanation": "Spam pode sobrecarregar a caixa de entrada e incluir golpes."
+  },
+  {
+    "id": "internet-21",
+    "category": "internet",
+    "difficult": false,
+    "text": "Antes de reenviar uma mensagem alarmante, o que fazer?",
+    "options": [
+      "Verificar sua origem e veracidade",
+      "Encaminhar para todos imediatamente",
+      "Apagar a data",
+      "Acrescentar uma urgência inventada"
+    ],
+    "correctIndex": 0,
+    "explanation": "Verificação reduz a propagação de boatos."
+  },
+  {
+    "id": "internet-22",
+    "category": "internet",
+    "difficult": false,
+    "text": "Uma página não abre. Qual teste simples ajuda?",
+    "options": [
+      "Tentar outro site conhecido",
+      "Formatar imediatamente o computador",
+      "Excluir documentos",
+      "Comprar nova impressora"
+    ],
+    "correctIndex": 0,
+    "explanation": "Comparar sites ajuda a distinguir falha específica de problema geral de conexão."
+  },
+  {
+    "id": "internet-23",
+    "category": "internet",
+    "difficult": false,
+    "text": "Qual atividade normalmente precisa de conexão contínua?",
+    "options": [
+      "Videoconferência ao vivo",
+      "Ler um TXT já salvo localmente",
+      "Renomear uma pasta local",
+      "Usar uma calculadora offline"
+    ],
+    "correctIndex": 0,
+    "explanation": "Comunicação ao vivo depende da troca contínua de dados."
+  },
+  {
+    "id": "internet-24",
+    "category": "internet",
+    "difficult": false,
+    "text": "O que um provedor de internet oferece?",
+    "options": [
+      "Acesso à internet",
+      "Garantia de todo conteúdo ser verdadeiro",
+      "Memória RAM ilimitada",
+      "Revisão automática de trabalhos"
+    ],
+    "correctIndex": 0,
+    "explanation": "O provedor fornece a conexão conforme o serviço contratado."
+  },
+  {
+    "id": "internet-25",
+    "category": "internet",
+    "difficult": false,
+    "text": "Qual cuidado ao enviar uma tarefa por e-mail?",
+    "options": [
+      "Conferir destinatário e anexo antes de enviar",
+      "Mandar a senha no assunto",
+      "Não verificar o arquivo",
+      "Enviar para todos os contatos"
+    ],
+    "correctIndex": 0,
+    "explanation": "Uma revisão evita envio ao destino errado ou sem o arquivo correto."
+  },
+  {
+    "id": "internet-26",
+    "category": "internet",
+    "difficult": false,
+    "text": "O que significa responder a um e-mail?",
+    "options": [
+      "Enviar uma mensagem ligada à conversa recebida",
+      "Apagar todos os contatos",
+      "Salvar uma imagem do monitor",
+      "Desinstalar a conta"
+    ],
+    "correctIndex": 0,
+    "explanation": "Responder mantém o contexto da troca de mensagens."
+  },
+  {
+    "id": "internet-27",
+    "category": "internet",
+    "difficult": false,
+    "text": "O que significa encaminhar um e-mail?",
+    "options": [
+      "Repassar a mensagem a outro destinatário",
+      "Bloquear toda a rede",
+      "Abrir um novo SSD",
+      "Trocar a senha sempre"
+    ],
+    "correctIndex": 0,
+    "explanation": "Encaminhar envia o conteúdo para outra pessoa, exigindo cuidado com privacidade."
+  },
+  {
+    "id": "internet-28",
+    "category": "internet",
+    "difficult": false,
+    "text": "Qual comportamento pode consumir bastante dados móveis?",
+    "options": [
+      "Assistir vídeos em alta resolução",
+      "Renomear arquivo local",
+      "Diminuir o brilho",
+      "Abrir pasta vazia"
+    ],
+    "correctIndex": 0,
+    "explanation": "Vídeos de alta resolução demandam grande transferência de dados."
+  },
+  {
+    "id": "internet-29",
+    "category": "internet",
+    "difficult": false,
+    "text": "Qual é uma fonte adequada para consultar regras da própria escola?",
+    "options": [
+      "Canal oficial da escola",
+      "Boato sem origem",
+      "Anúncio desconhecido",
+      "Mensagem editada sem contexto"
+    ],
+    "correctIndex": 0,
+    "explanation": "Canais oficiais são a referência para comunicados da instituição."
+  },
+  {
+    "id": "internet-30",
+    "category": "internet",
+    "difficult": false,
+    "text": "Para compartilhar uma foto de um colega, qual cuidado tomar?",
+    "options": [
+      "Obter autorização e respeitar a privacidade",
+      "Publicar sem perguntar",
+      "Adicionar dados pessoais",
+      "Marcar localização residencial"
+    ],
+    "correctIndex": 0,
+    "explanation": "Consentimento e privacidade importam ao compartilhar imagens de pessoas."
+  },
+  {
+    "id": "internet-31",
+    "category": "internet",
+    "difficult": true,
+    "text": "Qual distinção entre internet e web está correta?",
+    "options": [
+      "A web é um dos serviços que usam a internet",
+      "São obrigatoriamente o mesmo conceito",
+      "A internet funciona dentro de um único site",
+      "A web é um tipo de cabo"
+    ],
+    "correctIndex": 0,
+    "explanation": "A internet também suporta serviços além de páginas web."
+  },
+  {
+    "id": "internet-32",
+    "category": "internet",
+    "difficult": true,
+    "text": "Por que um primeiro resultado de busca pode não ser o mais adequado?",
+    "options": [
+      "Pode ser anúncio ou não atender ao contexto",
+      "A posição garante erro",
+      "Todo primeiro resultado é falso",
+      "Buscadores nunca organizam resultados"
+    ],
+    "correctIndex": 0,
+    "explanation": "É preciso avaliar conteúdo, origem e intenção de cada resultado."
+  },
+  {
+    "id": "internet-33",
+    "category": "internet",
+    "difficult": true,
+    "text": "Um documento em nuvem com acesso por link está necessariamente restrito à turma?",
+    "options": [
+      "Não, depende da configuração de compartilhamento",
+      "Sim, o link reconhece a turma",
+      "Só se o nome tiver Escola",
+      "Sim, qualquer link é privado"
+    ],
+    "correctIndex": 0,
+    "explanation": "Links podem permitir acesso a qualquer pessoa que os receba."
+  },
+  {
+    "id": "internet-34",
+    "category": "internet",
+    "difficult": true,
+    "text": "Qual diferença entre velocidade de download e latência é correta?",
+    "options": [
+      "Uma mede transferência; a outra atraso de comunicação",
+      "Ambas são apenas espaço em disco",
+      "Latência mede tamanho da tela",
+      "Download mede volume de som"
+    ],
+    "correctIndex": 0,
+    "explanation": "Taxa de transferência e tempo de resposta afetam usos diferentes da rede."
+  },
+  {
+    "id": "internet-35",
+    "category": "internet",
+    "difficult": true,
+    "text": "Uma foto aparece em vários sites. Isso prova a origem dela?",
+    "options": [
+      "Não, é necessário localizar e avaliar a fonte",
+      "Sim, repetição prova autoria",
+      "Só se a foto for grande",
+      "Sim, todos os sites são independentes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Reprodução ampla não comprova autoria nem contexto original."
+  },
+  {
+    "id": "internet-36",
+    "category": "internet",
+    "difficult": true,
+    "text": "Um link de nuvem permite visualizar. Isso garante permissão de edição?",
+    "options": [
+      "Não",
+      "Sim, sempre",
+      "Só se abrir no Chrome",
+      "Só se o arquivo for pequeno"
+    ],
+    "correctIndex": 0,
+    "explanation": "Visualização e edição são permissões distintas."
+  },
+  {
+    "id": "internet-37",
+    "category": "internet",
+    "difficult": true,
+    "text": "Por que anexos muito grandes podem falhar no e-mail?",
+    "options": [
+      "O serviço pode impor limites de tamanho",
+      "O assunto muda o formato",
+      "E-mail só envia texto sem anexos",
+      "O monitor bloqueia arquivos grandes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Serviços definem limites e podem recomendar compartilhamento por link."
+  },
+  {
+    "id": "internet-38",
+    "category": "internet",
+    "difficult": true,
+    "text": "O que considerar ao citar um texto encontrado online?",
+    "options": [
+      "Autor, fonte e condições de uso",
+      "Somente a cor da página",
+      "A marca do roteador",
+      "O número de cliques"
+    ],
+    "correctIndex": 0,
+    "explanation": "Atribuição e uso adequado preservam autoria e contexto."
+  },
+  {
+    "id": "internet-39",
+    "category": "internet",
+    "difficult": true,
+    "text": "A exclusão de uma publicação garante que ninguém mantenha cópias?",
+    "options": [
+      "Não",
+      "Sim, imediatamente",
+      "Só se apagar o navegador",
+      "Só se estiver em PDF"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pessoas podem ter salvado ou reproduzido o conteúdo."
+  },
+  {
+    "id": "internet-40",
+    "category": "internet",
+    "difficult": true,
+    "text": "Qual é a melhor interpretação de um site indisponível com outros funcionando?",
+    "options": [
+      "Pode haver uma falha específica desse site",
+      "Toda a internet acabou",
+      "O teclado foi infectado necessariamente",
+      "O computador precisa ser formatado"
+    ],
+    "correctIndex": 0,
+    "explanation": "O problema pode estar no serviço ou na rota específica até ele."
+  },
+  {
+    "id": "networking-01",
+    "category": "networking",
+    "difficult": false,
+    "text": "O que é uma rede de computadores?",
+    "options": [
+      "Dispositivos conectados para trocar dados",
+      "Um conjunto de tomadas sem dados",
+      "Somente uma impressora desligada",
+      "Uma pasta vazia"
+    ],
+    "correctIndex": 0,
+    "explanation": "Redes permitem comunicação entre dispositivos."
+  },
+  {
+    "id": "networking-02",
+    "category": "networking",
+    "difficult": false,
+    "text": "Qual tecnologia conecta dispositivos sem cabo à rede local?",
+    "options": [
+      "Wi-Fi",
+      "HDMI",
+      "SATA",
+      "Papel carbono"
+    ],
+    "correctIndex": 0,
+    "explanation": "Wi-Fi usa comunicação sem fio para acesso à rede."
+  },
+  {
+    "id": "networking-03",
+    "category": "networking",
+    "difficult": false,
+    "text": "Qual conexão de rede normalmente usa cabo?",
+    "options": [
+      "Ethernet",
+      "Bluetooth de áudio apenas",
+      "Infravermelho do controle apenas",
+      "DisplayPort"
+    ],
+    "correctIndex": 0,
+    "explanation": "Ethernet é amplamente utilizada em redes locais cabeadas."
+  },
+  {
+    "id": "networking-04",
+    "category": "networking",
+    "difficult": false,
+    "text": "Qual equipamento encaminha dados entre redes?",
+    "options": [
+      "Roteador",
+      "Teclado",
+      "Monitor",
+      "Scanner"
+    ],
+    "correctIndex": 0,
+    "explanation": "Roteadores conectam redes e encaminham pacotes."
+  },
+  {
+    "id": "networking-05",
+    "category": "networking",
+    "difficult": false,
+    "text": "Qual aparelho costuma ligar o acesso do provedor à rede do usuário?",
+    "options": [
+      "Modem ou equipamento equivalente do provedor",
+      "Mouse",
+      "Webcam",
+      "Caixa de som"
+    ],
+    "correctIndex": 0,
+    "explanation": "O equipamento de acesso adapta o enlace fornecido pelo provedor."
+  },
+  {
+    "id": "networking-06",
+    "category": "networking",
+    "difficult": false,
+    "text": "O que é o nome de uma rede Wi-Fi, também chamado SSID?",
+    "options": [
+      "Identificação da rede sem fio",
+      "Senha de qualquer conta",
+      "Tamanho do SSD",
+      "Cor do cabo"
+    ],
+    "correctIndex": 0,
+    "explanation": "O SSID permite reconhecer a rede na lista de conexões."
+  },
+  {
+    "id": "networking-07",
+    "category": "networking",
+    "difficult": false,
+    "text": "Para entrar em uma rede Wi-Fi protegida, normalmente é necessário o quê?",
+    "options": [
+      "Autorização e credenciais da rede",
+      "Mudar o papel de parede",
+      "Comprar uma impressora",
+      "Apagar a pasta Downloads"
+    ],
+    "correctIndex": 0,
+    "explanation": "Redes protegidas exigem o método de autenticação configurado."
+  },
+  {
+    "id": "networking-08",
+    "category": "networking",
+    "difficult": false,
+    "text": "O modo avião pode afetar o Wi-Fi?",
+    "options": [
+      "Sim, pode desativar conexões sem fio",
+      "Não, nunca",
+      "Só altera o volume",
+      "Só muda o idioma"
+    ],
+    "correctIndex": 0,
+    "explanation": "Modo avião geralmente desativa rádios, que podem ser reativados conforme o dispositivo."
+  },
+  {
+    "id": "networking-09",
+    "category": "networking",
+    "difficult": false,
+    "text": "Sinal Wi-Fi fraco pode melhorar com qual ação simples?",
+    "options": [
+      "Aproximar-se do ponto de acesso",
+      "Cobrir o roteador com metal",
+      "Apagar documentos",
+      "Aumentar o brilho"
+    ],
+    "correctIndex": 0,
+    "explanation": "Distância e obstáculos podem enfraquecer o sinal."
+  },
+  {
+    "id": "networking-10",
+    "category": "networking",
+    "difficult": false,
+    "text": "Qual objeto pode atrapalhar a propagação do Wi-Fi?",
+    "options": [
+      "Paredes e obstáculos",
+      "Nome de uma pasta",
+      "Ícone do navegador",
+      "Texto do e-mail"
+    ],
+    "correctIndex": 0,
+    "explanation": "Materiais e obstáculos atenuam sinais de rádio."
+  },
+  {
+    "id": "networking-11",
+    "category": "networking",
+    "difficult": false,
+    "text": "Wi-Fi conectado garante internet funcionando?",
+    "options": [
+      "Não",
+      "Sim, sempre",
+      "Só se o ícone for azul",
+      "Só com bateria cheia"
+    ],
+    "correctIndex": 0,
+    "explanation": "A conexão local pode existir mesmo sem acesso externo."
+  },
+  {
+    "id": "networking-12",
+    "category": "networking",
+    "difficult": false,
+    "text": "Qual teste ajuda quando o cabo de rede parece desconectado?",
+    "options": [
+      "Verificar se os conectores estão encaixados",
+      "Apagar todos os arquivos",
+      "Trocar o monitor",
+      "Excluir o navegador"
+    ],
+    "correctIndex": 0,
+    "explanation": "Conexões físicas soltas interrompem o enlace."
+  },
+  {
+    "id": "networking-13",
+    "category": "networking",
+    "difficult": false,
+    "text": "O que é uma rede local, ou LAN?",
+    "options": [
+      "Rede em uma área limitada",
+      "Toda a internet obrigatoriamente",
+      "Uma extensão de arquivo",
+      "Um tipo de impressora"
+    ],
+    "correctIndex": 0,
+    "explanation": "LAN conecta dispositivos de um local, como casa ou escola."
+  },
+  {
+    "id": "networking-14",
+    "category": "networking",
+    "difficult": false,
+    "text": "Qual recurso permite usar a mesma impressora por vários computadores?",
+    "options": [
+      "Compartilhamento em rede",
+      "Aumentar o zoom",
+      "Mudar a cor da tela",
+      "Fechar todas as pastas"
+    ],
+    "correctIndex": 0,
+    "explanation": "Uma impressora em rede pode atender usuários autorizados."
+  },
+  {
+    "id": "networking-15",
+    "category": "networking",
+    "difficult": false,
+    "text": "O que é endereço IP?",
+    "options": [
+      "Identificador de um dispositivo em uma rede IP",
+      "Senha do e-mail",
+      "Modelo do teclado",
+      "Extensão de foto"
+    ],
+    "correctIndex": 0,
+    "explanation": "Endereços IP são usados para endereçar comunicação na rede."
+  },
+  {
+    "id": "networking-16",
+    "category": "networking",
+    "difficult": false,
+    "text": "Qual é um exemplo de formato IPv4?",
+    "options": [
+      "192.168.1.10",
+      "arquivo.docx",
+      "usuario@escola",
+      "ABCD-EFGH"
+    ],
+    "correctIndex": 0,
+    "explanation": "IPv4 é normalmente escrito como quatro números decimais separados por pontos."
+  },
+  {
+    "id": "networking-17",
+    "category": "networking",
+    "difficult": false,
+    "text": "Qual hábito protege uma rede Wi-Fi doméstica?",
+    "options": [
+      "Usar proteção moderna e senha forte",
+      "Deixá-la sempre aberta sem avaliar",
+      "Publicar a senha em qualquer site",
+      "Desativar toda atualização"
+    ],
+    "correctIndex": 0,
+    "explanation": "Autenticação forte reduz acesso não autorizado."
+  },
+  {
+    "id": "networking-18",
+    "category": "networking",
+    "difficult": false,
+    "text": "Qual cuidado ao escolher uma rede com nome parecido com o da escola?",
+    "options": [
+      "Confirmar a rede oficial",
+      "Entrar na primeira sem verificar",
+      "Enviar a senha escolar para qualquer portal",
+      "Aceitar qualquer certificado"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nomes parecidos podem ser usados por redes enganosas."
+  },
+  {
+    "id": "networking-19",
+    "category": "networking",
+    "difficult": false,
+    "text": "Para que serve um switch em uma rede local?",
+    "options": [
+      "Conectar vários dispositivos cabeados",
+      "Editar apresentações",
+      "Capturar voz",
+      "Guardar todos os sites"
+    ],
+    "correctIndex": 0,
+    "explanation": "Switches encaminham quadros entre portas da rede local."
+  },
+  {
+    "id": "networking-20",
+    "category": "networking",
+    "difficult": false,
+    "text": "Bluetooth e Wi-Fi são necessariamente a mesma tecnologia?",
+    "options": [
+      "Não",
+      "Sim",
+      "Só em notebooks",
+      "Só se usarem senha"
+    ],
+    "correctIndex": 0,
+    "explanation": "São tecnologias sem fio com características e finalidades diferentes."
+  },
+  {
+    "id": "networking-21",
+    "category": "networking",
+    "difficult": false,
+    "text": "Qual situação pode congestionar a internet compartilhada da turma?",
+    "options": [
+      "Muitos vídeos e downloads simultâneos",
+      "Mudar o nome de arquivo local",
+      "Abaixar o brilho",
+      "Usar calculadora offline"
+    ],
+    "correctIndex": 0,
+    "explanation": "O tráfego simultâneo disputa a capacidade disponível."
+  },
+  {
+    "id": "networking-22",
+    "category": "networking",
+    "difficult": false,
+    "text": "O que latência alta pode causar em jogo online?",
+    "options": [
+      "Demora na resposta dos comandos",
+      "Mais espaço no SSD",
+      "Aumento da resolução física",
+      "Impressão automática"
+    ],
+    "correctIndex": 0,
+    "explanation": "Latência é o atraso da comunicação, perceptível na interação."
+  },
+  {
+    "id": "networking-23",
+    "category": "networking",
+    "difficult": false,
+    "text": "Qual ação deve ser coordenada antes de reiniciar o roteador da escola?",
+    "options": [
+      "Avisar o responsável e os usuários afetados",
+      "Reiniciar escondido a qualquer momento",
+      "Apagar o histórico de todos",
+      "Trocar os cabos por fios soltos"
+    ],
+    "correctIndex": 0,
+    "explanation": "Reiniciar pode interromper o acesso de toda a turma."
+  },
+  {
+    "id": "networking-24",
+    "category": "networking",
+    "difficult": false,
+    "text": "O que verificar se apenas um computador não entra na rede?",
+    "options": [
+      "As conexões e configurações desse computador",
+      "Trocar todos os roteadores imediatamente",
+      "Apagar arquivos de todos",
+      "Cancelar a internet inteira"
+    ],
+    "correctIndex": 0,
+    "explanation": "Uma falha isolada pode estar no dispositivo ou em seu acesso."
+  },
+  {
+    "id": "networking-25",
+    "category": "networking",
+    "difficult": false,
+    "text": "Qual recurso pode mostrar se há conexão Wi-Fi no sistema?",
+    "options": [
+      "Painel de rede",
+      "Controle de fonte do editor",
+      "Lixeira",
+      "Calendário"
+    ],
+    "correctIndex": 0,
+    "explanation": "O painel de rede mostra conexões e estados."
+  },
+  {
+    "id": "networking-26",
+    "category": "networking",
+    "difficult": false,
+    "text": "Qual cuidado com o cabo Ethernet evita mau contato?",
+    "options": [
+      "Manter o conector encaixado e sem danos",
+      "Dobrar até quebrar",
+      "Puxar pelo fio com força",
+      "Molhar a porta"
+    ],
+    "correctIndex": 0,
+    "explanation": "Cabos e conectores íntegros ajudam a manter o enlace."
+  },
+  {
+    "id": "networking-27",
+    "category": "networking",
+    "difficult": false,
+    "text": "Uma rede de convidados é útil para quê?",
+    "options": [
+      "Separar o acesso de visitantes",
+      "Garantir anonimato absoluto",
+      "Aumentar a RAM dos visitantes",
+      "Apagar documentos pessoais"
+    ],
+    "correctIndex": 0,
+    "explanation": "Redes de convidados podem separar permissões e tráfego."
+  },
+  {
+    "id": "networking-28",
+    "category": "networking",
+    "difficult": false,
+    "text": "Qual unidade costuma indicar velocidade de uma conexão?",
+    "options": [
+      "Megabits por segundo",
+      "Centímetros",
+      "Litros",
+      "Graus da tela"
+    ],
+    "correctIndex": 0,
+    "explanation": "Taxas de rede são frequentemente expressas em bits por segundo."
+  },
+  {
+    "id": "networking-29",
+    "category": "networking",
+    "difficult": false,
+    "text": "Qual situação indica possível falha geral da conexão da escola?",
+    "options": [
+      "Vários aparelhos não acessam sites externos",
+      "Só um arquivo não abre",
+      "Uma tecla está quebrada",
+      "Um monitor está desligado"
+    ],
+    "correctIndex": 0,
+    "explanation": "Problemas simultâneos em vários dispositivos sugerem uma causa compartilhada."
+  },
+  {
+    "id": "networking-30",
+    "category": "networking",
+    "difficult": false,
+    "text": "Qual informação é útil ao pedir ajuda sobre a internet?",
+    "options": [
+      "Quais dispositivos e sites são afetados",
+      "Somente a cor do mouse",
+      "Senha pessoal completa",
+      "Lista de todas as fotos"
+    ],
+    "correctIndex": 0,
+    "explanation": "Descrever o alcance e os sintomas facilita a investigação."
+  },
+  {
+    "id": "networking-31",
+    "category": "networking",
+    "difficult": true,
+    "text": "Uma rede local pode funcionar sem acesso à internet?",
+    "options": [
+      "Sim",
+      "Não, nunca",
+      "Só com cinco computadores",
+      "Só sem cabos"
+    ],
+    "correctIndex": 0,
+    "explanation": "Dispositivos locais podem comunicar-se sem conexão externa."
+  },
+  {
+    "id": "networking-32",
+    "category": "networking",
+    "difficult": true,
+    "text": "100 megabits por segundo equivalem teoricamente a quantos megabytes por segundo?",
+    "options": [
+      "12,5 MB/s",
+      "100 MB/s",
+      "800 MB/s",
+      "1 MB/s"
+    ],
+    "correctIndex": 0,
+    "explanation": "Um byte tem oito bits; a taxa real ainda sofre perdas e sobrecargas."
+  },
+  {
+    "id": "networking-33",
+    "category": "networking",
+    "difficult": true,
+    "text": "Um plano de 300 Mb/s garante essa velocidade em todo download?",
+    "options": [
+      "Não, existem outros limites no caminho",
+      "Sim, para qualquer servidor",
+      "Só se o arquivo for PDF",
+      "Sim, mesmo sem sinal"
+    ],
+    "correctIndex": 0,
+    "explanation": "Servidor remoto, Wi-Fi e tráfego compartilhado podem limitar a transferência."
+  },
+  {
+    "id": "networking-34",
+    "category": "networking",
+    "difficult": true,
+    "text": "Qual diferença entre IP local e público é importante?",
+    "options": [
+      "O local identifica na rede interna; o público participa do acesso externo",
+      "Ambos são sempre senhas",
+      "IP local é um arquivo",
+      "IP público é o nome do mouse"
+    ],
+    "correctIndex": 0,
+    "explanation": "Redes domésticas normalmente usam endereços internos e tradução para acesso externo."
+  },
+  {
+    "id": "networking-35",
+    "category": "networking",
+    "difficult": true,
+    "text": "Por que uma conexão cabeada pode ser mais estável em ambiente com interferência de rádio?",
+    "options": [
+      "Ela não depende do mesmo enlace Wi-Fi pelo ar",
+      "Ela impede toda falha do provedor",
+      "Ela cria banda ilimitada",
+      "Ela dispensa roteamento"
+    ],
+    "correctIndex": 0,
+    "explanation": "O cabo evita certos problemas de sinal sem fio, mas não todas as falhas."
+  },
+  {
+    "id": "networking-36",
+    "category": "networking",
+    "difficult": true,
+    "text": "Qual diferença entre alcance e velocidade nominal do Wi-Fi está correta?",
+    "options": [
+      "Um mede cobertura; o outro capacidade em condições especificadas",
+      "São sempre a mesma medida",
+      "Alcance é medido em bytes",
+      "Velocidade é a cor da antena"
+    ],
+    "correctIndex": 0,
+    "explanation": "Cobertura e taxa dependem de fatores diferentes e das condições do ambiente."
+  },
+  {
+    "id": "networking-37",
+    "category": "networking",
+    "difficult": true,
+    "text": "Por que ter muitas barras de Wi-Fi não garante baixa latência até um site?",
+    "options": [
+      "As barras medem o enlace local, não todo o caminho",
+      "As barras indicam espaço em disco",
+      "A latência só depende do teclado",
+      "Todo sinal forte elimina congestionamento"
+    ],
+    "correctIndex": 0,
+    "explanation": "O trajeto externo e o servidor também influenciam o atraso."
+  },
+  {
+    "id": "networking-38",
+    "category": "networking",
+    "difficult": true,
+    "text": "Ao alternar de Wi-Fi para cabo, o que convém testar?",
+    "options": [
+      "Se o acesso realmente funciona pela conexão ativa",
+      "Apenas o volume",
+      "Somente o brilho",
+      "O nome da pasta Documentos"
+    ],
+    "correctIndex": 0,
+    "explanation": "Estado de conexão e acesso real precisam ser conferidos."
+  },
+  {
+    "id": "networking-39",
+    "category": "networking",
+    "difficult": true,
+    "text": "Dois usuários podem compartilhar o mesmo IP público numa escola?",
+    "options": [
+      "Sim",
+      "Não, é impossível",
+      "Só se usarem o mesmo teclado",
+      "Só se não houver Wi-Fi"
+    ],
+    "correctIndex": 0,
+    "explanation": "O roteador pode traduzir conexões de vários dispositivos por um IP externo."
+  },
+  {
+    "id": "networking-40",
+    "category": "networking",
+    "difficult": true,
+    "text": "Por que medir apenas a velocidade não explica todas as falhas em videoconferência?",
+    "options": [
+      "Perdas de pacotes e variação de atraso também importam",
+      "Vídeo não usa rede",
+      "Só a resolução do monitor importa",
+      "Velocidade mede todas as condições possíveis"
+    ],
+    "correctIndex": 0,
+    "explanation": "Comunicação em tempo real depende de estabilidade, latência e entrega dos dados."
+  },
+  {
+    "id": "presentations-01",
+    "category": "presentations",
+    "difficult": false,
+    "text": "O que é um slide?",
+    "options": [
+      "Uma tela de uma apresentação",
+      "Uma memória física",
+      "Um cabo",
+      "Uma pasta do sistema"
+    ],
+    "correctIndex": 0,
+    "explanation": "Slides organizam a apresentação em partes visuais."
+  },
+  {
+    "id": "presentations-02",
+    "category": "presentations",
+    "difficult": false,
+    "text": "Qual programa é usado para criar slides?",
+    "options": [
+      "PowerPoint",
+      "Gerenciador de Tarefas",
+      "Antivírus",
+      "Driver de mouse"
+    ],
+    "correctIndex": 0,
+    "explanation": "PowerPoint oferece ferramentas de apresentação."
+  },
+  {
+    "id": "presentations-03",
+    "category": "presentations",
+    "difficult": false,
+    "text": "Qual é outra ferramenta de apresentações?",
+    "options": [
+      "Google Apresentações",
+      "Calculadora simples",
+      "Explorador de Arquivos",
+      "Controle de volume"
+    ],
+    "correctIndex": 0,
+    "explanation": "Google Apresentações permite criar e apresentar slides."
+  },
+  {
+    "id": "presentations-04",
+    "category": "presentations",
+    "difficult": false,
+    "text": "Qual conteúdo é adequado para o primeiro slide de um trabalho?",
+    "options": [
+      "Título e identificação",
+      "Todas as referências sem título",
+      "Somente um bloco ilegível",
+      "Uma senha pessoal"
+    ],
+    "correctIndex": 0,
+    "explanation": "A abertura deve apresentar o tema e seus responsáveis."
+  },
+  {
+    "id": "presentations-05",
+    "category": "presentations",
+    "difficult": false,
+    "text": "Qual prática facilita a leitura dos slides?",
+    "options": [
+      "Texto breve e fonte legível",
+      "Parágrafos muito longos e pequenos",
+      "Cores sem contraste",
+      "Todos os elementos sobrepostos"
+    ],
+    "correctIndex": 0,
+    "explanation": "Slides devem apoiar a explicação com informação legível."
+  },
+  {
+    "id": "presentations-06",
+    "category": "presentations",
+    "difficult": false,
+    "text": "Para inserir uma nova tela na apresentação, use o quê?",
+    "options": [
+      "Novo slide",
+      "Nova rede",
+      "Novo processador",
+      "Novo usuário do sistema"
+    ],
+    "correctIndex": 0,
+    "explanation": "Novo slide acrescenta uma etapa à sequência."
+  },
+  {
+    "id": "presentations-07",
+    "category": "presentations",
+    "difficult": false,
+    "text": "O que é um layout de slide?",
+    "options": [
+      "Organização dos espaços de conteúdo",
+      "Velocidade da internet",
+      "Tamanho da RAM",
+      "Nome do monitor"
+    ],
+    "correctIndex": 0,
+    "explanation": "Layouts definem posições típicas para título, texto e imagens."
+  },
+  {
+    "id": "presentations-08",
+    "category": "presentations",
+    "difficult": false,
+    "text": "O que é um tema de apresentação?",
+    "options": [
+      "Conjunto visual de cores e fontes",
+      "Senha de acesso à rede",
+      "Arquivo de som obrigatoriamente",
+      "Um periférico"
+    ],
+    "correctIndex": 0,
+    "explanation": "Temas ajudam a manter unidade visual."
+  },
+  {
+    "id": "presentations-09",
+    "category": "presentations",
+    "difficult": false,
+    "text": "Para mudar a ordem dos slides, qual ação usar?",
+    "options": [
+      "Reorganizar as miniaturas",
+      "Trocar o cabo de energia",
+      "Apagar todas as imagens",
+      "Alterar o volume"
+    ],
+    "correctIndex": 0,
+    "explanation": "A ordem das miniaturas define a sequência da apresentação."
+  },
+  {
+    "id": "presentations-10",
+    "category": "presentations",
+    "difficult": false,
+    "text": "O que significa duplicar um slide?",
+    "options": [
+      "Criar uma cópia dele",
+      "Apagá-lo",
+      "Bloquear o computador",
+      "Transformar em áudio"
+    ],
+    "correctIndex": 0,
+    "explanation": "Duplicar facilita reaproveitar uma estrutura."
+  },
+  {
+    "id": "presentations-11",
+    "category": "presentations",
+    "difficult": false,
+    "text": "Para que serve o modo de apresentação?",
+    "options": [
+      "Exibir os slides ao público",
+      "Editar a BIOS",
+      "Formatar o disco",
+      "Limpar a rede"
+    ],
+    "correctIndex": 0,
+    "explanation": "O modo de apresentação destaca o conteúdo para exibição."
+  },
+  {
+    "id": "presentations-12",
+    "category": "presentations",
+    "difficult": false,
+    "text": "O que uma transição controla?",
+    "options": [
+      "A passagem entre slides",
+      "A senha do arquivo",
+      "A quantidade de RAM",
+      "O formato da impressora"
+    ],
+    "correctIndex": 0,
+    "explanation": "Transições são efeitos aplicados na mudança de slide."
+  },
+  {
+    "id": "presentations-13",
+    "category": "presentations",
+    "difficult": false,
+    "text": "O que uma animação de objeto controla?",
+    "options": [
+      "O comportamento de um elemento no slide",
+      "A troca física de monitor",
+      "O acesso do provedor",
+      "A extensão do sistema"
+    ],
+    "correctIndex": 0,
+    "explanation": "Animações afetam texto, imagens e outros objetos."
+  },
+  {
+    "id": "presentations-14",
+    "category": "presentations",
+    "difficult": false,
+    "text": "Qual uso de animações é mais adequado para uma explicação?",
+    "options": [
+      "Moderado e com propósito",
+      "Em todos os elementos sem critério",
+      "Impedindo a leitura",
+      "Sempre o mais lento possível"
+    ],
+    "correctIndex": 0,
+    "explanation": "Efeitos devem apoiar a atenção e a compreensão."
+  },
+  {
+    "id": "presentations-15",
+    "category": "presentations",
+    "difficult": false,
+    "text": "Qual recurso ajuda o apresentador sem poluir o slide?",
+    "options": [
+      "Notas do apresentador",
+      "Mais parágrafos minúsculos",
+      "Senhas visíveis",
+      "Ícones aleatórios"
+    ],
+    "correctIndex": 0,
+    "explanation": "Notas podem guardar orientações para a fala."
+  },
+  {
+    "id": "presentations-16",
+    "category": "presentations",
+    "difficult": false,
+    "text": "Qual prática ajuda a controlar o tempo da apresentação?",
+    "options": [
+      "Ensaiar",
+      "Adicionar slides sem revisar",
+      "Ler tudo pela primeira vez ao vivo",
+      "Ignorar o limite combinado"
+    ],
+    "correctIndex": 0,
+    "explanation": "O ensaio permite ajustar conteúdo e duração."
+  },
+  {
+    "id": "presentations-17",
+    "category": "presentations",
+    "difficult": false,
+    "text": "O que fazer ao usar uma imagem de outra pessoa nos slides?",
+    "options": [
+      "Verificar licença e atribuir os créditos",
+      "Dizer que é sua",
+      "Apagar o nome do autor",
+      "Usar sem avaliar condições"
+    ],
+    "correctIndex": 0,
+    "explanation": "Condições de uso e autoria devem ser respeitadas."
+  },
+  {
+    "id": "presentations-18",
+    "category": "presentations",
+    "difficult": false,
+    "text": "Qual gráfico facilita comparar resultados entre grupos?",
+    "options": [
+      "Gráfico de barras",
+      "Uma imagem sem legenda",
+      "Um fundo decorativo",
+      "Uma caixa vazia"
+    ],
+    "correctIndex": 0,
+    "explanation": "Barras ajudam a comparar valores por categoria."
+  },
+  {
+    "id": "presentations-19",
+    "category": "presentations",
+    "difficult": false,
+    "text": "Por que evitar fonte muito pequena nos slides?",
+    "options": [
+      "O público pode não conseguir ler",
+      "Ela sempre corrompe o arquivo",
+      "Ela diminui o volume",
+      "Ela apaga a imagem"
+    ],
+    "correctIndex": 0,
+    "explanation": "Distância e tamanho da tela afetam a legibilidade."
+  },
+  {
+    "id": "presentations-20",
+    "category": "presentations",
+    "difficult": false,
+    "text": "Qual combinação tende a ter bom contraste?",
+    "options": [
+      "Texto escuro sobre fundo claro",
+      "Texto branco sobre fundo branco",
+      "Cinza claro sobre branco",
+      "Azul muito escuro sobre preto"
+    ],
+    "correctIndex": 0,
+    "explanation": "Contraste facilita distinguir o conteúdo do fundo."
+  },
+  {
+    "id": "presentations-21",
+    "category": "presentations",
+    "difficult": false,
+    "text": "Qual cuidado ao inserir um vídeo?",
+    "options": [
+      "Testar reprodução e áudio antes",
+      "Confiar sem abrir",
+      "Apagar o arquivo original imediatamente",
+      "Mudar a extensão para PPTX"
+    ],
+    "correctIndex": 0,
+    "explanation": "Vídeos dependem de compatibilidade e disponibilidade do recurso."
+  },
+  {
+    "id": "presentations-22",
+    "category": "presentations",
+    "difficult": false,
+    "text": "Para encerrar com clareza, qual conteúdo é útil?",
+    "options": [
+      "Síntese das ideias principais",
+      "Uma senha",
+      "Um texto sem relação",
+      "A cópia de todos os slides em miniatura"
+    ],
+    "correctIndex": 0,
+    "explanation": "Uma síntese retoma as mensagens mais relevantes."
+  },
+  {
+    "id": "presentations-23",
+    "category": "presentations",
+    "difficult": false,
+    "text": "O que são miniaturas dos slides?",
+    "options": [
+      "Pequenas prévias da sequência",
+      "Cópias de hardware",
+      "Senhas temporárias",
+      "Pastas ocultas obrigatórias"
+    ],
+    "correctIndex": 0,
+    "explanation": "Miniaturas ajudam a navegar e reorganizar a apresentação."
+  },
+  {
+    "id": "presentations-24",
+    "category": "presentations",
+    "difficult": false,
+    "text": "Qual prática mantém consistência visual?",
+    "options": [
+      "Reutilizar estilos e alinhamentos",
+      "Trocar todas as fontes em cada linha",
+      "Usar cores aleatórias sempre",
+      "Girar todo texto"
+    ],
+    "correctIndex": 0,
+    "explanation": "Consistência reduz distrações e facilita a leitura."
+  },
+  {
+    "id": "presentations-25",
+    "category": "presentations",
+    "difficult": false,
+    "text": "O que fazer antes de apresentar em outro computador?",
+    "options": [
+      "Testar o arquivo e os recursos nesse equipamento",
+      "Supor que tudo funciona",
+      "Levar só o nome do arquivo",
+      "Apagar os vídeos"
+    ],
+    "correctIndex": 0,
+    "explanation": "Compatibilidade, fontes e mídias devem ser conferidas."
+  },
+  {
+    "id": "presentations-26",
+    "category": "presentations",
+    "difficult": false,
+    "text": "Qual formato pode distribuir slides estáticos com layout estável?",
+    "options": [
+      "PDF",
+      "MP3",
+      "EXE",
+      "TXT puro"
+    ],
+    "correctIndex": 0,
+    "explanation": "PDF é útil para leitura estática dos slides."
+  },
+  {
+    "id": "presentations-27",
+    "category": "presentations",
+    "difficult": false,
+    "text": "Ao redimensionar uma foto no slide, o que preservar?",
+    "options": [
+      "A proporção",
+      "A distorção máxima",
+      "Somente a largura",
+      "Somente a altura"
+    ],
+    "correctIndex": 0,
+    "explanation": "Manter a proporção evita deformar a imagem."
+  },
+  {
+    "id": "presentations-28",
+    "category": "presentations",
+    "difficult": false,
+    "text": "Qual é um bom título de slide?",
+    "options": [
+      "Uma frase curta que identifica a ideia",
+      "Um código sem contexto",
+      "Um parágrafo inteiro minúsculo",
+      "Uma senha"
+    ],
+    "correctIndex": 0,
+    "explanation": "Títulos orientam o público sobre a mensagem da tela."
+  },
+  {
+    "id": "presentations-29",
+    "category": "presentations",
+    "difficult": false,
+    "text": "Qual atitude melhora a apresentação oral?",
+    "options": [
+      "Explicar com suas palavras apoiando-se no slide",
+      "Ler tudo de costas para a turma",
+      "Exibir conteúdo ilegível",
+      "Ignorar perguntas combinadas"
+    ],
+    "correctIndex": 0,
+    "explanation": "Slides apoiam a fala, mas não precisam conter toda a explicação."
+  },
+  {
+    "id": "presentations-30",
+    "category": "presentations",
+    "difficult": false,
+    "text": "Qual cuidado com o volume de um vídeo apresentado à turma?",
+    "options": [
+      "Ajustar para ser audível sem excesso",
+      "Usar sempre o máximo",
+      "Deixar no mudo sem verificar",
+      "Testar somente após terminar"
+    ],
+    "correctIndex": 0,
+    "explanation": "O volume deve ser adequado ao espaço e ao público."
+  },
+  {
+    "id": "presentations-31",
+    "category": "presentations",
+    "difficult": true,
+    "text": "Qual diferença entre exportar PDF e manter PPTX importa para animações?",
+    "options": [
+      "PDF estático não preserva a reprodução das animações",
+      "PDF executa todos os efeitos do PowerPoint",
+      "PPTX nunca tem animações",
+      "PDF sempre vira vídeo"
+    ],
+    "correctIndex": 0,
+    "explanation": "A exportação estática preserva páginas, não o comportamento completo."
+  },
+  {
+    "id": "presentations-32",
+    "category": "presentations",
+    "difficult": true,
+    "text": "Por que um vídeo vinculado pode falhar ao levar a apresentação para outro computador?",
+    "options": [
+      "O arquivo ou endereço de origem pode estar indisponível",
+      "A miniatura garante incorporação",
+      "Todo vídeo está dentro do PPTX",
+      "A fonte do título impede áudio"
+    ],
+    "correctIndex": 0,
+    "explanation": "Vínculos dependem de recursos externos acessíveis."
+  },
+  {
+    "id": "presentations-33",
+    "category": "presentations",
+    "difficult": true,
+    "text": "Qual vantagem de um slide mestre ou recurso equivalente?",
+    "options": [
+      "Aplicar padrões visuais de forma centralizada",
+      "Eliminar a necessidade de conteúdo",
+      "Garantir internet",
+      "Transformar todos os slides em áudio"
+    ],
+    "correctIndex": 0,
+    "explanation": "Elementos comuns podem ser ajustados de forma consistente."
+  },
+  {
+    "id": "presentations-34",
+    "category": "presentations",
+    "difficult": true,
+    "text": "Usar somente verde e vermelho para indicar resultados pode excluir quem?",
+    "options": [
+      "Pessoas que não distinguem bem essas cores",
+      "Somente quem não tem mouse",
+      "Todos que usam Wi-Fi",
+      "Apenas quem imprime em A4"
+    ],
+    "correctIndex": 0,
+    "explanation": "Acrescente rótulos, símbolos ou padrões além da cor."
+  },
+  {
+    "id": "presentations-35",
+    "category": "presentations",
+    "difficult": true,
+    "text": "Qual é a diferença entre transição e animação de objeto?",
+    "options": [
+      "Transição muda slides; animação atua em elementos",
+      "São sempre a mesma ação",
+      "Transição só corrige texto",
+      "Animação muda a senha"
+    ],
+    "correctIndex": 0,
+    "explanation": "Os efeitos têm escopos distintos na apresentação."
+  },
+  {
+    "id": "presentations-36",
+    "category": "presentations",
+    "difficult": true,
+    "text": "Por que excesso de efeitos pode prejudicar a compreensão?",
+    "options": [
+      "Disputa atenção com a mensagem",
+      "Sempre quebra o projetor",
+      "Apaga referências",
+      "Aumenta a inteligência do público"
+    ],
+    "correctIndex": 0,
+    "explanation": "Movimento e efeitos sem propósito criam distração."
+  },
+  {
+    "id": "presentations-37",
+    "category": "presentations",
+    "difficult": true,
+    "text": "Qual cuidado ao usar modo do apresentador com duas telas?",
+    "options": [
+      "Confirmar que o público vê os slides, não as notas privadas",
+      "Mostrar as notas pessoais obrigatoriamente",
+      "Desligar ambas as telas",
+      "Abrir senhas para testar"
+    ],
+    "correctIndex": 0,
+    "explanation": "A configuração de telas determina qual conteúdo vai para cada saída."
+  },
+  {
+    "id": "presentations-38",
+    "category": "presentations",
+    "difficult": true,
+    "text": "Por que títulos estruturados e texto alternativo ajudam nos slides?",
+    "options": [
+      "Melhoram a navegação e a interpretação por tecnologias assistivas",
+      "Substituem todo ensaio",
+      "Eliminam a necessidade de contraste",
+      "Impedem edição"
+    ],
+    "correctIndex": 0,
+    "explanation": "Acessibilidade depende de estrutura e descrições úteis."
+  },
+  {
+    "id": "presentations-39",
+    "category": "presentations",
+    "difficult": true,
+    "text": "Qual problema pode surgir ao usar fontes ausentes no computador de destino?",
+    "options": [
+      "Substituição de fonte e mudança de layout",
+      "A internet é apagada",
+      "Todos os slides ficam em áudio",
+      "O mouse para sempre"
+    ],
+    "correctIndex": 0,
+    "explanation": "Substituições podem alterar quebras e dimensões do texto."
+  },
+  {
+    "id": "presentations-40",
+    "category": "presentations",
+    "difficult": true,
+    "text": "Ao mostrar um gráfico em um slide, qual contexto deve acompanhar os números?",
+    "options": [
+      "Rótulos, unidades e fonte dos dados",
+      "Somente efeitos brilhantes",
+      "A senha da planilha",
+      "O modelo do teclado"
+    ],
+    "correctIndex": 0,
+    "explanation": "Contexto permite interpretar corretamente a visualização."
+  },
+  {
+    "id": "safety-01",
+    "category": "safety",
+    "difficult": false,
+    "text": "Qual senha é uma escolha mais segura?",
+    "options": [
+      "Uma frase longa e exclusiva",
+      "123456",
+      "Seu primeiro nome",
+      "A palavra senha"
+    ],
+    "correctIndex": 0,
+    "explanation": "Comprimento e exclusividade dificultam adivinhação e reutilização indevida."
+  },
+  {
+    "id": "safety-02",
+    "category": "safety",
+    "difficult": false,
+    "text": "Por que não compartilhar sua senha com colegas?",
+    "options": [
+      "Ela dá acesso à sua conta",
+      "Ela deixa o teclado lento",
+      "Ela ocupa toda a RAM",
+      "Ela muda o monitor"
+    ],
+    "correctIndex": 0,
+    "explanation": "Credenciais devem permanecer sob controle do titular."
+  },
+  {
+    "id": "safety-03",
+    "category": "safety",
+    "difficult": false,
+    "text": "O que a autenticação em dois fatores acrescenta?",
+    "options": [
+      "Outra etapa de verificação",
+      "Mais espaço no SSD",
+      "Uma nova tela física",
+      "Internet gratuita"
+    ],
+    "correctIndex": 0,
+    "explanation": "Um segundo fator dificulta acesso só com a senha."
+  },
+  {
+    "id": "safety-04",
+    "category": "safety",
+    "difficult": false,
+    "text": "Uma mensagem pede sua senha com urgência. O que fazer?",
+    "options": [
+      "Verificar por um canal oficial sem entregar a senha",
+      "Enviar imediatamente",
+      "Mandar também o código de verificação",
+      "Encaminhar a senha à turma"
+    ],
+    "correctIndex": 0,
+    "explanation": "Urgência e pedidos de credenciais são sinais comuns de golpe."
+  },
+  {
+    "id": "safety-05",
+    "category": "safety",
+    "difficult": false,
+    "text": "O que é phishing?",
+    "options": [
+      "Tentativa de enganar para obter dados ou acesso",
+      "Um tipo de teclado",
+      "Uma memória física",
+      "Uma planilha"
+    ],
+    "correctIndex": 0,
+    "explanation": "Phishing usa mensagens e páginas enganosas para capturar informações."
+  },
+  {
+    "id": "safety-06",
+    "category": "safety",
+    "difficult": false,
+    "text": "Ao sair de um computador compartilhado, o que fazer?",
+    "options": [
+      "Sair das contas e bloquear ou encerrar a sessão",
+      "Deixar senhas salvas para todos",
+      "Desligar só o som",
+      "Abrir mais abas pessoais"
+    ],
+    "correctIndex": 0,
+    "explanation": "Encerrar sessões reduz acesso indevido por outras pessoas."
+  },
+  {
+    "id": "safety-07",
+    "category": "safety",
+    "difficult": false,
+    "text": "Onde guardar senhas de forma mais adequada?",
+    "options": [
+      "Gerenciador de senhas confiável",
+      "Mensagem pública da turma",
+      "Nome do arquivo compartilhado",
+      "Post-it exposto na sala"
+    ],
+    "correctIndex": 0,
+    "explanation": "Um gerenciador confiável ajuda a manter senhas exclusivas e protegidas."
+  },
+  {
+    "id": "safety-08",
+    "category": "safety",
+    "difficult": false,
+    "text": "Qual é o objetivo de um backup?",
+    "options": [
+      "Permitir recuperação de dados",
+      "Aumentar o volume",
+      "Trocar o mouse",
+      "Eliminar toda ameaça automaticamente"
+    ],
+    "correctIndex": 0,
+    "explanation": "Cópias de segurança ajudam quando dados são perdidos ou danificados."
+  },
+  {
+    "id": "safety-09",
+    "category": "safety",
+    "difficult": false,
+    "text": "Qual arquivo inesperado exige cautela?",
+    "options": [
+      "Executável de remetente desconhecido",
+      "Documento que você criou localmente",
+      "Pasta vazia criada por você",
+      "Imagem de sua própria câmera apenas"
+    ],
+    "correctIndex": 0,
+    "explanation": "Executáveis desconhecidos podem instalar programas maliciosos."
+  },
+  {
+    "id": "safety-10",
+    "category": "safety",
+    "difficult": false,
+    "text": "Um anúncio diz que você ganhou um prêmio sem participar. Qual atitude é prudente?",
+    "options": [
+      "Desconfiar e verificar sem fornecer dados",
+      "Pagar uma taxa imediatamente",
+      "Enviar documentos pessoais",
+      "Compartilhar a senha"
+    ],
+    "correctIndex": 0,
+    "explanation": "Promessas inesperadas são frequentemente usadas em golpes."
+  },
+  {
+    "id": "safety-11",
+    "category": "safety",
+    "difficult": false,
+    "text": "Qual dado deve ser protegido?",
+    "options": [
+      "Senha pessoal",
+      "Nome de uma tecla",
+      "Modelo público de mouse",
+      "Cor padrão de uma pasta"
+    ],
+    "correctIndex": 0,
+    "explanation": "Senhas permitem acesso a contas e informações."
+  },
+  {
+    "id": "safety-12",
+    "category": "safety",
+    "difficult": false,
+    "text": "Qual hábito ajuda a manter o sistema protegido?",
+    "options": [
+      "Instalar atualizações de fontes oficiais",
+      "Desativar todas as atualizações",
+      "Abrir todo anexo",
+      "Compartilhar códigos de acesso"
+    ],
+    "correctIndex": 0,
+    "explanation": "Atualizações corrigem falhas conhecidas."
+  },
+  {
+    "id": "safety-13",
+    "category": "safety",
+    "difficult": false,
+    "text": "O que fazer com um código de autenticação recebido?",
+    "options": [
+      "Usá-lo somente no serviço solicitado por você",
+      "Enviar a qualquer pessoa que pedir",
+      "Publicar no chat",
+      "Colocar no nome do perfil"
+    ],
+    "correctIndex": 0,
+    "explanation": "Códigos de verificação podem autorizar acesso à conta."
+  },
+  {
+    "id": "safety-14",
+    "category": "safety",
+    "difficult": false,
+    "text": "O que é malware?",
+    "options": [
+      "Software malicioso",
+      "Qualquer programa gratuito",
+      "Todo arquivo PDF",
+      "Um tipo de cabo"
+    ],
+    "correctIndex": 0,
+    "explanation": "Malware é criado para ações prejudiciais ou não autorizadas."
+  },
+  {
+    "id": "safety-15",
+    "category": "safety",
+    "difficult": false,
+    "text": "Qual conduta é adequada em uma rede pública desconhecida?",
+    "options": [
+      "Evitar operações sensíveis e verificar a conexão",
+      "Confiar em qualquer página de login",
+      "Enviar senhas pelo chat",
+      "Desativar proteção do navegador"
+    ],
+    "correctIndex": 0,
+    "explanation": "Redes desconhecidas exigem atenção à origem e à proteção da comunicação."
+  },
+  {
+    "id": "safety-16",
+    "category": "safety",
+    "difficult": false,
+    "text": "Para instalar uma extensão, qual verificação importa?",
+    "options": [
+      "Origem e permissões solicitadas",
+      "Somente o desenho do ícone",
+      "Cor do computador",
+      "Quantidade de letras no nome"
+    ],
+    "correctIndex": 0,
+    "explanation": "Extensões podem acessar dados e devem ter procedência confiável."
+  },
+  {
+    "id": "safety-17",
+    "category": "safety",
+    "difficult": false,
+    "text": "Se notar acesso suspeito à conta, o que fazer?",
+    "options": [
+      "Trocar a senha por canal oficial e revisar sessões",
+      "Publicar a senha antiga",
+      "Ignorar sempre",
+      "Enviar os códigos ao suspeito"
+    ],
+    "correctIndex": 0,
+    "explanation": "Recuperar controle e encerrar sessões indevidas ajuda a conter o acesso."
+  },
+  {
+    "id": "safety-18",
+    "category": "safety",
+    "difficult": false,
+    "text": "Por que usar senhas diferentes em serviços diferentes?",
+    "options": [
+      "Um vazamento não expõe automaticamente todas as contas",
+      "Para aumentar o peso do computador",
+      "Para deixar a internet lenta",
+      "Para apagar o histórico"
+    ],
+    "correctIndex": 0,
+    "explanation": "Reutilização amplia o impacto de credenciais vazadas."
+  },
+  {
+    "id": "safety-19",
+    "category": "safety",
+    "difficult": false,
+    "text": "Qual atitude protege dados de colegas?",
+    "options": [
+      "Não divulgar informações pessoais sem autorização",
+      "Postar listas de senhas",
+      "Publicar documentos sem revisão",
+      "Enviar fotos de identificação"
+    ],
+    "correctIndex": 0,
+    "explanation": "Privacidade inclui respeitar informações de outras pessoas."
+  },
+  {
+    "id": "safety-20",
+    "category": "safety",
+    "difficult": false,
+    "text": "Um site solicita seu documento para uma tarefa simples. O que fazer?",
+    "options": [
+      "Avaliar necessidade e legitimidade antes de informar",
+      "Enviar por hábito",
+      "Publicar o documento no chat",
+      "Mandar mais dados que o pedido"
+    ],
+    "correctIndex": 0,
+    "explanation": "Coleta de dados deve ser proporcional e ter finalidade legítima."
+  },
+  {
+    "id": "safety-21",
+    "category": "safety",
+    "difficult": false,
+    "text": "Qual cuidado antes de clicar em um link recebido?",
+    "options": [
+      "Verificar o endereço e o contexto",
+      "Confiar apenas no texto do botão",
+      "Ignorar o remetente",
+      "Aceitar toda urgência"
+    ],
+    "correctIndex": 0,
+    "explanation": "O texto do link pode esconder um endereço diferente."
+  },
+  {
+    "id": "safety-22",
+    "category": "safety",
+    "difficult": false,
+    "text": "Uma página imita o visual de um banco. Isso garante autenticidade?",
+    "options": [
+      "Não",
+      "Sim, pelo logotipo",
+      "Sim, pela cor",
+      "Só se tiver botão verde"
+    ],
+    "correctIndex": 0,
+    "explanation": "Aparência pode ser copiada por páginas fraudulentas."
+  },
+  {
+    "id": "safety-23",
+    "category": "safety",
+    "difficult": false,
+    "text": "Qual prática é adequada ao se afastar do computador?",
+    "options": [
+      "Bloquear a sessão",
+      "Deixar dados pessoais abertos",
+      "Entregar o teclado a qualquer pessoa",
+      "Desligar só o monitor sem bloquear"
+    ],
+    "correctIndex": 0,
+    "explanation": "Bloquear impede uso casual da sessão enquanto você está ausente."
+  },
+  {
+    "id": "safety-24",
+    "category": "safety",
+    "difficult": false,
+    "text": "O antivírus substitui todos os cuidados do usuário?",
+    "options": [
+      "Não",
+      "Sim, sempre",
+      "Só se o ícone for verde",
+      "Só em computador novo"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nenhuma ferramenta elimina todos os riscos e golpes."
+  },
+  {
+    "id": "safety-25",
+    "category": "safety",
+    "difficult": false,
+    "text": "O que fazer ao receber conteúdo ofensivo no chat escolar?",
+    "options": [
+      "Guardar evidência e comunicar ao responsável",
+      "Responder com dados pessoais",
+      "Repassar para humilhar alguém",
+      "Divulgar senhas"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pedir apoio e preservar evidência ajuda no tratamento do problema."
+  },
+  {
+    "id": "safety-26",
+    "category": "safety",
+    "difficult": false,
+    "text": "Qual é um sinal de possível golpe em mensagem?",
+    "options": [
+      "Pressão para agir sem conferir",
+      "Explicação verificável por canal oficial",
+      "Documento esperado do professor",
+      "Mensagem escrita por você"
+    ],
+    "correctIndex": 0,
+    "explanation": "Urgência artificial busca impedir avaliação cuidadosa."
+  },
+  {
+    "id": "safety-27",
+    "category": "safety",
+    "difficult": false,
+    "text": "Qual permissão faz sentido para uma chamada de vídeo?",
+    "options": [
+      "Câmera e microfone quando usados",
+      "Acesso irrestrito a todos os arquivos sempre",
+      "Controle total de outras contas",
+      "Leitura de senhas"
+    ],
+    "correctIndex": 0,
+    "explanation": "As permissões devem corresponder à função em uso."
+  },
+  {
+    "id": "safety-28",
+    "category": "safety",
+    "difficult": false,
+    "text": "O que fazer antes de vender ou doar um dispositivo?",
+    "options": [
+      "Remover contas e dados pessoais de forma adequada",
+      "Deixar tudo aberto",
+      "Salvar senhas no fundo da tela",
+      "Compartilhar códigos de recuperação"
+    ],
+    "correctIndex": 0,
+    "explanation": "A transferência de propriedade exige preparar o dispositivo e proteger os dados."
+  },
+  {
+    "id": "safety-29",
+    "category": "safety",
+    "difficult": false,
+    "text": "Uma senha longa deve ser reutilizada em todas as contas?",
+    "options": [
+      "Não",
+      "Sim, obrigatoriamente",
+      "Só se tiver números",
+      "Só se estiver anotada"
+    ],
+    "correctIndex": 0,
+    "explanation": "Mesmo uma senha forte perde proteção ampla se vazar e for reutilizada."
+  },
+  {
+    "id": "safety-30",
+    "category": "safety",
+    "difficult": false,
+    "text": "Qual é um bom destino para uma cópia de segurança?",
+    "options": [
+      "Outro dispositivo ou serviço protegido",
+      "A mesma Lixeira",
+      "Somente a memória RAM",
+      "Uma pasta temporária sem proteção"
+    ],
+    "correctIndex": 0,
+    "explanation": "Separar cópias reduz o risco de perda conjunta."
+  },
+  {
+    "id": "safety-31",
+    "category": "safety",
+    "difficult": true,
+    "text": "Autenticação em dois fatores torna phishing impossível?",
+    "options": [
+      "Não, ainda exige cuidado com códigos e páginas falsas",
+      "Sim, elimina todos os golpes",
+      "Só se for por SMS",
+      "Só se o teclado for novo"
+    ],
+    "correctIndex": 0,
+    "explanation": "Alguns golpes tentam capturar também o segundo fator ou a sessão."
+  },
+  {
+    "id": "safety-32",
+    "category": "safety",
+    "difficult": true,
+    "text": "Por que códigos de recuperação devem ficar protegidos?",
+    "options": [
+      "Podem permitir recuperar o acesso à conta",
+      "Aumentam a velocidade da rede",
+      "São apenas enfeites",
+      "Substituem a bateria"
+    ],
+    "correctIndex": 0,
+    "explanation": "Códigos de recuperação são credenciais sensíveis."
+  },
+  {
+    "id": "safety-33",
+    "category": "safety",
+    "difficult": true,
+    "text": "Qual distinção entre backup e sincronização é importante?",
+    "options": [
+      "Uma exclusão pode ser propagada pela sincronização",
+      "Sincronização sempre mantém todas as versões",
+      "Backup é apenas renomear",
+      "Sincronização cria outro computador"
+    ],
+    "correctIndex": 0,
+    "explanation": "É preciso verificar histórico, retenção e recuperação do serviço."
+  },
+  {
+    "id": "safety-34",
+    "category": "safety",
+    "difficult": true,
+    "text": "Um link termina em escola.exemplo.com. Qual é o domínio principal desse exemplo?",
+    "options": [
+      "exemplo.com",
+      "escola sozinho",
+      "com.escola",
+      "Toda palavra antes do primeiro ponto"
+    ],
+    "correctIndex": 0,
+    "explanation": "Subdomínios aparecem antes do domínio principal nesse endereço."
+  },
+  {
+    "id": "safety-35",
+    "category": "safety",
+    "difficult": true,
+    "text": "HTTPS protege principalmente qual aspecto?",
+    "options": [
+      "A comunicação entre navegador e servidor",
+      "A honestidade do vendedor",
+      "A veracidade de todo texto",
+      "O aparelho contra qualquer malware"
+    ],
+    "correctIndex": 0,
+    "explanation": "Criptografia de transporte não certifica intenções ou conteúdo."
+  },
+  {
+    "id": "safety-36",
+    "category": "safety",
+    "difficult": true,
+    "text": "Qual é uma boa resposta a uma solicitação inesperada de login de dois fatores?",
+    "options": [
+      "Negar e revisar a segurança da conta",
+      "Aprovar para parar os avisos",
+      "Publicar o código",
+      "Desativar a senha"
+    ],
+    "correctIndex": 0,
+    "explanation": "Uma tentativa não iniciada por você pode indicar uso indevido das credenciais."
+  },
+  {
+    "id": "safety-37",
+    "category": "safety",
+    "difficult": true,
+    "text": "Uma mensagem de um conhecido pode conter golpe?",
+    "options": [
+      "Sim, a conta dele pode estar comprometida",
+      "Não, contatos são sempre seguros",
+      "Só se não tiver foto",
+      "Só se enviada à noite"
+    ],
+    "correctIndex": 0,
+    "explanation": "É preciso verificar pedidos estranhos mesmo de contatos conhecidos."
+  },
+  {
+    "id": "safety-38",
+    "category": "safety",
+    "difficult": true,
+    "text": "O que caracteriza engenharia social?",
+    "options": [
+      "Manipular pessoas para obter informação ou ação",
+      "Trocar a placa de rede",
+      "Escrever qualquer texto",
+      "Organizar pastas por data"
+    ],
+    "correctIndex": 0,
+    "explanation": "O ataque explora confiança, medo ou urgência para influenciar decisões."
+  },
+  {
+    "id": "safety-39",
+    "category": "safety",
+    "difficult": true,
+    "text": "Qual cuidado ao autorizar acesso remoto ao computador?",
+    "options": [
+      "Confirmar quem solicita e acompanhar a sessão",
+      "Aceitar desconhecidos por prêmio",
+      "Entregar acesso permanente sem necessidade",
+      "Enviar todas as senhas"
+    ],
+    "correctIndex": 0,
+    "explanation": "Acesso remoto permite controle e deve ter escopo e origem verificados."
+  },
+  {
+    "id": "safety-40",
+    "category": "safety",
+    "difficult": true,
+    "text": "Por que testar a restauração de um backup é útil?",
+    "options": [
+      "Confirma se a cópia pode ser recuperada",
+      "Aumenta a capacidade física do SSD",
+      "Elimina a necessidade de cópias futuras",
+      "Transforma qualquer arquivo em seguro"
+    ],
+    "correctIndex": 0,
+    "explanation": "Uma cópia só ajuda se estiver íntegra e puder ser usada na recuperação."
+  },
+  {
+    "id": "shortcuts-01",
+    "category": "shortcuts",
+    "difficult": false,
+    "text": "Em muitos aplicativos no Windows, o que Ctrl+C faz?",
+    "options": [
+      "Copia a seleção",
+      "Apaga permanentemente",
+      "Fecha o sistema",
+      "Abre a calculadora"
+    ],
+    "correctIndex": 0,
+    "explanation": "Ctrl+C copia o conteúdo selecionado para a área de transferência."
+  },
+  {
+    "id": "shortcuts-02",
+    "category": "shortcuts",
+    "difficult": false,
+    "text": "O que Ctrl+V costuma fazer?",
+    "options": [
+      "Colar",
+      "Copiar",
+      "Recortar",
+      "Reiniciar"
+    ],
+    "correctIndex": 0,
+    "explanation": "Ctrl+V insere o conteúdo disponível na área de transferência."
+  },
+  {
+    "id": "shortcuts-03",
+    "category": "shortcuts",
+    "difficult": false,
+    "text": "O que Ctrl+X costuma fazer?",
+    "options": [
+      "Recortar",
+      "Abrir ajuda",
+      "Aumentar volume",
+      "Imprimir"
+    ],
+    "correctIndex": 0,
+    "explanation": "Recortar prepara a seleção para ser transferida."
+  },
+  {
+    "id": "shortcuts-04",
+    "category": "shortcuts",
+    "difficult": false,
+    "text": "Qual atalho costuma desfazer a última ação?",
+    "options": [
+      "Ctrl+Z",
+      "Ctrl+P",
+      "Ctrl+L",
+      "Alt+F4"
+    ],
+    "correctIndex": 0,
+    "explanation": "Ctrl+Z reverte ações compatíveis no aplicativo."
+  },
+  {
+    "id": "shortcuts-05",
+    "category": "shortcuts",
+    "difficult": false,
+    "text": "Qual atalho costuma selecionar todo o texto no navegador?",
+    "options": [
+      "Ctrl+A",
+      "Ctrl+R",
+      "Ctrl+T",
+      "Ctrl+W"
+    ],
+    "correctIndex": 0,
+    "explanation": "Ctrl+A seleciona todo o conteúdo no contexto ativo."
+  },
+  {
+    "id": "shortcuts-06",
+    "category": "shortcuts",
+    "difficult": false,
+    "text": "No navegador, qual atalho abre uma nova aba?",
+    "options": [
+      "Ctrl+T",
+      "Ctrl+P",
+      "Ctrl+F",
+      "Ctrl+C"
+    ],
+    "correctIndex": 0,
+    "explanation": "Ctrl+T cria uma aba nova."
+  },
+  {
+    "id": "shortcuts-07",
+    "category": "shortcuts",
+    "difficult": false,
+    "text": "No navegador, qual atalho fecha a aba atual?",
+    "options": [
+      "Ctrl+W",
+      "Ctrl+L",
+      "Ctrl+D",
+      "Ctrl+N"
+    ],
+    "correctIndex": 0,
+    "explanation": "Ctrl+W fecha a aba em foco."
+  },
+  {
+    "id": "shortcuts-08",
+    "category": "shortcuts",
+    "difficult": false,
+    "text": "No navegador, qual atalho reabre a última aba fechada?",
+    "options": [
+      "Ctrl+Shift+T",
+      "Ctrl+Shift+C",
+      "Alt+Enter",
+      "Shift+Esc"
+    ],
+    "correctIndex": 0,
+    "explanation": "Ctrl+Shift+T costuma recuperar abas fechadas recentemente."
+  },
+  {
+    "id": "shortcuts-09",
+    "category": "shortcuts",
+    "difficult": false,
+    "text": "Qual atalho foca a barra de endereço no navegador?",
+    "options": [
+      "Ctrl+L",
+      "Ctrl+P",
+      "Ctrl+Z",
+      "Ctrl+X"
+    ],
+    "correctIndex": 0,
+    "explanation": "Ctrl+L seleciona a barra de endereços."
+  },
+  {
+    "id": "shortcuts-10",
+    "category": "shortcuts",
+    "difficult": false,
+    "text": "Qual atalho procura texto na página atual?",
+    "options": [
+      "Ctrl+F",
+      "Ctrl+T",
+      "Ctrl+N",
+      "Ctrl+W"
+    ],
+    "correctIndex": 0,
+    "explanation": "Ctrl+F abre a busca dentro da página."
+  },
+  {
+    "id": "shortcuts-11",
+    "category": "shortcuts",
+    "difficult": false,
+    "text": "Qual atalho costuma abrir a impressão?",
+    "options": [
+      "Ctrl+P",
+      "Ctrl+H",
+      "Ctrl+J",
+      "Ctrl+D"
+    ],
+    "correctIndex": 0,
+    "explanation": "Ctrl+P abre as opções de impressão."
+  },
+  {
+    "id": "shortcuts-12",
+    "category": "shortcuts",
+    "difficult": false,
+    "text": "Qual atalho atualiza uma página em navegadores comuns no Windows?",
+    "options": [
+      "Ctrl+R",
+      "Ctrl+Q",
+      "Ctrl+X",
+      "Alt+Tab"
+    ],
+    "correctIndex": 0,
+    "explanation": "Ctrl+R recarrega a página atual."
+  },
+  {
+    "id": "shortcuts-13",
+    "category": "shortcuts",
+    "difficult": false,
+    "text": "Qual tecla também costuma atualizar uma página?",
+    "options": [
+      "F5",
+      "Caps Lock",
+      "Shift",
+      "Insert"
+    ],
+    "correctIndex": 0,
+    "explanation": "F5 é usada para atualizar páginas em muitos navegadores."
+  },
+  {
+    "id": "shortcuts-14",
+    "category": "shortcuts",
+    "difficult": false,
+    "text": "Qual atalho alterna entre janelas no Windows?",
+    "options": [
+      "Alt+Tab",
+      "Ctrl+C",
+      "Ctrl+F",
+      "Shift+Enter"
+    ],
+    "correctIndex": 0,
+    "explanation": "Alt+Tab percorre janelas abertas."
+  },
+  {
+    "id": "shortcuts-15",
+    "category": "shortcuts",
+    "difficult": false,
+    "text": "Qual atalho fecha a janela ativa no Windows?",
+    "options": [
+      "Alt+F4",
+      "Ctrl+T",
+      "Shift+Tab",
+      "Ctrl+D"
+    ],
+    "correctIndex": 0,
+    "explanation": "Alt+F4 solicita o fechamento da janela ativa."
+  },
+  {
+    "id": "shortcuts-16",
+    "category": "shortcuts",
+    "difficult": false,
+    "text": "Qual atalho abre o Explorador de Arquivos no Windows?",
+    "options": [
+      "Windows+E",
+      "Ctrl+E",
+      "Alt+E",
+      "Shift+E"
+    ],
+    "correctIndex": 0,
+    "explanation": "Windows+E abre o gerenciador de arquivos."
+  },
+  {
+    "id": "shortcuts-17",
+    "category": "shortcuts",
+    "difficult": false,
+    "text": "Qual atalho bloqueia a sessão no Windows?",
+    "options": [
+      "Windows+L",
+      "Ctrl+L",
+      "Alt+L",
+      "Shift+L"
+    ],
+    "correctIndex": 0,
+    "explanation": "Windows+L bloqueia a tela sem encerrar os programas."
+  },
+  {
+    "id": "shortcuts-18",
+    "category": "shortcuts",
+    "difficult": false,
+    "text": "Qual tecla costuma avançar para o próximo campo?",
+    "options": [
+      "Tab",
+      "Caps Lock",
+      "F2",
+      "Print Screen"
+    ],
+    "correctIndex": 0,
+    "explanation": "Tab percorre controles que recebem foco."
+  },
+  {
+    "id": "shortcuts-19",
+    "category": "shortcuts",
+    "difficult": false,
+    "text": "Como voltar ao campo anterior em um formulário?",
+    "options": [
+      "Shift+Tab",
+      "Alt+F4",
+      "Ctrl+R",
+      "Ctrl+T"
+    ],
+    "correctIndex": 0,
+    "explanation": "Shift+Tab inverte a navegação por foco."
+  },
+  {
+    "id": "shortcuts-20",
+    "category": "shortcuts",
+    "difficult": false,
+    "text": "Qual tecla costuma confirmar um botão em foco?",
+    "options": [
+      "Enter",
+      "Caps Lock",
+      "Shift sozinho",
+      "F6 sempre"
+    ],
+    "correctIndex": 0,
+    "explanation": "Enter normalmente ativa o controle selecionado."
+  },
+  {
+    "id": "shortcuts-21",
+    "category": "shortcuts",
+    "difficult": false,
+    "text": "Qual tecla costuma cancelar um menu ou diálogo?",
+    "options": [
+      "Esc",
+      "Tab",
+      "Caps Lock",
+      "Ctrl sozinho"
+    ],
+    "correctIndex": 0,
+    "explanation": "Esc geralmente fecha ou cancela interfaces temporárias."
+  },
+  {
+    "id": "shortcuts-22",
+    "category": "shortcuts",
+    "difficult": false,
+    "text": "Qual tecla alterna a digitação em maiúsculas?",
+    "options": [
+      "Caps Lock",
+      "Esc",
+      "Tab",
+      "Delete"
+    ],
+    "correctIndex": 0,
+    "explanation": "Caps Lock mantém o modo de letras maiúsculas."
+  },
+  {
+    "id": "shortcuts-23",
+    "category": "shortcuts",
+    "difficult": false,
+    "text": "Como digitar uma letra maiúscula temporariamente?",
+    "options": [
+      "Segurar Shift e a letra",
+      "Segurar Delete e a letra",
+      "Pressionar Esc antes",
+      "Pressionar Tab depois"
+    ],
+    "correctIndex": 0,
+    "explanation": "Shift modifica temporariamente a letra digitada."
+  },
+  {
+    "id": "shortcuts-24",
+    "category": "shortcuts",
+    "difficult": false,
+    "text": "Qual tecla apaga o caractere antes do cursor?",
+    "options": [
+      "Backspace",
+      "Delete",
+      "Tab",
+      "Enter"
+    ],
+    "correctIndex": 0,
+    "explanation": "Backspace remove o conteúdo à esquerda do cursor em escrita comum."
+  },
+  {
+    "id": "shortcuts-25",
+    "category": "shortcuts",
+    "difficult": false,
+    "text": "Qual tecla apaga o caractere depois do cursor?",
+    "options": [
+      "Delete",
+      "Backspace",
+      "Shift",
+      "Caps Lock"
+    ],
+    "correctIndex": 0,
+    "explanation": "Delete remove o conteúdo à direita do cursor em escrita comum."
+  },
+  {
+    "id": "shortcuts-26",
+    "category": "shortcuts",
+    "difficult": false,
+    "text": "No Explorador do Windows, qual tecla renomeia o item selecionado?",
+    "options": [
+      "F2",
+      "F5",
+      "Esc",
+      "Tab"
+    ],
+    "correctIndex": 0,
+    "explanation": "F2 inicia a edição do nome do item."
+  },
+  {
+    "id": "shortcuts-27",
+    "category": "shortcuts",
+    "difficult": false,
+    "text": "Qual atalho cria pasta no Explorador do Windows?",
+    "options": [
+      "Ctrl+Shift+N",
+      "Ctrl+Shift+T",
+      "Alt+Tab",
+      "Ctrl+P"
+    ],
+    "correctIndex": 0,
+    "explanation": "Ctrl+Shift+N cria uma nova pasta nesse contexto."
+  },
+  {
+    "id": "shortcuts-28",
+    "category": "shortcuts",
+    "difficult": false,
+    "text": "Qual atalho restaura o zoom padrão no navegador?",
+    "options": [
+      "Ctrl+0",
+      "Ctrl+9",
+      "Alt+0",
+      "Shift+0"
+    ],
+    "correctIndex": 0,
+    "explanation": "Ctrl+0 costuma voltar o zoom da página para 100%."
+  },
+  {
+    "id": "shortcuts-29",
+    "category": "shortcuts",
+    "difficult": false,
+    "text": "Qual atalho aumenta o zoom no navegador?",
+    "options": [
+      "Ctrl e sinal de mais",
+      "Ctrl e sinal de menos",
+      "Alt+F4",
+      "Ctrl+W"
+    ],
+    "correctIndex": 0,
+    "explanation": "O atalho de mais aumenta a escala do conteúdo."
+  },
+  {
+    "id": "shortcuts-30",
+    "category": "shortcuts",
+    "difficult": false,
+    "text": "Qual atalho diminui o zoom no navegador?",
+    "options": [
+      "Ctrl e sinal de menos",
+      "Ctrl e sinal de mais",
+      "Ctrl+T",
+      "Ctrl+P"
+    ],
+    "correctIndex": 0,
+    "explanation": "O atalho de menos reduz a escala do conteúdo."
+  },
+  {
+    "id": "shortcuts-31",
+    "category": "shortcuts",
+    "difficult": true,
+    "text": "Por que um atalho pode funcionar de forma diferente em dois aplicativos?",
+    "options": [
+      "O significado depende do contexto e do programa",
+      "O teclado decide aleatoriamente",
+      "A RAM muda as letras",
+      "O monitor interpreta comandos"
+    ],
+    "correctIndex": 0,
+    "explanation": "Aplicativos podem definir associações diferentes para teclas."
+  },
+  {
+    "id": "shortcuts-32",
+    "category": "shortcuts",
+    "difficult": true,
+    "text": "Ctrl+F pesquisa necessariamente toda a internet?",
+    "options": [
+      "Não, normalmente busca no documento ou página atual",
+      "Sim, sempre",
+      "Só em modo escuro",
+      "Só com duas abas"
+    ],
+    "correctIndex": 0,
+    "explanation": "É preciso distinguir busca local da página e busca na web."
+  },
+  {
+    "id": "shortcuts-33",
+    "category": "shortcuts",
+    "difficult": true,
+    "text": "Ao usar Tab, como saber qual botão será acionado?",
+    "options": [
+      "Observar o indicador de foco",
+      "Olhar apenas o cursor do mouse",
+      "Ver o volume do sistema",
+      "Contar janelas abertas"
+    ],
+    "correctIndex": 0,
+    "explanation": "O foco visível indica o controle que recebe comandos de teclado."
+  },
+  {
+    "id": "shortcuts-34",
+    "category": "shortcuts",
+    "difficult": true,
+    "text": "Qual diferença entre Ctrl+C e Ctrl+X é correta?",
+    "options": [
+      "Copiar preserva; recortar prepara para mover",
+      "Ambos excluem permanentemente",
+      "Copiar fecha o aplicativo",
+      "Recortar imprime"
+    ],
+    "correctIndex": 0,
+    "explanation": "A diferença aparece ao colar o conteúdo no destino."
+  },
+  {
+    "id": "shortcuts-35",
+    "category": "shortcuts",
+    "difficult": true,
+    "text": "Qual atalho costuma ir ao início do documento em muitos editores?",
+    "options": [
+      "Ctrl+Home",
+      "Ctrl+End",
+      "Alt+Tab",
+      "Ctrl+P"
+    ],
+    "correctIndex": 0,
+    "explanation": "Ctrl+Home move o cursor ao começo do documento em muitos editores."
+  },
+  {
+    "id": "shortcuts-36",
+    "category": "shortcuts",
+    "difficult": true,
+    "text": "Qual atalho costuma ir ao fim do documento em muitos editores?",
+    "options": [
+      "Ctrl+End",
+      "Ctrl+Home",
+      "Ctrl+F",
+      "Ctrl+T"
+    ],
+    "correctIndex": 0,
+    "explanation": "Ctrl+End move o cursor ao final do documento em muitos editores."
+  },
+  {
+    "id": "shortcuts-37",
+    "category": "shortcuts",
+    "difficult": true,
+    "text": "Em texto editável, Shift com uma seta costuma fazer o quê?",
+    "options": [
+      "Estender a seleção",
+      "Desligar o sistema",
+      "Abrir nova aba",
+      "Copiar automaticamente"
+    ],
+    "correctIndex": 0,
+    "explanation": "Shift combinado com navegação seleciona trechos de texto."
+  },
+  {
+    "id": "shortcuts-38",
+    "category": "shortcuts",
+    "difficult": true,
+    "text": "Por que o jogo deve ignorar WASD enquanto o chat está focado?",
+    "options": [
+      "As teclas devem escrever a mensagem",
+      "O servidor perde internet",
+      "O monitor não suporta letras",
+      "O chat precisa desinstalar o jogo"
+    ],
+    "correctIndex": 0,
+    "explanation": "O contexto de digitação não deve disparar comandos de movimento."
+  },
+  {
+    "id": "shortcuts-39",
+    "category": "shortcuts",
+    "difficult": true,
+    "text": "Qual cuidado com atalhos de fechar enquanto há trabalho não salvo?",
+    "options": [
+      "Salvar antes ou conferir a confirmação",
+      "Repetir o atalho rapidamente",
+      "Desativar todos os avisos",
+      "Mudar a extensão"
+    ],
+    "correctIndex": 0,
+    "explanation": "Fechar pode descartar alterações que ainda não foram salvas."
+  },
+  {
+    "id": "shortcuts-40",
+    "category": "shortcuts",
+    "difficult": true,
+    "text": "Atalhos de Windows funcionam obrigatoriamente iguais no Chromebook?",
+    "options": [
+      "Não, o sistema pode usar outras combinações",
+      "Sim, todos são idênticos",
+      "Só se o fundo for igual",
+      "Só com mouse conectado"
+    ],
+    "correctIndex": 0,
+    "explanation": "Sistemas e teclados diferentes podem definir outros atalhos."
+  },
+  {
+    "id": "software-01",
+    "category": "software",
+    "difficult": false,
+    "text": "O que é software?",
+    "options": [
+      "Conjunto de programas e instruções",
+      "Somente peças metálicas",
+      "Um tipo de tomada",
+      "Uma folha impressa"
+    ],
+    "correctIndex": 0,
+    "explanation": "Software instrui o hardware a realizar tarefas."
+  },
+  {
+    "id": "software-02",
+    "category": "software",
+    "difficult": false,
+    "text": "Qual é um sistema operacional?",
+    "options": [
+      "Windows",
+      "Mouse",
+      "SSD",
+      "Monitor"
+    ],
+    "correctIndex": 0,
+    "explanation": "Windows gerencia recursos e permite executar aplicativos."
+  },
+  {
+    "id": "software-03",
+    "category": "software",
+    "difficult": false,
+    "text": "Qual é outro exemplo de sistema operacional?",
+    "options": [
+      "Linux",
+      "Teclado",
+      "Gabinete",
+      "HDMI"
+    ],
+    "correctIndex": 0,
+    "explanation": "Linux é a base de diversos sistemas operacionais."
+  },
+  {
+    "id": "software-04",
+    "category": "software",
+    "difficult": false,
+    "text": "Qual aplicativo é adequado para escrever um relatório?",
+    "options": [
+      "Editor de texto",
+      "Ventoinha",
+      "Driver de áudio apenas",
+      "Calculadora simples"
+    ],
+    "correctIndex": 0,
+    "explanation": "Editores de texto oferecem recursos de escrita e formatação."
+  },
+  {
+    "id": "software-05",
+    "category": "software",
+    "difficult": false,
+    "text": "Para fazer cálculos em uma tabela, qual programa é apropriado?",
+    "options": [
+      "Planilha eletrônica",
+      "Reprodutor de música",
+      "Visualizador de fotos",
+      "Gravador de voz"
+    ],
+    "correctIndex": 0,
+    "explanation": "Planilhas organizam dados em células e permitem fórmulas."
+  },
+  {
+    "id": "software-06",
+    "category": "software",
+    "difficult": false,
+    "text": "Qual software permite visitar sites?",
+    "options": [
+      "Navegador",
+      "Gerenciador de energia apenas",
+      "Desfragmentador",
+      "Driver de impressora"
+    ],
+    "correctIndex": 0,
+    "explanation": "O navegador interpreta páginas e permite navegar na web."
+  },
+  {
+    "id": "software-07",
+    "category": "software",
+    "difficult": false,
+    "text": "Para que serve instalar um programa?",
+    "options": [
+      "Prepará-lo para uso no sistema",
+      "Apagar todos os documentos",
+      "Trocar o processador fisicamente",
+      "Desligar a internet"
+    ],
+    "correctIndex": 0,
+    "explanation": "A instalação disponibiliza arquivos e componentes necessários."
+  },
+  {
+    "id": "software-08",
+    "category": "software",
+    "difficult": false,
+    "text": "Qual local é mais seguro para obter um aplicativo?",
+    "options": [
+      "Site oficial ou loja confiável",
+      "Anúncio de prêmio desconhecido",
+      "Link aleatório de mensagem",
+      "Arquivo sem origem"
+    ],
+    "correctIndex": 0,
+    "explanation": "Fontes oficiais reduzem o risco de aplicativos adulterados."
+  },
+  {
+    "id": "software-09",
+    "category": "software",
+    "difficult": false,
+    "text": "O que uma atualização pode trazer?",
+    "options": [
+      "Correções e melhorias",
+      "Garantia de nunca ter defeitos",
+      "Memória física ilimitada",
+      "Internet sem provedor"
+    ],
+    "correctIndex": 0,
+    "explanation": "Atualizações podem corrigir problemas e vulnerabilidades."
+  },
+  {
+    "id": "software-10",
+    "category": "software",
+    "difficult": false,
+    "text": "Fechar uma janela é o mesmo que desinstalar o aplicativo?",
+    "options": [
+      "Não",
+      "Sim, sempre",
+      "Só se estiver maximizada",
+      "Só com Wi-Fi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Fechar encerra a janela; desinstalar remove o aplicativo."
+  },
+  {
+    "id": "software-11",
+    "category": "software",
+    "difficult": false,
+    "text": "Onde remover corretamente um aplicativo no Windows?",
+    "options": [
+      "Configurações de aplicativos instalados",
+      "Lixeira do monitor",
+      "Volume do sistema",
+      "Calendário"
+    ],
+    "correctIndex": 0,
+    "explanation": "A desinstalação usa o mecanismo apropriado do sistema."
+  },
+  {
+    "id": "software-12",
+    "category": "software",
+    "difficult": false,
+    "text": "Qual ferramenta pode reproduzir uma música?",
+    "options": [
+      "Reprodutor de áudio",
+      "Editor de planilha apenas",
+      "Driver de mouse",
+      "Compactador apenas"
+    ],
+    "correctIndex": 0,
+    "explanation": "Reprodutores decodificam e apresentam arquivos de mídia."
+  },
+  {
+    "id": "software-13",
+    "category": "software",
+    "difficult": false,
+    "text": "O que o antivírus procura detectar?",
+    "options": [
+      "Programas maliciosos",
+      "Erros de matemática da tarefa",
+      "Falta de tinta",
+      "Cabos desconectados fisicamente"
+    ],
+    "correctIndex": 0,
+    "explanation": "O antivírus ajuda a identificar e bloquear ameaças digitais."
+  },
+  {
+    "id": "software-14",
+    "category": "software",
+    "difficult": false,
+    "text": "Qual destes é um aplicativo de apresentação?",
+    "options": [
+      "LibreOffice Impress",
+      "Placa-mãe",
+      "Ethernet",
+      "BIOS como periférico"
+    ],
+    "correctIndex": 0,
+    "explanation": "Impress é usado para criar apresentações de slides."
+  },
+  {
+    "id": "software-15",
+    "category": "software",
+    "difficult": false,
+    "text": "Para que serve um driver?",
+    "options": [
+      "Permitir comunicação com um dispositivo",
+      "Criar energia elétrica",
+      "Limpar fisicamente a tela",
+      "Substituir todos os aplicativos"
+    ],
+    "correctIndex": 0,
+    "explanation": "Drivers conectam o sistema operacional às funções do hardware."
+  },
+  {
+    "id": "software-16",
+    "category": "software",
+    "difficult": false,
+    "text": "O que significa salvar um trabalho?",
+    "options": [
+      "Gravar as alterações em um arquivo",
+      "Somente olhar a tela",
+      "Aumentar o brilho",
+      "Fechar sem confirmar"
+    ],
+    "correctIndex": 0,
+    "explanation": "Salvar preserva alterações no armazenamento escolhido."
+  },
+  {
+    "id": "software-17",
+    "category": "software",
+    "difficult": false,
+    "text": "Qual ação cria uma cópia com outro nome ou local em muitos editores?",
+    "options": [
+      "Salvar como",
+      "Recortar tela",
+      "Desligar",
+      "Aumentar zoom"
+    ],
+    "correctIndex": 0,
+    "explanation": "Salvar como permite definir outro destino ou nome."
+  },
+  {
+    "id": "software-18",
+    "category": "software",
+    "difficult": false,
+    "text": "O que indica uma barra de progresso de instalação?",
+    "options": [
+      "Etapas em andamento",
+      "Quantidade de alunos",
+      "Senha do sistema",
+      "Temperatura exata da sala"
+    ],
+    "correctIndex": 0,
+    "explanation": "A barra comunica avanço de uma operação."
+  },
+  {
+    "id": "software-19",
+    "category": "software",
+    "difficult": false,
+    "text": "Um programa travou. Qual é uma primeira medida razoável?",
+    "options": [
+      "Aguardar um pouco e verificar se responde",
+      "Apagar a pasta do sistema",
+      "Bater no gabinete",
+      "Desligar o roteador da escola"
+    ],
+    "correctIndex": 0,
+    "explanation": "Uma tarefa demorada pode deixar o aplicativo temporariamente ocupado."
+  },
+  {
+    "id": "software-20",
+    "category": "software",
+    "difficult": false,
+    "text": "Qual utilitário permite consultar aplicativos em execução no Windows?",
+    "options": [
+      "Gerenciador de Tarefas",
+      "Papel de parede",
+      "Lixeira física",
+      "Lista de favoritos"
+    ],
+    "correctIndex": 0,
+    "explanation": "O Gerenciador de Tarefas apresenta processos e uso de recursos."
+  },
+  {
+    "id": "software-21",
+    "category": "software",
+    "difficult": false,
+    "text": "Qual é a função de um compactador?",
+    "options": [
+      "Reunir e comprimir arquivos",
+      "Ligar a tela",
+      "Limpar o teclado",
+      "Distribuir eletricidade"
+    ],
+    "correctIndex": 0,
+    "explanation": "Compactadores criam arquivos como ZIP e podem reduzir seu tamanho."
+  },
+  {
+    "id": "software-22",
+    "category": "software",
+    "difficult": false,
+    "text": "O que é um aplicativo padrão?",
+    "options": [
+      "Programa escolhido para abrir certo conteúdo",
+      "Programa que nunca atualiza",
+      "Programa necessariamente pago",
+      "Um cabo especial"
+    ],
+    "correctIndex": 0,
+    "explanation": "O sistema pode associar um tipo de arquivo a um aplicativo."
+  },
+  {
+    "id": "software-23",
+    "category": "software",
+    "difficult": false,
+    "text": "Dois editores de texto podem estar instalados ao mesmo tempo?",
+    "options": [
+      "Sim",
+      "Não, em nenhum sistema",
+      "Só sem teclado",
+      "Só sem arquivos"
+    ],
+    "correctIndex": 0,
+    "explanation": "Aplicativos distintos podem coexistir se houver recursos e compatibilidade."
+  },
+  {
+    "id": "software-24",
+    "category": "software",
+    "difficult": false,
+    "text": "O que fazer antes de aceitar uma instalação?",
+    "options": [
+      "Conferir origem e permissões",
+      "Clicar em tudo sem ler",
+      "Enviar a senha a desconhecidos",
+      "Desativar toda proteção"
+    ],
+    "correctIndex": 0,
+    "explanation": "Entender a origem e o acesso solicitado ajuda a instalar com cuidado."
+  },
+  {
+    "id": "software-25",
+    "category": "software",
+    "difficult": false,
+    "text": "O que significa software gratuito?",
+    "options": [
+      "Pode ser usado sem cobrança conforme sua licença",
+      "Tem sempre código aberto",
+      "Não tem regras de uso",
+      "Nunca recebe atualizações"
+    ],
+    "correctIndex": 0,
+    "explanation": "Gratuito trata do custo, não garante abertura do código."
+  },
+  {
+    "id": "software-26",
+    "category": "software",
+    "difficult": false,
+    "text": "Onde buscar ajuda para uma função do aplicativo?",
+    "options": [
+      "Ajuda ou documentação do programa",
+      "Tampa do gabinete",
+      "Cabo de energia",
+      "Lixeira vazia"
+    ],
+    "correctIndex": 0,
+    "explanation": "A documentação descreve o funcionamento do software."
+  },
+  {
+    "id": "software-27",
+    "category": "software",
+    "difficult": false,
+    "text": "Qual comando desfaz uma alteração recente em muitos editores?",
+    "options": [
+      "Desfazer",
+      "Desinstalar",
+      "Formatar disco",
+      "Reiniciar rede"
+    ],
+    "correctIndex": 0,
+    "explanation": "Desfazer reverte ações compatíveis no documento atual."
+  },
+  {
+    "id": "software-28",
+    "category": "software",
+    "difficult": false,
+    "text": "O que é uma versão de software?",
+    "options": [
+      "Identificação de uma edição do programa",
+      "Cor obrigatória da janela",
+      "Marca do monitor",
+      "Tamanho da mesa"
+    ],
+    "correctIndex": 0,
+    "explanation": "Versões identificam diferentes estados de evolução de um programa."
+  },
+  {
+    "id": "software-29",
+    "category": "software",
+    "difficult": false,
+    "text": "É necessário salvar antes de reiniciar durante um trabalho?",
+    "options": [
+      "Sim, para evitar perder alterações",
+      "Não, tudo sempre salva sozinho",
+      "Só se o texto estiver azul",
+      "Só se o mouse for sem fio"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nem todo aplicativo possui salvamento automático."
+  },
+  {
+    "id": "software-30",
+    "category": "software",
+    "difficult": false,
+    "text": "Um aplicativo web é normalmente utilizado por onde?",
+    "options": [
+      "Navegador",
+      "Somente BIOS",
+      "Somente impressora",
+      "Somente caixa de som"
+    ],
+    "correctIndex": 0,
+    "explanation": "Aplicativos web usam tecnologias de páginas no navegador."
+  },
+  {
+    "id": "software-31",
+    "category": "software",
+    "difficult": true,
+    "text": "Qual diferença existe entre atualizar e reinstalar?",
+    "options": [
+      "Atualizar muda a versão; reinstalar instala novamente",
+      "São sempre apagar documentos",
+      "Atualizar troca o hardware",
+      "Reinstalar só muda o ícone"
+    ],
+    "correctIndex": 0,
+    "explanation": "São operações distintas, embora uma reinstalação possa instalar versão nova."
+  },
+  {
+    "id": "software-32",
+    "category": "software",
+    "difficult": true,
+    "text": "Licença de código aberto significa ausência de condições?",
+    "options": [
+      "Não, a licença continua impondo condições",
+      "Sim, sempre",
+      "Sim, inclusive para marcas",
+      "Só se baixado em ZIP"
+    ],
+    "correctIndex": 0,
+    "explanation": "Licenças abertas concedem direitos e estabelecem obrigações específicas."
+  },
+  {
+    "id": "software-33",
+    "category": "software",
+    "difficult": true,
+    "text": "Por que remover só o atalho não desinstala o programa?",
+    "options": [
+      "O atalho aponta para arquivos que continuam instalados",
+      "O atalho contém todo o programa",
+      "Todo atalho é um vírus",
+      "Apagar atalho impede uso da RAM"
+    ],
+    "correctIndex": 0,
+    "explanation": "O atalho é uma referência, não a instalação inteira."
+  },
+  {
+    "id": "software-34",
+    "category": "software",
+    "difficult": true,
+    "text": "Qual problema pode ocorrer ao instalar software incompatível com o sistema?",
+    "options": [
+      "Ele pode não executar corretamente",
+      "O monitor vira impressora",
+      "Todos os arquivos mudam de extensão",
+      "O teclado ganha memória"
+    ],
+    "correctIndex": 0,
+    "explanation": "Aplicativos dependem de requisitos de sistema e arquitetura."
+  },
+  {
+    "id": "software-35",
+    "category": "software",
+    "difficult": true,
+    "text": "Uma atualização exige reinício. Qual conduta preserva o trabalho?",
+    "options": [
+      "Salvar documentos e seguir a orientação",
+      "Forçar desligamento imediatamente",
+      "Excluir os arquivos de atualização",
+      "Retirar a RAM"
+    ],
+    "correctIndex": 0,
+    "explanation": "O reinício pode ser necessário para substituir componentes em uso."
+  },
+  {
+    "id": "software-36",
+    "category": "software",
+    "difficult": true,
+    "text": "Qual é o papel de permissões de aplicativo?",
+    "options": [
+      "Limitar os recursos e dados acessíveis",
+      "Aumentar a energia da fonte",
+      "Eliminar todas as falhas",
+      "Alterar o tamanho físico do SSD"
+    ],
+    "correctIndex": 0,
+    "explanation": "Permissões controlam o acesso a funcionalidades e informações."
+  },
+  {
+    "id": "software-37",
+    "category": "software",
+    "difficult": true,
+    "text": "Um arquivo abre no aplicativo errado. Qual ajuste é apropriado?",
+    "options": [
+      "Alterar a associação de aplicativo padrão",
+      "Formatar o computador",
+      "Trocar a ventoinha",
+      "Apagar todos os favoritos"
+    ],
+    "correctIndex": 0,
+    "explanation": "A associação determina o programa usado ao abrir aquele tipo de arquivo."
+  },
+  {
+    "id": "software-38",
+    "category": "software",
+    "difficult": true,
+    "text": "Qual distinção entre arquivo de instalação e aplicativo instalado está correta?",
+    "options": [
+      "O instalador prepara o aplicativo para funcionar",
+      "São sempre o mesmo arquivo",
+      "Apagar o instalador sempre remove o aplicativo",
+      "O instalador só contém fotos"
+    ],
+    "correctIndex": 0,
+    "explanation": "Após instalar, o aplicativo costuma ter seus próprios arquivos no sistema."
+  },
+  {
+    "id": "software-39",
+    "category": "software",
+    "difficult": true,
+    "text": "Por que salvar antes de encerrar à força um programa pode ser impossível?",
+    "options": [
+      "O programa pode estar sem responder",
+      "O mouse fica sem bateria sempre",
+      "O monitor bloqueia o SSD",
+      "O teclado impede salvamento"
+    ],
+    "correctIndex": 0,
+    "explanation": "Encerramento forçado pode perder alterações ainda não gravadas."
+  },
+  {
+    "id": "software-40",
+    "category": "software",
+    "difficult": true,
+    "text": "Um aplicativo pede acesso à câmera sem precisar dela. O que fazer?",
+    "options": [
+      "Avaliar e negar o acesso desnecessário",
+      "Aceitar qualquer permissão",
+      "Enviar uma foto da senha",
+      "Desinstalar o sistema operacional"
+    ],
+    "correctIndex": 0,
+    "explanation": "Conceder apenas acessos necessários reduz exposição de dados."
+  },
+  {
+    "id": "spreadsheets-01",
+    "category": "spreadsheets",
+    "difficult": false,
+    "text": "O que é uma célula em uma planilha?",
+    "options": [
+      "Encontro de uma linha com uma coluna",
+      "Um slide",
+      "Uma pasta física",
+      "Um tipo de cabo"
+    ],
+    "correctIndex": 0,
+    "explanation": "Células são unidades onde se inserem dados e fórmulas."
+  },
+  {
+    "id": "spreadsheets-02",
+    "category": "spreadsheets",
+    "difficult": false,
+    "text": "Como as colunas costumam ser identificadas em planilhas?",
+    "options": [
+      "Por letras",
+      "Somente por cores",
+      "Por nomes de arquivos",
+      "Por emojis obrigatórios"
+    ],
+    "correctIndex": 0,
+    "explanation": "Colunas comuns usam A, B, C e assim por diante."
+  },
+  {
+    "id": "spreadsheets-03",
+    "category": "spreadsheets",
+    "difficult": false,
+    "text": "Como as linhas costumam ser identificadas em planilhas?",
+    "options": [
+      "Por números",
+      "Somente por letras",
+      "Por senhas",
+      "Por cores obrigatórias"
+    ],
+    "correctIndex": 0,
+    "explanation": "Linhas comuns são numeradas sequencialmente."
+  },
+  {
+    "id": "spreadsheets-04",
+    "category": "spreadsheets",
+    "difficult": false,
+    "text": "O endereço B3 indica qual célula?",
+    "options": [
+      "Coluna B e linha 3",
+      "Coluna 3 e linha B",
+      "Terceira aba obrigatoriamente",
+      "Três arquivos B"
+    ],
+    "correctIndex": 0,
+    "explanation": "A referência combina a identificação de coluna e linha."
+  },
+  {
+    "id": "spreadsheets-05",
+    "category": "spreadsheets",
+    "difficult": false,
+    "text": "Qual sinal normalmente inicia uma fórmula?",
+    "options": [
+      "=",
+      "#",
+      "@",
+      "?"
+    ],
+    "correctIndex": 0,
+    "explanation": "O sinal de igual informa que a entrada deve ser interpretada como fórmula."
+  },
+  {
+    "id": "spreadsheets-06",
+    "category": "spreadsheets",
+    "difficult": false,
+    "text": "Qual fórmula soma os valores de A1 e A2?",
+    "options": [
+      "=A1+A2",
+      "=A1-A2",
+      "=A1*A2",
+      "=A1/A2"
+    ],
+    "correctIndex": 0,
+    "explanation": "O operador de adição soma os valores das referências."
+  },
+  {
+    "id": "spreadsheets-07",
+    "category": "spreadsheets",
+    "difficult": false,
+    "text": "Qual operador representa multiplicação em fórmulas comuns?",
+    "options": [
+      "*",
+      "x como letra",
+      ":",
+      ";"
+    ],
+    "correctIndex": 0,
+    "explanation": "O asterisco é usado como operador de multiplicação."
+  },
+  {
+    "id": "spreadsheets-08",
+    "category": "spreadsheets",
+    "difficult": false,
+    "text": "Qual operador representa divisão em fórmulas comuns?",
+    "options": [
+      "/",
+      ": sempre",
+      ";",
+      "&"
+    ],
+    "correctIndex": 0,
+    "explanation": "A barra representa divisão aritmética."
+  },
+  {
+    "id": "spreadsheets-09",
+    "category": "spreadsheets",
+    "difficult": false,
+    "text": "Em uma planilha em português, qual função soma um intervalo?",
+    "options": [
+      "SOMA",
+      "MÉDIA",
+      "MÍNIMO",
+      "CONTAR.VAZIO"
+    ],
+    "correctIndex": 0,
+    "explanation": "SOMA acumula valores numéricos."
+  },
+  {
+    "id": "spreadsheets-10",
+    "category": "spreadsheets",
+    "difficult": false,
+    "text": "Qual função calcula a média aritmética?",
+    "options": [
+      "MÉDIA",
+      "SOMA",
+      "MÁXIMO",
+      "MÍNIMO"
+    ],
+    "correctIndex": 0,
+    "explanation": "A média aritmética divide a soma pela quantidade de valores considerados."
+  },
+  {
+    "id": "spreadsheets-11",
+    "category": "spreadsheets",
+    "difficult": false,
+    "text": "Qual função encontra o maior valor?",
+    "options": [
+      "MÁXIMO",
+      "MÍNIMO",
+      "SOMA",
+      "MÉDIA"
+    ],
+    "correctIndex": 0,
+    "explanation": "MÁXIMO retorna o maior valor numérico no conjunto."
+  },
+  {
+    "id": "spreadsheets-12",
+    "category": "spreadsheets",
+    "difficult": false,
+    "text": "Qual função encontra o menor valor?",
+    "options": [
+      "MÍNIMO",
+      "MÁXIMO",
+      "MÉDIA",
+      "SOMA"
+    ],
+    "correctIndex": 0,
+    "explanation": "MÍNIMO retorna o menor valor numérico no conjunto."
+  },
+  {
+    "id": "spreadsheets-13",
+    "category": "spreadsheets",
+    "difficult": false,
+    "text": "O que representa o intervalo A1:A5?",
+    "options": [
+      "As células A1 até A5",
+      "Somente A1 e A5",
+      "Cinco abas",
+      "Uma senha"
+    ],
+    "correctIndex": 0,
+    "explanation": "Os dois-pontos indicam um intervalo contínuo."
+  },
+  {
+    "id": "spreadsheets-14",
+    "category": "spreadsheets",
+    "difficult": false,
+    "text": "Qual recurso ajuda a mostrar valores como reais e centavos?",
+    "options": [
+      "Formato de moeda",
+      "Aumentar o volume",
+      "Mudar o papel de parede",
+      "Excluir a coluna"
+    ],
+    "correctIndex": 0,
+    "explanation": "A formatação de moeda muda a apresentação dos números."
+  },
+  {
+    "id": "spreadsheets-15",
+    "category": "spreadsheets",
+    "difficult": false,
+    "text": "Qual recurso organiza uma lista do menor para o maior?",
+    "options": [
+      "Classificação crescente",
+      "Filtro de cor sempre",
+      "Mesclar células",
+      "Quebra de página"
+    ],
+    "correctIndex": 0,
+    "explanation": "Classificar reorganiza os registros conforme um critério."
+  },
+  {
+    "id": "spreadsheets-16",
+    "category": "spreadsheets",
+    "difficult": false,
+    "text": "Para mostrar somente linhas que atendem a uma condição, use o quê?",
+    "options": [
+      "Filtro",
+      "Zoom",
+      "Negrito",
+      "Impressão"
+    ],
+    "correctIndex": 0,
+    "explanation": "Filtros restringem temporariamente os registros exibidos."
+  },
+  {
+    "id": "spreadsheets-17",
+    "category": "spreadsheets",
+    "difficult": false,
+    "text": "Um filtro normalmente apaga as linhas ocultadas?",
+    "options": [
+      "Não",
+      "Sim, sempre",
+      "Só se forem números",
+      "Só se estiverem coloridas"
+    ],
+    "correctIndex": 0,
+    "explanation": "As linhas permanecem nos dados e podem voltar a aparecer."
+  },
+  {
+    "id": "spreadsheets-18",
+    "category": "spreadsheets",
+    "difficult": false,
+    "text": "Qual recurso representa visualmente dados numéricos?",
+    "options": [
+      "Gráfico",
+      "Comentário vazio",
+      "Senha",
+      "Atalho de pasta"
+    ],
+    "correctIndex": 0,
+    "explanation": "Gráficos ajudam a observar relações e tendências."
+  },
+  {
+    "id": "spreadsheets-19",
+    "category": "spreadsheets",
+    "difficult": false,
+    "text": "Qual gráfico é adequado para comparar quantidades entre turmas?",
+    "options": [
+      "Barras ou colunas",
+      "Uma foto aleatória",
+      "Mapa sem dados",
+      "Um ícone de volume"
+    ],
+    "correctIndex": 0,
+    "explanation": "Barras e colunas facilitam comparar categorias."
+  },
+  {
+    "id": "spreadsheets-20",
+    "category": "spreadsheets",
+    "difficult": false,
+    "text": "Qual gráfico costuma mostrar evolução ao longo do tempo?",
+    "options": [
+      "Linhas",
+      "Uma única foto",
+      "Um ícone",
+      "Um texto sem valores"
+    ],
+    "correctIndex": 0,
+    "explanation": "Linhas facilitam observar tendências temporais."
+  },
+  {
+    "id": "spreadsheets-21",
+    "category": "spreadsheets",
+    "difficult": false,
+    "text": "Para que serve a alça de preenchimento?",
+    "options": [
+      "Copiar ou estender dados e fórmulas",
+      "Ligar a impressora",
+      "Trocar o SSD",
+      "Apagar todas as abas"
+    ],
+    "correctIndex": 0,
+    "explanation": "O preenchimento pode replicar fórmulas ou completar séries."
+  },
+  {
+    "id": "spreadsheets-22",
+    "category": "spreadsheets",
+    "difficult": false,
+    "text": "Se A1 contém 5 e A2 contém 3, quanto vale =A1+A2?",
+    "options": [
+      "8",
+      "2",
+      "15",
+      "53"
+    ],
+    "correctIndex": 0,
+    "explanation": "A fórmula soma os dois valores numéricos."
+  },
+  {
+    "id": "spreadsheets-23",
+    "category": "spreadsheets",
+    "difficult": false,
+    "text": "Se B1 contém 10 e B2 contém 4, quanto vale =B1-B2?",
+    "options": [
+      "6",
+      "14",
+      "40",
+      "2,5"
+    ],
+    "correctIndex": 0,
+    "explanation": "O operador de subtração calcula a diferença."
+  },
+  {
+    "id": "spreadsheets-24",
+    "category": "spreadsheets",
+    "difficult": false,
+    "text": "Se C1 contém 6, quanto vale =C1*2?",
+    "options": [
+      "12",
+      "8",
+      "3",
+      "62"
+    ],
+    "correctIndex": 0,
+    "explanation": "O asterisco multiplica seis por dois."
+  },
+  {
+    "id": "spreadsheets-25",
+    "category": "spreadsheets",
+    "difficult": false,
+    "text": "Se D1 contém 20, quanto vale =D1/4?",
+    "options": [
+      "5",
+      "24",
+      "80",
+      "16"
+    ],
+    "correctIndex": 0,
+    "explanation": "A divisão de vinte por quatro resulta em cinco."
+  },
+  {
+    "id": "spreadsheets-26",
+    "category": "spreadsheets",
+    "difficult": false,
+    "text": "Qual é a média de 6 e 10?",
+    "options": [
+      "8",
+      "16",
+      "4",
+      "60"
+    ],
+    "correctIndex": 0,
+    "explanation": "A soma é dezesseis e há dois valores."
+  },
+  {
+    "id": "spreadsheets-27",
+    "category": "spreadsheets",
+    "difficult": false,
+    "text": "Qual ação melhora a leitura de títulos longos em uma coluna?",
+    "options": [
+      "Ajustar largura ou quebrar texto",
+      "Apagar os títulos",
+      "Trocar todos por números",
+      "Diminuir o monitor"
+    ],
+    "correctIndex": 0,
+    "explanation": "Largura e quebra de texto permitem exibir o conteúdo."
+  },
+  {
+    "id": "spreadsheets-28",
+    "category": "spreadsheets",
+    "difficult": false,
+    "text": "O que uma aba de planilha permite?",
+    "options": [
+      "Organizar outra folha na mesma pasta de trabalho",
+      "Criar outra placa de vídeo",
+      "Garantir backup externo",
+      "Trocar a internet"
+    ],
+    "correctIndex": 0,
+    "explanation": "Uma pasta de trabalho pode conter várias folhas."
+  },
+  {
+    "id": "spreadsheets-29",
+    "category": "spreadsheets",
+    "difficult": false,
+    "text": "Para manter o cabeçalho visível ao rolar, qual recurso ajuda?",
+    "options": [
+      "Congelar linhas",
+      "Excluir linhas",
+      "Mesclar tudo",
+      "Ocultar o arquivo"
+    ],
+    "correctIndex": 0,
+    "explanation": "Congelamento mantém linhas ou colunas na área visível."
+  },
+  {
+    "id": "spreadsheets-30",
+    "category": "spreadsheets",
+    "difficult": false,
+    "text": "Qual cuidado antes de apagar uma coluna?",
+    "options": [
+      "Verificar dados e fórmulas que dependem dela",
+      "Conferir só a cor da aba",
+      "Mudar a fonte do título",
+      "Fechar o mouse"
+    ],
+    "correctIndex": 0,
+    "explanation": "A exclusão pode remover informações e afetar referências."
+  },
+  {
+    "id": "spreadsheets-31",
+    "category": "spreadsheets",
+    "difficult": true,
+    "text": "Ao copiar =A1+B1 uma linha abaixo com referências relativas, qual fórmula resulta?",
+    "options": [
+      "=A2+B2",
+      "=A1+B1 sempre",
+      "=A0+B0",
+      "=B1+C1"
+    ],
+    "correctIndex": 0,
+    "explanation": "Referências relativas acompanham o deslocamento da fórmula."
+  },
+  {
+    "id": "spreadsheets-32",
+    "category": "spreadsheets",
+    "difficult": true,
+    "text": "O que significa $A$1 em uma fórmula?",
+    "options": [
+      "Referência absoluta de coluna e linha",
+      "Texto monetário obrigatório",
+      "Erro de cálculo",
+      "Célula vazia"
+    ],
+    "correctIndex": 0,
+    "explanation": "Os cifrões fixam coluna e linha ao copiar a fórmula."
+  },
+  {
+    "id": "spreadsheets-33",
+    "category": "spreadsheets",
+    "difficult": true,
+    "text": "Na referência A$1, qual parte está fixa?",
+    "options": [
+      "A linha 1",
+      "A coluna A",
+      "As duas partes",
+      "Nenhuma parte"
+    ],
+    "correctIndex": 0,
+    "explanation": "O cifrão antes do número fixa a linha."
+  },
+  {
+    "id": "spreadsheets-34",
+    "category": "spreadsheets",
+    "difficult": true,
+    "text": "Na referência $A1, qual parte está fixa?",
+    "options": [
+      "A coluna A",
+      "A linha 1",
+      "As duas partes",
+      "Nenhuma parte"
+    ],
+    "correctIndex": 0,
+    "explanation": "O cifrão antes da letra fixa a coluna."
+  },
+  {
+    "id": "spreadsheets-35",
+    "category": "spreadsheets",
+    "difficult": true,
+    "text": "Quanto vale =2+3*4 segundo a precedência comum?",
+    "options": [
+      "14",
+      "20",
+      "24",
+      "9"
+    ],
+    "correctIndex": 0,
+    "explanation": "A multiplicação é realizada antes da adição."
+  },
+  {
+    "id": "spreadsheets-36",
+    "category": "spreadsheets",
+    "difficult": true,
+    "text": "Quanto vale =(2+3)*4?",
+    "options": [
+      "20",
+      "14",
+      "9",
+      "24"
+    ],
+    "correctIndex": 0,
+    "explanation": "Parênteses fazem a soma ser calculada primeiro."
+  },
+  {
+    "id": "spreadsheets-37",
+    "category": "spreadsheets",
+    "difficult": true,
+    "text": "Por que classificar só uma coluna de uma tabela pode ser perigoso?",
+    "options": [
+      "Pode separar valores dos registros correspondentes",
+      "Sempre apaga a internet",
+      "Muda a RAM",
+      "Converte tudo em imagem"
+    ],
+    "correctIndex": 0,
+    "explanation": "As colunas de cada registro devem permanecer relacionadas."
+  },
+  {
+    "id": "spreadsheets-38",
+    "category": "spreadsheets",
+    "difficult": true,
+    "text": "Formatar 0,25 como porcentagem normalmente exibe o quê?",
+    "options": [
+      "25%",
+      "0,25%",
+      "250%",
+      "2500%"
+    ],
+    "correctIndex": 0,
+    "explanation": "O formato percentual apresenta o valor multiplicado por cem com o símbolo."
+  },
+  {
+    "id": "spreadsheets-39",
+    "category": "spreadsheets",
+    "difficult": true,
+    "text": "Uma célula contém o texto 10 em vez do número 10. Qual problema pode ocorrer?",
+    "options": [
+      "Alguns cálculos ou ordenações podem tratá-la de modo diferente",
+      "O computador desliga",
+      "A coluna desaparece sempre",
+      "O texto vira fórmula automaticamente"
+    ],
+    "correctIndex": 0,
+    "explanation": "Tipo de dado influencia operações e ordenação."
+  },
+  {
+    "id": "spreadsheets-40",
+    "category": "spreadsheets",
+    "difficult": true,
+    "text": "Qual vantagem de usar referências em vez de repetir números numa fórmula?",
+    "options": [
+      "Resultados acompanham mudanças nas células de origem",
+      "A fórmula dispensa o sinal de igual",
+      "Todo dado vira texto",
+      "O arquivo não precisa ser salvo"
+    ],
+    "correctIndex": 0,
+    "explanation": "Referências tornam o cálculo dependente dos valores de entrada."
+  }
+]

@@ -1,0 +1,5 @@
+let audio,muted=localStorage.getItem('arena-muted')==='true',volume=Number(localStorage.getItem('arena-volume')??25)/100;
+export function unlock(){try{audio??=new(window.AudioContext||window.webkitAudioContext)();audio.resume();}catch{}}
+export function configure(m,v){muted=m;volume=v;localStorage.setItem('arena-muted',String(m));localStorage.setItem('arena-volume',String(Math.round(v*100)));}
+export const settings=()=>({muted,volume});
+export function sound(kind='click'){if(muted||!audio||audio.state!=='running')return;const o=audio.createOscillator(),g=audio.createGain(),now=audio.currentTime;const freq={click:520,power:310,round:640,result:780,chat:430,blast:90}[kind]||520;o.type=kind==='blast'?'triangle':'sine';o.frequency.setValueAtTime(freq,now);o.frequency.exponentialRampToValueAtTime(kind==='blast'?40:freq*1.35,now+.14);g.gain.setValueAtTime(0,now);g.gain.linearRampToValueAtTime(volume*.12,now+.01);g.gain.exponentialRampToValueAtTime(.001,now+.22);o.connect(g).connect(audio.destination);o.start();o.stop(now+.23);}

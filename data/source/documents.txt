@@ -1,0 +1,40 @@
+Qual aplicativo é apropriado para redigir um texto com parágrafos?|Editor de documentos|Roteador|Reprodutor de vídeo apenas|Gerenciador de energia|Editores de documentos oferecem escrita e formatação.
+O que o negrito faz?|Destaca visualmente o texto com traço mais espesso|Corrige todos os erros|Muda o significado automaticamente|Apaga o parágrafo|Negrito é um recurso de destaque visual.
+O que o itálico faz?|Inclina visualmente as letras|Duplica a página|Exclui imagens|Converte em planilha|Itálico é uma forma de apresentação tipográfica.
+O que o sublinhado acrescenta?|Uma linha abaixo do texto|Uma nova página sempre|Um comentário invisível|Um arquivo ZIP|Sublinhado é um recurso de formatação de caracteres.
+O que é a fonte de um texto no editor?|O desenho tipográfico das letras|O cabo de energia|O remetente de um e-mail sempre|Uma pasta|A fonte define a aparência dos caracteres.
+O tamanho da fonte altera o quê?|O tamanho visual das letras|O número de teclas|A velocidade da rede|O tamanho físico do papel sempre|O tamanho tipográfico controla a dimensão do texto.
+Qual alinhamento deixa as linhas junto da margem esquerda?|À esquerda|Centralizado|À direita|Sem margens|O alinhamento à esquerda mantém o início das linhas nessa margem.
+Qual alinhamento posiciona um título no centro?|Centralizado|À esquerda|À direita|Recuo negativo|Centralizar posiciona o texto entre as margens.
+O que é um parágrafo?|Bloco de texto separado por uma marca de parágrafo|Uma imagem obrigatória|Uma extensão|Um cabo|Parágrafos organizam ideias no documento.
+Qual tecla normalmente inicia um novo parágrafo?|Enter|Shift sozinho|Ctrl sozinho|Caps Lock|Enter insere uma quebra de parágrafo em editores comuns.
+Para que servem marcadores em uma lista?|Organizar itens sem numeração sequencial obrigatória|Criar senhas|Imprimir todas as páginas|Trocar a fonte do sistema|Marcadores facilitam a leitura de itens paralelos.
+Quando uma lista numerada é especialmente útil?|Para etapas em sequência|Para apagar texto|Para aumentar o volume|Para reduzir a tela|Números evidenciam ordem e sequência.
+O que são margens de uma página?|Espaços entre o conteúdo e as bordas|Senhas do documento|Nomes das imagens|Atalhos do sistema|Margens delimitam a área útil do conteúdo.
+O que fica normalmente no cabeçalho?|Conteúdo no topo das páginas|Somente arquivos excluídos|Fórmulas da placa-mãe|A senha do Wi-Fi|Cabeçalhos podem repetir informações no alto das páginas.
+O que fica normalmente no rodapé?|Conteúdo na parte inferior das páginas|Um novo navegador|O título da janela sempre|A lista de downloads|Rodapés podem conter números de página e outras informações.
+Qual recurso insere números de página automaticamente?|Numeração de páginas|Aumentar zoom|Negrito|Contar letras manualmente|A numeração automática acompanha a estrutura do documento.
+Qual recurso ajuda a detectar erros de escrita?|Verificação ortográfica|Volume do sistema|Gerenciador de rede|Modo avião|O corretor sugere revisão de grafias conforme o idioma.
+Uma palavra sublinhada pelo corretor está sempre errada?|Não|Sim, sempre|Só se estiver em negrito|Só se for curta|Nomes próprios e termos não reconhecidos também podem ser sinalizados.
+Antes de imprimir, qual recurso ajuda a conferir o resultado?|Visualização de impressão|Lixeira|Gerenciador de áudio|Lista de redes|A prévia mostra como o conteúdo ocupará as páginas.
+Para inserir uma fotografia em um documento, qual comando usar?|Inserir imagem|Inserir placa de rede|Limpar histórico|Mudar senha|A inserção de imagem adiciona conteúdo visual ao documento.
+Qual prática evita distorcer uma foto ao redimensionar?|Manter a proporção|Esticar apenas a largura sem cuidado|Apagar metade da foto|Mudar a extensão|Proporções preservam a relação entre altura e largura.
+Para organizar dados em linhas e colunas dentro do texto, use o quê?|Tabela|Áudio|Atalho do desktop|Senha|Tabelas estruturam informações relacionadas.
+O que o recurso Localizar faz no documento?|Procura ocorrências de um texto|Envia o arquivo à internet|Desinstala a fonte|Troca o teclado|Localizar encontra palavras ou trechos.
+O que o recurso Substituir permite?|Trocar ocorrências de texto por outro|Comprar outro monitor|Trocar o aplicativo por hardware|Apenas imprimir|Substituir automatiza a alteração de trechos encontrados.
+Qual formato costuma preservar o layout ao distribuir um relatório?|PDF|MP3|EXE|WAV|PDF é adequado para distribuição com apresentação estável.
+Qual cuidado tomar antes de exportar a versão final?|Revisar conteúdo e formatação|Apagar todos os títulos|Trocar a senha do roteador|Desconectar a tela|Revisão reduz erros que iriam para a versão distribuída.
+O que é espaçamento entre linhas?|Distância vertical entre linhas de texto|Largura do cabo|Quantidade de abas|Tamanho do disco|O espaçamento influencia a leitura e a ocupação da página.
+Qual recurso adiciona uma observação sem alterar diretamente o texto principal?|Comentário|Esvaziar Lixeira|Renomear extensão|Desligar|Comentários permitem revisão e discussão do conteúdo.
+Por que usar títulos descritivos em um relatório?|Facilitar a organização e a leitura|Garantir nota máxima|Aumentar a RAM|Impedir a edição|Títulos orientam o leitor sobre o assunto de cada parte.
+O que é orientação paisagem da página?|Página mais larga do que alta|Página obrigatoriamente verde|Página sem texto|Página sempre quadrada|Paisagem usa a dimensão maior na horizontal.
+Qual vantagem dos estilos de título em relação a formatar cada título manualmente?|Mantêm consistência e permitem recursos estruturais|Apagam erros automaticamente|Impedem salvar em PDF|Transformam títulos em imagens|Estilos vinculam aparência e estrutura, ajudando também em sumários.
+Por que usar quebra de página em vez de muitos Enter para iniciar outra página?|A estrutura resiste melhor a edições anteriores|O arquivo deixa de precisar de fonte|A impressão fica gratuita|A internet acelera|Uma quebra expressa a intenção de começar outra página.
+Qual recurso acompanha sugestões de edição de várias pessoas?|Controle de alterações|Somente zoom|Plano de fundo do sistema|Modo avião|O controle de alterações registra inserções e exclusões para revisão.
+Aceitar todas as alterações sem ler é uma boa revisão?|Não|Sim, sempre|Só em documentos longos|Só se a fonte for grande|É necessário avaliar as mudanças antes de incorporá-las.
+Um sumário automático costuma depender de quê?|Estrutura de títulos e estilos|Cor do mouse|Quantidade de abas do navegador|Volume do áudio|Títulos estruturados permitem gerar e atualizar entradas do sumário.
+Qual diferença entre recuo e margem é correta?|Recuo ajusta parágrafo; margem define limites da página|São sempre idênticos|Margem muda apenas a cor|Recuo apaga palavras|São controles de posicionamento em níveis diferentes.
+Por que acrescentar texto alternativo a imagens informativas?|Ajudar quem usa leitor de tela|Aumentar o peso sem finalidade|Esconder o autor|Impedir impressão|Texto alternativo comunica a função ou conteúdo relevante da imagem.
+Qual cuidado com Substituir tudo?|Conferir se todas as ocorrências devem mudar|Nunca salvar depois|Apagar o arquivo original antes|Ignorar partes de palavras|Uma substituição ampla pode afetar trechos não desejados.
+Qual é a diferença entre zoom e tamanho da fonte?|Zoom muda a visualização; fonte muda o conteúdo formatado|Ambos sempre alteram impressão igualmente|Zoom troca o idioma|Fonte muda só o monitor|O zoom não redefine o tamanho tipográfico salvo no documento.
+Qual prática melhora a acessibilidade de um relatório?|Usar estrutura de títulos e bom contraste|Criar tudo como imagem sem descrição|Usar somente cor para distinguir instruções|Escolher texto minúsculo|Estrutura e legibilidade ajudam diferentes modos de leitura.

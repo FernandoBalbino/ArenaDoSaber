@@ -1,0 +1,40 @@
+O que é uma célula em uma planilha?|Encontro de uma linha com uma coluna|Um slide|Uma pasta física|Um tipo de cabo|Células são unidades onde se inserem dados e fórmulas.
+Como as colunas costumam ser identificadas em planilhas?|Por letras|Somente por cores|Por nomes de arquivos|Por emojis obrigatórios|Colunas comuns usam A, B, C e assim por diante.
+Como as linhas costumam ser identificadas em planilhas?|Por números|Somente por letras|Por senhas|Por cores obrigatórias|Linhas comuns são numeradas sequencialmente.
+O endereço B3 indica qual célula?|Coluna B e linha 3|Coluna 3 e linha B|Terceira aba obrigatoriamente|Três arquivos B|A referência combina a identificação de coluna e linha.
+Qual sinal normalmente inicia uma fórmula?|=|#|@|?|O sinal de igual informa que a entrada deve ser interpretada como fórmula.
+Qual fórmula soma os valores de A1 e A2?|=A1+A2|=A1-A2|=A1*A2|=A1/A2|O operador de adição soma os valores das referências.
+Qual operador representa multiplicação em fórmulas comuns?|*|x como letra|:|;|O asterisco é usado como operador de multiplicação.
+Qual operador representa divisão em fórmulas comuns?|/|: sempre|;|&|A barra representa divisão aritmética.
+Em uma planilha em português, qual função soma um intervalo?|SOMA|MÉDIA|MÍNIMO|CONTAR.VAZIO|SOMA acumula valores numéricos.
+Qual função calcula a média aritmética?|MÉDIA|SOMA|MÁXIMO|MÍNIMO|A média aritmética divide a soma pela quantidade de valores considerados.
+Qual função encontra o maior valor?|MÁXIMO|MÍNIMO|SOMA|MÉDIA|MÁXIMO retorna o maior valor numérico no conjunto.
+Qual função encontra o menor valor?|MÍNIMO|MÁXIMO|MÉDIA|SOMA|MÍNIMO retorna o menor valor numérico no conjunto.
+O que representa o intervalo A1:A5?|As células A1 até A5|Somente A1 e A5|Cinco abas|Uma senha|Os dois-pontos indicam um intervalo contínuo.
+Qual recurso ajuda a mostrar valores como reais e centavos?|Formato de moeda|Aumentar o volume|Mudar o papel de parede|Excluir a coluna|A formatação de moeda muda a apresentação dos números.
+Qual recurso organiza uma lista do menor para o maior?|Classificação crescente|Filtro de cor sempre|Mesclar células|Quebra de página|Classificar reorganiza os registros conforme um critério.
+Para mostrar somente linhas que atendem a uma condição, use o quê?|Filtro|Zoom|Negrito|Impressão|Filtros restringem temporariamente os registros exibidos.
+Um filtro normalmente apaga as linhas ocultadas?|Não|Sim, sempre|Só se forem números|Só se estiverem coloridas|As linhas permanecem nos dados e podem voltar a aparecer.
+Qual recurso representa visualmente dados numéricos?|Gráfico|Comentário vazio|Senha|Atalho de pasta|Gráficos ajudam a observar relações e tendências.
+Qual gráfico é adequado para comparar quantidades entre turmas?|Barras ou colunas|Uma foto aleatória|Mapa sem dados|Um ícone de volume|Barras e colunas facilitam comparar categorias.
+Qual gráfico costuma mostrar evolução ao longo do tempo?|Linhas|Uma única foto|Um ícone|Um texto sem valores|Linhas facilitam observar tendências temporais.
+Para que serve a alça de preenchimento?|Copiar ou estender dados e fórmulas|Ligar a impressora|Trocar o SSD|Apagar todas as abas|O preenchimento pode replicar fórmulas ou completar séries.
+Se A1 contém 5 e A2 contém 3, quanto vale =A1+A2?|8|2|15|53|A fórmula soma os dois valores numéricos.
+Se B1 contém 10 e B2 contém 4, quanto vale =B1-B2?|6|14|40|2,5|O operador de subtração calcula a diferença.
+Se C1 contém 6, quanto vale =C1*2?|12|8|3|62|O asterisco multiplica seis por dois.
+Se D1 contém 20, quanto vale =D1/4?|5|24|80|16|A divisão de vinte por quatro resulta em cinco.
+Qual é a média de 6 e 10?|8|16|4|60|A soma é dezesseis e há dois valores.
+Qual ação melhora a leitura de títulos longos em uma coluna?|Ajustar largura ou quebrar texto|Apagar os títulos|Trocar todos por números|Diminuir o monitor|Largura e quebra de texto permitem exibir o conteúdo.
+O que uma aba de planilha permite?|Organizar outra folha na mesma pasta de trabalho|Criar outra placa de vídeo|Garantir backup externo|Trocar a internet|Uma pasta de trabalho pode conter várias folhas.
+Para manter o cabeçalho visível ao rolar, qual recurso ajuda?|Congelar linhas|Excluir linhas|Mesclar tudo|Ocultar o arquivo|Congelamento mantém linhas ou colunas na área visível.
+Qual cuidado antes de apagar uma coluna?|Verificar dados e fórmulas que dependem dela|Conferir só a cor da aba|Mudar a fonte do título|Fechar o mouse|A exclusão pode remover informações e afetar referências.
+Ao copiar =A1+B1 uma linha abaixo com referências relativas, qual fórmula resulta?|=A2+B2|=A1+B1 sempre|=A0+B0|=B1+C1|Referências relativas acompanham o deslocamento da fórmula.
+O que significa $A$1 em uma fórmula?|Referência absoluta de coluna e linha|Texto monetário obrigatório|Erro de cálculo|Célula vazia|Os cifrões fixam coluna e linha ao copiar a fórmula.
+Na referência A$1, qual parte está fixa?|A linha 1|A coluna A|As duas partes|Nenhuma parte|O cifrão antes do número fixa a linha.
+Na referência $A1, qual parte está fixa?|A coluna A|A linha 1|As duas partes|Nenhuma parte|O cifrão antes da letra fixa a coluna.
+Quanto vale =2+3*4 segundo a precedência comum?|14|20|24|9|A multiplicação é realizada antes da adição.
+Quanto vale =(2+3)*4?|20|14|9|24|Parênteses fazem a soma ser calculada primeiro.
+Por que classificar só uma coluna de uma tabela pode ser perigoso?|Pode separar valores dos registros correspondentes|Sempre apaga a internet|Muda a RAM|Converte tudo em imagem|As colunas de cada registro devem permanecer relacionadas.
+Formatar 0,25 como porcentagem normalmente exibe o quê?|25%|0,25%|250%|2500%|O formato percentual apresenta o valor multiplicado por cem com o símbolo.
+Uma célula contém o texto 10 em vez do número 10. Qual problema pode ocorrer?|Alguns cálculos ou ordenações podem tratá-la de modo diferente|O computador desliga|A coluna desaparece sempre|O texto vira fórmula automaticamente|Tipo de dado influencia operações e ordenação.
+Qual vantagem de usar referências em vez de repetir números numa fórmula?|Resultados acompanham mudanças nas células de origem|A fórmula dispensa o sinal de igual|Todo dado vira texto|O arquivo não precisa ser salvo|Referências tornam o cálculo dependente dos valores de entrada.

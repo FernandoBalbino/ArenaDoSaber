@@ -1,0 +1,30 @@
+{
+  "name": "arena-do-saber",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Arena multiplayer de informática para turmas de até 30 alunos",
+  "engines": {
+    "node": "24.x"
+  },
+  "scripts": {
+    "start": "node server/index.js",
+    "dev": "node --watch server/index.js",
+    "test": "node --test tests/*.test.js",
+    "loadtest": "node scripts/loadtest.js",
+    "test:browser": "node scripts/browser-test.js"
+  },
+  "dependencies": {
+    "express": "5.1.0",
+    "helmet": "8.1.0",
+    "phaser": "3.90.0",
+    "socket.io": "4.8.1"
+  },
+  "devDependencies": {
+    "ajv": "8.20.0",
+    "ajv-formats": "3.0.1",
+    "playwright": "1.56.1",
+    "socket.io-client": "4.8.1",
+    "yaml": "2.9.1"
+  }
+}

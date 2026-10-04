@@ -1,0 +1,40 @@
+Qual componente executa as instruções dos programas?|Processador|Monitor|Microfone|Gabinete|O processador realiza cálculos e executa instruções.
+Onde ficam temporariamente os dados dos programas em uso?|Memória RAM|Papel da impressora|Cabo HDMI|Caixa de som|A RAM mantém dados de trabalho enquanto o computador está ligado.
+Qual dispositivo guarda arquivos mesmo desligado?|SSD|Memória RAM comum|Ventoinha|Webcam|O SSD utiliza armazenamento não volátil.
+Qual periférico mostra imagens do computador?|Monitor|Teclado|Microfone|Scanner|O monitor é um dispositivo de saída de imagem.
+Qual equipamento captura a voz?|Microfone|Impressora|Monitor|Projetor|O microfone transforma som em sinal de entrada.
+Qual dispositivo permite digitar textos?|Teclado|Caixa de som|Roteador|Fonte|O teclado envia letras e comandos ao computador.
+Para apontar e clicar, qual periférico é usado?|Mouse|SSD|Placa-mãe|Fonte|O mouse controla o ponteiro na tela.
+Qual peça conecta os componentes internos?|Placa-mãe|Papel de parede|Pendrive|Fone de ouvido|A placa-mãe possui conexões para processador, memória e outros componentes.
+O que fornece energia elétrica aos componentes de um desktop?|Fonte de alimentação|Placa de rede|Mousepad|Scanner|A fonte converte e distribui a energia adequada.
+Para que serve a ventoinha do computador?|Ajudar no resfriamento|Guardar senhas|Aumentar o tamanho da tela|Imprimir documentos|A circulação de ar ajuda a remover calor.
+Qual aparelho produz uma cópia em papel?|Impressora|Webcam|Monitor|Microfone|A impressora transfere conteúdo digital para papel.
+Qual equipamento digitaliza uma folha?|Scanner|Caixa de som|Teclado|Projetor|O scanner captura a imagem de um documento físico.
+Qual dispositivo grava imagens do usuário em uma chamada?|Webcam|Fonte|Gabinete|Roteador|A webcam fornece vídeo ao computador.
+Um pendrive normalmente é conectado a qual porta?|USB|Tomada de água|Entrada de papel|Saída de ar|USB é uma conexão comum para pendrives.
+Qual cabo normalmente transporta vídeo e áudio digital para uma TV?|HDMI|Cabo de energia simples|Cabo de telefone analógico|Cabo de segurança|HDMI pode transportar imagem e som.
+Qual componente é especializado em processamento gráfico?|GPU|Fonte|Teclado|Microfone|A GPU acelera a produção de gráficos e imagens.
+Qual é um exemplo de dispositivo de entrada?|Teclado|Monitor sem toque|Impressora|Caixa de som|Dispositivos de entrada enviam dados ao sistema.
+Qual é um exemplo de dispositivo de saída?|Caixa de som|Mouse|Scanner|Microfone|A caixa de som reproduz áudio gerado pelo computador.
+Qual unidade costuma indicar a capacidade de um SSD?|Gigabyte|Centímetro|Volt por segundo|Hertz de tela|Bytes e seus múltiplos medem quantidade de dados.
+O touchpad de um notebook substitui principalmente qual dispositivo?|Mouse|Impressora|Monitor|Microfone|O touchpad controla o ponteiro por toque.
+Qual cuidado é adequado antes de limpar o teclado fisicamente?|Desligar e desconectar o equipamento|Jogar água entre as teclas|Usar força nas portas|Cobrir a ventilação|Desligar e desconectar reduz riscos durante a limpeza.
+Por que não cobrir as saídas de ar do notebook?|Para evitar superaquecimento|Para duplicar a RAM|Para mudar a senha|Para aumentar o armazenamento|A ventilação precisa de espaço para dissipar calor.
+Qual é a função principal do gabinete?|Acomodar e proteger peças internas|Pesquisar na internet|Corrigir ortografia|Amplificar Wi-Fi automaticamente|O gabinete organiza e protege os componentes.
+Qual destes é hardware?|Placa de vídeo|Editor de texto|Sistema operacional|Navegador|Hardware corresponde aos componentes físicos.
+Qual recurso permite usar um notebook sem tomada por algum tempo?|Bateria|Pasta Downloads|Antivírus|Favorito do navegador|A bateria armazena energia para uso móvel.
+Qual conexão normalmente usa um plugue RJ45?|Ethernet|HDMI|Áudio P2|USB-C|Ethernet cabeada normalmente utiliza cabos com conectores RJ45.
+Para ouvir sem incomodar a turma, qual periférico escolher?|Fone de ouvido|Scanner|Projetor|Webcam|Fones direcionam o áudio para quem os usa.
+O que uma tela sensível ao toque combina?|Entrada e saída|Somente armazenamento|Somente impressão|Somente energia|Ela exibe imagens e também recebe toques.
+Qual dispositivo portátil pode transportar arquivos?|Pendrive|Ventoinha|Mousepad|Dissipador|O pendrive armazena dados que podem ser levados a outro computador.
+Ao conectar um USB, o que fazer se não encaixar facilmente?|Verificar a orientação e o tipo|Forçar até entrar|Quebrar a lingueta|Molhar o conector|Conectores incompatíveis ou invertidos não devem ser forçados.
+Por que aumentar a RAM pode ajudar com muitos aplicativos abertos?|Reduz a falta de memória de trabalho|Aumenta automaticamente o link de internet|Substitui a necessidade de CPU|Duplica o tamanho físico do monitor|Mais RAM permite manter mais dados de trabalho sem recorrer tanto ao armazenamento.
+Em comparação com um HD mecânico, por que um SSD resiste melhor a vibrações durante o uso?|Não possui discos giratórios|Usa papel para salvar|Dispensa eletricidade|Nunca pode apresentar defeito|SSDs não dependem de partes mecânicas móveis para acessar dados.
+Um programa salvo no SSD está necessariamente aberto?|Não, armazenamento e execução são diferentes|Sim, todo arquivo está rodando|Sim, se o SSD for grande|Não existe programa salvo|Um programa precisa ser carregado para execução.
+Um monitor de 144 Hz garante 144 quadros novos por segundo em qualquer jogo?|Não, a geração de quadros também depende do sistema|Sim, independentemente do computador|Sim, basta mudar o cabo de energia|Não, monitores não atualizam imagens|A taxa do monitor não força o computador a renderizar mais quadros.
+O que acontece com o conteúdo da RAM comum ao faltar energia?|É perdido|Vira backup permanente|Vai automaticamente para um pendrive|É impresso|A RAM comum é volátil e depende de energia para manter dados.
+Por que duas portas USB-C podem ter capacidades diferentes?|O formato não determina todos os recursos|A cor da mesa muda a velocidade|USB-C é sempre apenas áudio|Toda porta USB-C tem recursos idênticos|Vídeo, potência e velocidade dependem das especificações da porta e do cabo.
+Um computador tem pouco espaço, mas RAM livre. O que resolve o armazenamento cheio?|Remover ou transferir arquivos desnecessários|Trocar somente o mouse|Aumentar a RAM apenas|Diminuir o volume|RAM e armazenamento são recursos diferentes.
+Qual relação descreve corretamente CPU e GPU?|Têm funções complementares|São sempre a mesma peça|A GPU guarda todos os documentos|A CPU serve apenas para rede|A CPU é geral e a GPU é especialmente adequada ao processamento paralelo gráfico.
+Por que fazer backup mesmo com um SSD novo?|Qualquer dispositivo pode falhar|SSDs apagam tudo a cada minuto|RAM substitui o backup|Novidade impede perdas|Falhas, acidentes e exclusões também podem atingir equipamentos novos.
+Ao escolher RAM para uma placa-mãe, o que verificar?|Compatibilidade de geração e capacidade|Cor do papel de parede|Quantidade de favoritos|Tamanho do ponteiro|A placa-mãe e o processador limitam os tipos de memória suportados.

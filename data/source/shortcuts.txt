@@ -1,0 +1,40 @@
+Em muitos aplicativos no Windows, o que Ctrl+C faz?|Copia a seleção|Apaga permanentemente|Fecha o sistema|Abre a calculadora|Ctrl+C copia o conteúdo selecionado para a área de transferência.
+O que Ctrl+V costuma fazer?|Colar|Copiar|Recortar|Reiniciar|Ctrl+V insere o conteúdo disponível na área de transferência.
+O que Ctrl+X costuma fazer?|Recortar|Abrir ajuda|Aumentar volume|Imprimir|Recortar prepara a seleção para ser transferida.
+Qual atalho costuma desfazer a última ação?|Ctrl+Z|Ctrl+P|Ctrl+L|Alt+F4|Ctrl+Z reverte ações compatíveis no aplicativo.
+Qual atalho costuma selecionar todo o texto no navegador?|Ctrl+A|Ctrl+R|Ctrl+T|Ctrl+W|Ctrl+A seleciona todo o conteúdo no contexto ativo.
+No navegador, qual atalho abre uma nova aba?|Ctrl+T|Ctrl+P|Ctrl+F|Ctrl+C|Ctrl+T cria uma aba nova.
+No navegador, qual atalho fecha a aba atual?|Ctrl+W|Ctrl+L|Ctrl+D|Ctrl+N|Ctrl+W fecha a aba em foco.
+No navegador, qual atalho reabre a última aba fechada?|Ctrl+Shift+T|Ctrl+Shift+C|Alt+Enter|Shift+Esc|Ctrl+Shift+T costuma recuperar abas fechadas recentemente.
+Qual atalho foca a barra de endereço no navegador?|Ctrl+L|Ctrl+P|Ctrl+Z|Ctrl+X|Ctrl+L seleciona a barra de endereços.
+Qual atalho procura texto na página atual?|Ctrl+F|Ctrl+T|Ctrl+N|Ctrl+W|Ctrl+F abre a busca dentro da página.
+Qual atalho costuma abrir a impressão?|Ctrl+P|Ctrl+H|Ctrl+J|Ctrl+D|Ctrl+P abre as opções de impressão.
+Qual atalho atualiza uma página em navegadores comuns no Windows?|Ctrl+R|Ctrl+Q|Ctrl+X|Alt+Tab|Ctrl+R recarrega a página atual.
+Qual tecla também costuma atualizar uma página?|F5|Caps Lock|Shift|Insert|F5 é usada para atualizar páginas em muitos navegadores.
+Qual atalho alterna entre janelas no Windows?|Alt+Tab|Ctrl+C|Ctrl+F|Shift+Enter|Alt+Tab percorre janelas abertas.
+Qual atalho fecha a janela ativa no Windows?|Alt+F4|Ctrl+T|Shift+Tab|Ctrl+D|Alt+F4 solicita o fechamento da janela ativa.
+Qual atalho abre o Explorador de Arquivos no Windows?|Windows+E|Ctrl+E|Alt+E|Shift+E|Windows+E abre o gerenciador de arquivos.
+Qual atalho bloqueia a sessão no Windows?|Windows+L|Ctrl+L|Alt+L|Shift+L|Windows+L bloqueia a tela sem encerrar os programas.
+Qual tecla costuma avançar para o próximo campo?|Tab|Caps Lock|F2|Print Screen|Tab percorre controles que recebem foco.
+Como voltar ao campo anterior em um formulário?|Shift+Tab|Alt+F4|Ctrl+R|Ctrl+T|Shift+Tab inverte a navegação por foco.
+Qual tecla costuma confirmar um botão em foco?|Enter|Caps Lock|Shift sozinho|F6 sempre|Enter normalmente ativa o controle selecionado.
+Qual tecla costuma cancelar um menu ou diálogo?|Esc|Tab|Caps Lock|Ctrl sozinho|Esc geralmente fecha ou cancela interfaces temporárias.
+Qual tecla alterna a digitação em maiúsculas?|Caps Lock|Esc|Tab|Delete|Caps Lock mantém o modo de letras maiúsculas.
+Como digitar uma letra maiúscula temporariamente?|Segurar Shift e a letra|Segurar Delete e a letra|Pressionar Esc antes|Pressionar Tab depois|Shift modifica temporariamente a letra digitada.
+Qual tecla apaga o caractere antes do cursor?|Backspace|Delete|Tab|Enter|Backspace remove o conteúdo à esquerda do cursor em escrita comum.
+Qual tecla apaga o caractere depois do cursor?|Delete|Backspace|Shift|Caps Lock|Delete remove o conteúdo à direita do cursor em escrita comum.
+No Explorador do Windows, qual tecla renomeia o item selecionado?|F2|F5|Esc|Tab|F2 inicia a edição do nome do item.
+Qual atalho cria pasta no Explorador do Windows?|Ctrl+Shift+N|Ctrl+Shift+T|Alt+Tab|Ctrl+P|Ctrl+Shift+N cria uma nova pasta nesse contexto.
+Qual atalho restaura o zoom padrão no navegador?|Ctrl+0|Ctrl+9|Alt+0|Shift+0|Ctrl+0 costuma voltar o zoom da página para 100%.
+Qual atalho aumenta o zoom no navegador?|Ctrl e sinal de mais|Ctrl e sinal de menos|Alt+F4|Ctrl+W|O atalho de mais aumenta a escala do conteúdo.
+Qual atalho diminui o zoom no navegador?|Ctrl e sinal de menos|Ctrl e sinal de mais|Ctrl+T|Ctrl+P|O atalho de menos reduz a escala do conteúdo.
+Por que um atalho pode funcionar de forma diferente em dois aplicativos?|O significado depende do contexto e do programa|O teclado decide aleatoriamente|A RAM muda as letras|O monitor interpreta comandos|Aplicativos podem definir associações diferentes para teclas.
+Ctrl+F pesquisa necessariamente toda a internet?|Não, normalmente busca no documento ou página atual|Sim, sempre|Só em modo escuro|Só com duas abas|É preciso distinguir busca local da página e busca na web.
+Ao usar Tab, como saber qual botão será acionado?|Observar o indicador de foco|Olhar apenas o cursor do mouse|Ver o volume do sistema|Contar janelas abertas|O foco visível indica o controle que recebe comandos de teclado.
+Qual diferença entre Ctrl+C e Ctrl+X é correta?|Copiar preserva; recortar prepara para mover|Ambos excluem permanentemente|Copiar fecha o aplicativo|Recortar imprime|A diferença aparece ao colar o conteúdo no destino.
+Qual atalho costuma ir ao início do documento em muitos editores?|Ctrl+Home|Ctrl+End|Alt+Tab|Ctrl+P|Ctrl+Home move o cursor ao começo do documento em muitos editores.
+Qual atalho costuma ir ao fim do documento em muitos editores?|Ctrl+End|Ctrl+Home|Ctrl+F|Ctrl+T|Ctrl+End move o cursor ao final do documento em muitos editores.
+Em texto editável, Shift com uma seta costuma fazer o quê?|Estender a seleção|Desligar o sistema|Abrir nova aba|Copiar automaticamente|Shift combinado com navegação seleciona trechos de texto.
+Por que o jogo deve ignorar WASD enquanto o chat está focado?|As teclas devem escrever a mensagem|O servidor perde internet|O monitor não suporta letras|O chat precisa desinstalar o jogo|O contexto de digitação não deve disparar comandos de movimento.
+Qual cuidado com atalhos de fechar enquanto há trabalho não salvo?|Salvar antes ou conferir a confirmação|Repetir o atalho rapidamente|Desativar todos os avisos|Mudar a extensão|Fechar pode descartar alterações que ainda não foram salvas.
+Atalhos de Windows funcionam obrigatoriamente iguais no Chromebook?|Não, o sistema pode usar outras combinações|Sim, todos são idênticos|Só se o fundo for igual|Só com mouse conectado|Sistemas e teclados diferentes podem definir outros atalhos.
