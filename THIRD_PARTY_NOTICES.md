@@ -9,6 +9,9 @@ O código original do projeto está sob licença MIT. Bibliotecas mantêm suas p
 | Phaser | 3.90.0 | MIT | https://github.com/phaserjs/phaser |
 | Socket.IO e cliente | 4.8.1 | MIT | https://github.com/socketio/socket.io |
 | Playwright, apenas testes | 1.56.1 | Apache-2.0 | https://github.com/microsoft/playwright |
+| Ajv, apenas validação de configuração | 8.20.0 | MIT | https://github.com/ajv-validator/ajv |
+| ajv-formats, apenas validação de configuração | 3.0.1 | MIT | https://github.com/ajv-validator/ajv-formats |
+| YAML, apenas validação de configuração | 2.9.1 | ISC | https://github.com/eemeli/yaml |
 
 As versões exatas, inclusive transitivas, estão no `package-lock.json`. Os textos das licenças diretas estão em `licenses/`; dependências instaladas incluem os próprios avisos. O bundle Phaser preserva seu cabeçalho de licença. Node.js é o runtime externo e mantém sua licença própria.
 

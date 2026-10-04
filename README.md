@@ -2,6 +2,12 @@
 
 Jogo educacional multiplayer de informática, para uma turma de até 30 alunos. Uma arena original com quatro zonas de resposta, 480 perguntas, dez poderes, chat e painel do professor. Projeto independente do HelpDeskSimulator e do OSLab.
 
+**Jogar:** https://arena-do-saber.onrender.com
+
+**Repositório:** https://github.com/FernandoBalbino/ArenaDoSaber
+
+Publicado e verificado em 4 de outubro de 2026. [Resultados dos testes e desempenho observado](docs/verification.md).
+
 ## Executar localmente
 
 Instale **Node.js 24** (inclui npm), abra um terminal nesta pasta e execute:
@@ -87,7 +93,7 @@ Para testar um serviço real, configure `BASE_URL` com sua URL e use 24 bots por
 
 ## Publicar no Render Free
 
-O serviço usa `render.yaml`: Node.js 24, região Virginia, plano Free, `npm ci`, `npm start`, `MAX_ROOMS=5`, branch `main`, deploy automático por commit e health check `/healthz`. A criação foi planejada pelo plugin Render; o campo de health check deve ser conferido no painel.
+O serviço `arena-do-saber` foi criado pelo plugin Render no workspace **My Workspace**. Usa `render.yaml`: Node.js 24, região Virginia, plano Free, `npm ci`, `npm start`, `MAX_ROOMS=5`, branch `main` e deploy automático por commit. O health check `/healthz` foi configurado no painel e confirmado no serviço publicado. [Painel do serviço](https://dashboard.render.com/web/srv-db1b2j142hec73erdnlg).
 
 Limites: o Render Free suspende serviços após 15 minutos sem tráfego recebido, pode levar aproximadamente um minuto para acordar, tem cotas compartilhadas de horas/tráfego/build e pode reiniciar o processo. Não há persistência de salas entre reinícios, deploys ou suspensão. Não há mecanismo de keep-alive artificial. O multiplayer exige conexão: não existe partida online offline. Abra antes da aula e evite deploys durante uma partida.
 
