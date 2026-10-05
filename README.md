@@ -6,7 +6,7 @@ Jogo educacional multiplayer de informática, para uma turma de até 30 alunos. 
 
 **Repositório:** https://github.com/FernandoBalbino/ArenaDoSaber
 
-Publicado e verificado em 4 de outubro de 2026. [Resultados dos testes e desempenho observado](docs/verification.md).
+Arena dinâmica e três vidas: atualização de 5 de outubro de 2026. [Guia das mecânicas e arquivos alterados](docs/dynamic-arena.md) · [Resultados dos testes e desempenho observado](docs/verification.md).
 
 ## Executar localmente
 
@@ -27,10 +27,12 @@ As variáveis disponíveis estão em `.env.example`. O projeto lê variáveis do
 2. Compartilha o código de cinco caracteres. Alunos informam nome e código.
 3. Com pelo menos dois alunos, o professor inicia a partida.
 4. Cada aluno escolhe um de dois poderes em 20 segundos. Após 3 segundos de preparação, lê a pergunta e caminha com WASD, setas ou botões de toque.
-5. A norte, B leste, C sul e D oeste são zonas fixas. Centro e divisórias são neutros. A posição oficial no fim dos 60 segundos define a resposta.
-6. Poderes: clique no botão/ícone ou pressione **E/Espaço**. Para os seis poderes direcionados, selecione personagem ou nome e confirme. **Esc** cancela. Tab e Enter permitem escolher na lista. Digitar no chat bloqueia os atalhos do jogo.
-7. Quem erra vira espectador, continua vendo e conversando. Se todos erram, ninguém sai e a explicação aparece.
-8. Até 30 rodadas regulares. Depois, morte súbita com perguntas difíceis de 20 segundos, sem poderes. Esgotadas as inéditas, os sobreviventes dividem a vitória.
+5. As zonas começam com A ao norte, B a leste, C ao sul e D a oeste. Nas rodadas normais pares, giram 90° após um aviso. Siga as letras no chão e a legenda das alternativas. Centro e divisórias são neutros. A posição oficial no fim dos 60 segundos define a resposta.
+6. **Espaço** ou botão **Pular** faz um salto curto para desviar do laser e atravessar barreiras marcadas com »; pilares e portas fechadas bloqueiam. Poderes: clique no botão/ícone ou pressione **E**. Para os seis poderes direcionados, selecione personagem ou nome e confirme. **Esc** cancela. Tab e Enter permitem escolher na lista. Digitar no chat bloqueia os atalhos do jogo.
+7. Cada aluno começa com **três vidas**, destacadas por corações e contagem. Erro ou posição neutra desconta uma vida, mesmo quando todos erram. Zero vidas transforma o aluno em espectador, que continua vendo e conversando. Acertos não recuperam vidas; o laser somente desacelera.
+8. Até 30 rodadas regulares. Depois, morte súbita com perguntas difíceis de 20 segundos, sem poderes, preservando as vidas restantes e descontando uma por erro. Esgotadas as inéditas, os sobreviventes dividem a vitória. Se todos perderem a última vida juntos, a explicação aparece e a partida termina **sem campeão**.
+
+A arena tem raio 840, o dobro da largura e altura anteriores. Portas abrem e fecham com aviso; sempre existem rotas alternativas. Nos cinco segundos finais, as portas abrem, o laser desliga e as zonas ficam paradas. **Pausa** congela também salto, portas, laser e rotação. Recarregar preserva as vidas; **Nova partida** restaura três.
 
 Novos alunos durante a partida aguardam a próxima rodada. Uma sessão eliminada não volta à arena ao recarregar. Sem contas, é impossível identificar com certeza uma pessoa que cria outro nome; o professor pode expulsá-la. A aparência é sorteada pelo servidor, com camisas sem repetição na sala, preservada ao reconectar.
 
@@ -45,6 +47,9 @@ O professor pode pausar/continuar, pular, encerrar, silenciar a sala ou um aluno
 | `server/powers.js` | Efeitos calculados e validados pelo servidor |
 | `server/app.js` | HTTP, Socket.IO, permissões, validação, limites e projeções públicas |
 | `public/shared/rules.js` | Geometria, metadados dos poderes e categorias; sem gabaritos |
+| `public/shared/systems/` | Arena, obstáculos, portas, zonas, laser, salto e colisão usados pelo servidor e cliente |
+| `server/arena-system.js` | Simulação da arena em passos de até 20 ms, dentro dos ticks de rede |
+| `public/js/systems/` | Desenho da arena dinâmica e HUD de vidas, salto e avisos |
 | `public/js/arena.js` | Phaser, geometria original, personagens, interpolação e previsão |
 | `public/js/app.js` | Interface, sessão da aba, chat, controles e acessibilidade |
 | `data/` | Banco privado ao HTTP, com fontes editáveis e explicações |
@@ -55,7 +60,7 @@ O único servidor HTTP serve frontend, Phaser, Socket.IO e `/healthz`. Escuta em
 
 Motor a 10 Hz, configurável para 5 Hz via `TICK_RATE`. Quadros de movimento a cada tick; estado completo a cada segundo ou mudança importante. WebSocket com fallback para polling e reconexão automática. O cliente envia direções, nunca posições oficiais. Há previsão com correção local e interpolação de adversários. Eventos de movimento obsoletos param após um segundo.
 
-O servidor decide alternativas, tempo, consumo dos poderes, alcance e resultados. O evento `power:use` só aceita `targetId` quando necessário. HTML do chat é tratado como texto. Helmet, limite de payload, verificação de origem e limite por conexão evitam penalizar toda uma turma pelo mesmo IP. Salas vazias são removidas em 15 minutos.
+O servidor decide alternativas, tempo, vidas, saltos, consumo dos poderes, alcance e resultados. O evento `power:use` só aceita `targetId` quando necessário. `player:jump` aceita somente uma sequência inteira crescente; altura, duração e cooldown são calculados no servidor. Os quadros incluem salto e arena, sem divulgar gabaritos. HTML do chat é tratado como texto. Helmet, limite de payload, verificação de origem e limite por conexão evitam penalizar toda uma turma pelo mesmo IP. Salas vazias são removidas em 15 minutos.
 
 ## Perguntas e extensões
 

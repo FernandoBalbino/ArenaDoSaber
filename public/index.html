@@ -1,28 +1,362 @@
 <!doctype html>
 <html lang="pt-BR">
-<head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#091b24"><title>Arena do Saber — Entre na arena. Jogue com o conhecimento.</title><link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Crect rx='22' width='100' height='100' fill='%230d2731'/%3E%3Cpath d='M50 12 82 80H65L50 46 35 80H18Z' fill='%237aebd2'/%3E%3C/svg%3E"><link rel="stylesheet" href="/style.css"></head>
-<body>
-<header class="topbar"><a class="brand" href="/" aria-label="Arena do Saber, início"><span class="brand-mark">A</span><span>ARENA <small>DO SABER</small></span></a><div class="top-actions"><span id="connection" class="connection">Conectando…</span><button id="sound" class="icon-button" aria-label="Silenciar sons" title="Silenciar sons">♪</button><label class="volume-label">Volume<input id="volume" type="range" min="0" max="100" value="25" aria-label="Volume dos efeitos"></label><button id="fullscreen" class="icon-button" aria-label="Tela cheia" title="Tela cheia">⛶</button><button id="leave" hidden>Sair da sala</button></div></header>
-<main id="entry" class="entry">
-  <section class="hero-copy"><span class="eyebrow"><i></i> MULTIPLAYER · INFORMÁTICA</span><h1>Seu conhecimento.<br>Sua próxima<br><em>grande jogada.</em></h1><p>Uma arena. Quatro respostas. Corra para a zona certa, use seus poderes e permaneça no jogo.</p><div class="entry-tabs" role="tablist" aria-label="Como entrar"><button id="student-tab" role="tab" aria-selected="true">Sou aluno</button><button id="teacher-tab" role="tab" aria-selected="false">Sou professor</button></div>
-    <form id="join-form" class="entry-form"><label>SEU NOME<input id="player-name" maxlength="25" autocomplete="nickname" placeholder="Como você quer ser chamado?" required></label><label>CÓDIGO DA SALA<input id="room-code" maxlength="5" minlength="5" autocomplete="off" placeholder="Ex.: AX7KM" required pattern="[A-Za-z2-9]{5}"></label><button class="primary" type="submit">Entrar na arena <span>↗</span></button><small>Peça o código ao seu professor. Até 30 jogadores por sala.</small></form>
-    <form id="create-form" class="entry-form" hidden><label>CAPACIDADE DA TURMA<select id="capacity"><option>24</option><option>30</option><option>12</option><option>6</option></select></label><details open><summary>Conteúdos da partida</summary><div id="categories" class="categories"></div></details><button class="primary" type="submit">Criar sala <span>↗</span></button><small>Você acompanha a arena e controla o ritmo da partida.</small></form>
-    <p class="entry-note">Sem cadastro · Partidas ao vivo · Feito para aprender jogando</p>
-  </section>
-  <section class="hero-visual" aria-label="Prévia ilustrada da arena"><div id="preview"></div><div class="visual-tag"><span class="tiny-orbit">✧</span><div>CONHECIMENTO É PODER<small>Escolha. Mova-se. Surpreenda.</small></div></div><div class="hero-facts"><span><b>4</b> zonas de resposta</span><span><b>10</b> poderes especiais</span><span><b>480</b> perguntas</span></div></section>
-  <section class="how-to"><div><b>01</b><h3>Leia e decida</h3><p>Você tem 60 segundos para encontrar a resposta.</p></div><div><b>02</b><h3>Entre na zona</h3><p>Use WASD ou as setas. Centro e divisórias não valem.</p></div><div><b>03</b><h3>Faça sua jogada</h3><p>Ative seu poder com E, Espaço ou um clique.</p></div></section>
-</main>
-<main id="game" class="game" hidden>
-  <div class="room-strip"><div><span class="eyebrow">SALA</span> <button id="copy-code" class="code" title="Copiar código da sala"></button><span id="round-label" class="pill">Aguardando turma</span></div><div class="counts"><span><i class="live-dot"></i><b id="alive-count">0</b> na arena</span><span><b id="spectator-count">0</b> assistindo</span><button id="chat-toggle" aria-expanded="false">Chat</button></div></div>
-  <div class="game-layout"><section class="play-column">
-    <div class="question-panel"><div><span id="question-category" class="eyebrow">PREPARE-SE PARA A PARTIDA</span><h2 id="question">A arena está esperando por vocês.</h2><p id="phase-hint">Compartilhe o código e aguarde o professor iniciar.</p></div><div class="timer" id="timer" aria-label="Tempo restante">—<small>SEGUNDOS</small></div></div>
-    <div class="arena-stage"><div id="arena" role="img" aria-label="Arena com zonas A ao norte, B à direita, C abaixo e D à esquerda"></div><div id="zone-labels" class="zone-labels" hidden></div><div id="status-banner" class="status-banner" role="status" hidden></div><div id="center-overlay" class="center-overlay" hidden></div><div id="power-selection" class="selection-overlay" hidden><div class="selection-heading"><span class="eyebrow">SUA VANTAGEM NESTA RODADA</span><h2>Escolha seu poder</h2><p>Um poder. Uma chance de mudar o jogo.</p></div><div id="power-cards" class="power-cards"></div><p id="choice-confirmation" role="status"></p></div><div id="target-panel" class="target-panel" hidden><div><strong>Escolha um jogador</strong><button id="cancel-target" aria-label="Cancelar seleção de alvo">✕</button></div><p>Clique no personagem ou escolha abaixo. Esc cancela.</p><div id="target-list" class="target-list"></div></div><div class="arena-caption">A NORTE · B LESTE · C SUL · D OESTE</div></div>
-    <div class="game-controls"><div class="movement-help"><div class="key-row"><kbd>W</kbd><span>ou</span><kbd>↑</kbd></div><div class="key-row"><kbd>A</kbd><kbd>S</kbd><kbd>D</kbd><span>Mover</span></div></div><div id="touch-controls" class="touch-controls" aria-label="Controles de movimento"><button data-direction="up" aria-label="Mover para cima">↑</button><button data-direction="left" aria-label="Mover para esquerda">←</button><button data-direction="down" aria-label="Mover para baixo">↓</button><button data-direction="right" aria-label="Mover para direita">→</button></div><div class="power-action-wrap"><button id="power-action" class="power-action" disabled><img id="power-icon" alt="" hidden><span id="power-label">Aguardando poder</span><kbd>E / Espaço</kbd></button><small id="power-detail">Cada poder pode ser usado uma vez por rodada.</small></div></div>
-  </section>
-  <aside id="sidebar" class="sidebar"><section id="teacher-panel" class="teacher-panel" hidden><h3>Painel do professor</h3><div class="teacher-actions"><button data-action="start" class="primary">Iniciar partida</button><button data-action="pause">Pausar</button><button data-action="resume">Continuar</button><button data-action="skip">Pular pergunta</button><button data-action="end" class="danger">Encerrar</button></div><details><summary>Turma e moderação</summary><div class="moderation"><button data-action="muteRoom">Silenciar sala</button><button data-action="clearChat">Limpar chat</button></div><div id="teacher-roster"></div></details><details><summary>Conexão e desempenho</summary><p id="diagnostics" class="diagnostics">Medindo…</p></details></section><section class="chat-panel"><div class="panel-heading"><h3>Conversa da sala</h3><span id="chat-count" class="pill">AO VIVO</span></div><div id="chat-log" class="chat-log" role="log" aria-label="Mensagens da sala" aria-relevant="additions"></div><form id="chat-form"><label class="sr-only" for="chat-input">Mensagem para a sala</label><input id="chat-input" maxlength="150" placeholder="Converse com a turma…" autocomplete="off"><button type="submit" aria-label="Enviar mensagem">➤</button></form><small>Respeite a turma. Até 150 caracteres.</small></section><section class="players-panel"><h3>Exploradores <span id="player-count">0</span></h3><div id="player-roster"></div></section></aside></div>
-</main>
-<dialog id="results-dialog"><div class="results-head"><span class="eyebrow">A JORNADA DESTA TURMA</span><h2 id="results-title">Fim de partida</h2><p id="results-subtitle"></p></div><div id="podium" class="podium"></div><div class="table-scroll"><table><thead><tr><th>Jogador</th><th>Posição</th><th>Rodadas</th><th>Acertos</th><th>Poderes</th><th>Afetados</th><th>Tempo</th></tr></thead><tbody id="stats-body"></tbody></table></div><div class="dialog-actions"><button id="close-results">Voltar à sala</button><button id="rematch" class="primary">Nova partida</button></div></dialog>
-<div id="toast" class="toast" role="status" hidden></div>
-<footer id="footer">ARENA DO SABER <span>Uma criação original para aprender em turma.</span><a href="/credits.html">Créditos e informações</a></footer>
-<script src="/socket.io/socket.io.js"></script><script src="/vendor/phaser.min.js"></script><script type="module" src="/js/app.js"></script>
-</body></html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <meta name="theme-color" content="#091b24" />
+    <title>Arena do Saber — Entre na arena. Jogue com o conhecimento.</title>
+    <link
+      rel="icon"
+      href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Crect rx='22' width='100' height='100' fill='%230d2731'/%3E%3Cpath d='M50 12 82 80H65L50 46 35 80H18Z' fill='%237aebd2'/%3E%3C/svg%3E"
+    />
+    <link rel="stylesheet" href="/style.css" />
+  </head>
+  <body>
+    <header class="topbar">
+      <a class="brand" href="/" aria-label="Arena do Saber, início"
+        ><span class="brand-mark">A</span
+        ><span>ARENA <small>DO SABER</small></span></a
+      >
+      <div class="top-actions">
+        <span id="connection" class="connection">Conectando…</span
+        ><button
+          id="sound"
+          class="icon-button"
+          aria-label="Silenciar sons"
+          title="Silenciar sons"
+        >
+          ♪</button
+        ><label class="volume-label"
+          >Volume<input
+            id="volume"
+            type="range"
+            min="0"
+            max="100"
+            value="25"
+            aria-label="Volume dos efeitos" /></label
+        ><button
+          id="fullscreen"
+          class="icon-button"
+          aria-label="Tela cheia"
+          title="Tela cheia"
+        >
+          ⛶</button
+        ><button id="leave" hidden>Sair da sala</button>
+      </div>
+    </header>
+    <main id="entry" class="entry">
+      <section class="hero-copy">
+        <span class="eyebrow"><i></i> MULTIPLAYER · INFORMÁTICA</span>
+        <h1>Seu conhecimento.<br />Sua próxima<br /><em>grande jogada.</em></h1>
+        <p>
+          Uma arena. Quatro respostas. Corra para a zona certa, use seus poderes
+          e permaneça no jogo.
+        </p>
+        <div class="entry-tabs" role="tablist" aria-label="Como entrar">
+          <button id="student-tab" role="tab" aria-selected="true">
+            Sou aluno</button
+          ><button id="teacher-tab" role="tab" aria-selected="false">
+            Sou professor
+          </button>
+        </div>
+        <form id="join-form" class="entry-form">
+          <label
+            >SEU NOME<input
+              id="player-name"
+              maxlength="25"
+              autocomplete="nickname"
+              placeholder="Como você quer ser chamado?"
+              required /></label
+          ><label
+            >CÓDIGO DA SALA<input
+              id="room-code"
+              maxlength="5"
+              minlength="5"
+              autocomplete="off"
+              placeholder="Ex.: AX7KM"
+              required
+              pattern="[A-Za-z2-9]{5}" /></label
+          ><button class="primary" type="submit">
+            Entrar na arena <span>↗</span></button
+          ><small
+            >Peça o código ao seu professor. Até 30 jogadores por sala.</small
+          >
+        </form>
+        <form id="create-form" class="entry-form" hidden>
+          <label
+            >CAPACIDADE DA TURMA<select id="capacity">
+              <option>24</option>
+              <option>30</option>
+              <option>12</option>
+              <option>6</option>
+            </select></label
+          >
+          <details open>
+            <summary>Conteúdos da partida</summary>
+            <div id="categories" class="categories"></div>
+          </details>
+          <button class="primary" type="submit">
+            Criar sala <span>↗</span></button
+          ><small>Você acompanha a arena e controla o ritmo da partida.</small>
+        </form>
+        <p class="entry-note">
+          Sem cadastro · Partidas ao vivo · Feito para aprender jogando
+        </p>
+      </section>
+      <section class="hero-visual" aria-label="Prévia ilustrada da arena">
+        <div id="preview"></div>
+        <div class="visual-tag">
+          <span class="tiny-orbit">✧</span>
+          <div>
+            CONHECIMENTO É PODER<small>Escolha. Mova-se. Surpreenda.</small>
+          </div>
+        </div>
+        <div class="hero-facts">
+          <span><b>4</b> zonas de resposta</span
+          ><span><b>10</b> poderes especiais</span
+          ><span><b>480</b> perguntas</span>
+        </div>
+      </section>
+      <section class="how-to">
+        <div>
+          <b>01</b>
+          <h3>Leia e decida</h3>
+          <p>Você tem 60 segundos para encontrar a resposta.</p>
+        </div>
+        <div>
+          <b>02</b>
+          <h3>Entre na zona</h3>
+          <p>Use WASD ou as setas. Centro e divisórias não valem.</p>
+        </div>
+        <div>
+          <b>03</b>
+          <h3>Faça sua jogada</h3>
+          <p>Pule com Espaço. Ative seu poder com E ou um clique.</p>
+        </div>
+      </section>
+    </main>
+    <main id="game" class="game" hidden>
+      <div class="room-strip">
+        <div>
+          <span class="eyebrow">SALA</span>
+          <button
+            id="copy-code"
+            class="code"
+            title="Copiar código da sala"
+          ></button
+          ><span id="round-label" class="pill">Aguardando turma</span>
+        </div>
+        <div class="counts">
+          <span><i class="live-dot"></i><b id="alive-count">0</b> na arena</span
+          ><span><b id="spectator-count">0</b> assistindo</span
+          ><button id="chat-toggle" aria-expanded="false">Chat</button>
+        </div>
+      </div>
+      <div class="game-layout">
+        <section class="play-column">
+          <div class="question-panel">
+            <div>
+              <span id="question-category" class="eyebrow"
+                >PREPARE-SE PARA A PARTIDA</span
+              >
+              <h2 id="question">A arena está esperando por vocês.</h2>
+              <p id="phase-hint">
+                Compartilhe o código e aguarde o professor iniciar.
+              </p>
+            </div>
+            <div id="lives-panel" class="lives-panel" hidden>
+              <span class="eyebrow">SUAS VIDAS</span
+              ><strong id="life-hearts" aria-hidden="true">♥♥♥</strong
+              ><span id="life-count">3 de 3 vidas</span>
+            </div>
+            <div class="timer" id="timer" aria-label="Tempo restante">
+              —<small>SEGUNDOS</small>
+            </div>
+          </div>
+          <div
+            id="zone-labels"
+            class="zone-labels"
+            hidden
+            aria-label="Alternativas por letra"
+          ></div>
+          <div id="arena-event" class="arena-event" role="status" hidden></div>
+          <div class="arena-stage">
+            <div
+              id="arena"
+              role="img"
+              aria-label="Arena circular com quatro zonas de resposta A, B, C e D que podem girar"
+            ></div>
+            <div
+              id="status-banner"
+              class="status-banner"
+              role="status"
+              hidden
+            ></div>
+            <div id="center-overlay" class="center-overlay" hidden></div>
+            <div id="power-selection" class="selection-overlay" hidden>
+              <div class="selection-heading">
+                <span class="eyebrow">SUA VANTAGEM NESTA RODADA</span>
+                <h2>Escolha seu poder</h2>
+                <p>Um poder. Uma chance de mudar o jogo.</p>
+              </div>
+              <div id="power-cards" class="power-cards"></div>
+              <p id="choice-confirmation" role="status"></p>
+            </div>
+            <div id="target-panel" class="target-panel" hidden>
+              <div>
+                <strong>Escolha um jogador</strong
+                ><button
+                  id="cancel-target"
+                  aria-label="Cancelar seleção de alvo"
+                >
+                  ✕
+                </button>
+              </div>
+              <p>Clique no personagem ou escolha abaixo. Esc cancela.</p>
+              <div id="target-list" class="target-list"></div>
+            </div>
+            <div class="arena-caption">
+              SIGA AS LETRAS NO CHÃO · » BARREIRA PULÁVEL
+            </div>
+          </div>
+          <div class="game-controls">
+            <div class="movement-help">
+              <div class="key-row"><kbd>W</kbd><span>ou</span><kbd>↑</kbd></div>
+              <div class="key-row">
+                <kbd>A</kbd><kbd>S</kbd><kbd>D</kbd><span>Mover</span>
+              </div>
+            </div>
+            <div
+              id="touch-controls"
+              class="touch-controls"
+              aria-label="Controles de movimento"
+            >
+              <button data-direction="up" aria-label="Mover para cima">↑</button
+              ><button data-direction="left" aria-label="Mover para esquerda">
+                ←</button
+              ><button data-direction="down" aria-label="Mover para baixo">
+                ↓</button
+              ><button data-direction="right" aria-label="Mover para direita">
+                →
+              </button>
+            </div>
+            <div class="jump-wrap">
+              <button
+                id="jump-action"
+                class="jump-action"
+                disabled
+                aria-label="Pular — Espaço"
+              >
+                <span>↟ Pular</span><kbd>Espaço</kbd></button
+              ><small id="jump-detail">Passe por barreiras com »</small>
+            </div>
+            <div class="power-action-wrap">
+              <button id="power-action" class="power-action" disabled>
+                <img id="power-icon" alt="" hidden /><span id="power-label"
+                  >Aguardando poder</span
+                ><kbd>E</kbd></button
+              ><small id="power-detail"
+                >Cada poder pode ser usado uma vez por rodada.</small
+              >
+            </div>
+          </div>
+        </section>
+        <aside id="sidebar" class="sidebar">
+          <section id="teacher-panel" class="teacher-panel" hidden>
+            <h3>Painel do professor</h3>
+            <div class="teacher-actions">
+              <button data-action="start" class="primary">
+                Iniciar partida</button
+              ><button data-action="pause">Pausar</button
+              ><button data-action="resume">Continuar</button
+              ><button data-action="skip">Pular pergunta</button
+              ><button data-action="end" class="danger">Encerrar</button>
+            </div>
+            <details>
+              <summary>Turma e moderação</summary>
+              <div class="moderation">
+                <button data-action="muteRoom">Silenciar sala</button
+                ><button data-action="clearChat">Limpar chat</button>
+              </div>
+              <div id="teacher-roster"></div>
+            </details>
+            <details>
+              <summary>Conexão e desempenho</summary>
+              <p id="diagnostics" class="diagnostics">Medindo…</p>
+            </details>
+          </section>
+          <section class="chat-panel">
+            <div class="panel-heading">
+              <h3>Conversa da sala</h3>
+              <span id="chat-count" class="pill">AO VIVO</span>
+            </div>
+            <div
+              id="chat-log"
+              class="chat-log"
+              role="log"
+              aria-label="Mensagens da sala"
+              aria-relevant="additions"
+            ></div>
+            <form id="chat-form">
+              <label class="sr-only" for="chat-input"
+                >Mensagem para a sala</label
+              ><input
+                id="chat-input"
+                maxlength="150"
+                placeholder="Converse com a turma…"
+                autocomplete="off"
+              /><button type="submit" aria-label="Enviar mensagem">➤</button>
+            </form>
+            <small>Respeite a turma. Até 150 caracteres.</small>
+          </section>
+          <section class="players-panel">
+            <h3>Exploradores <span id="player-count">0</span></h3>
+            <div id="player-roster"></div>
+          </section>
+        </aside>
+      </div>
+    </main>
+    <dialog id="results-dialog">
+      <div class="results-head">
+        <span class="eyebrow">A JORNADA DESTA TURMA</span>
+        <h2 id="results-title">Fim de partida</h2>
+        <p id="results-subtitle"></p>
+      </div>
+      <div id="podium" class="podium"></div>
+      <div class="table-scroll">
+        <table>
+          <thead>
+            <tr>
+              <th>Jogador</th>
+              <th>Posição</th>
+              <th>Rodadas</th>
+              <th>Acertos</th>
+              <th>Poderes</th>
+              <th>Afetados</th>
+              <th>Tempo</th>
+            </tr>
+          </thead>
+          <tbody id="stats-body"></tbody>
+        </table>
+      </div>
+      <div class="dialog-actions">
+        <button id="close-results">Voltar à sala</button
+        ><button id="rematch" class="primary">Nova partida</button>
+      </div>
+    </dialog>
+    <div
+      id="life-announcement"
+      class="sr-only"
+      role="status"
+      aria-live="polite"
+    ></div>
+    <div id="toast" class="toast" role="status" hidden></div>
+    <footer id="footer">
+      ARENA DO SABER <span>Uma criação original para aprender em turma.</span
+      ><a href="/credits.html">Créditos e informações</a>
+    </footer>
+    <script src="/socket.io/socket.io.js"></script>
+    <script src="/vendor/phaser.min.js"></script>
+    <script type="module" src="/js/app.js"></script>
+  </body>
+</html>

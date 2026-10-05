@@ -1,4 +1,35 @@
-# Verificação da publicação — 4 de outubro de 2026
+# Verificação da arena dinâmica — 5 de outubro de 2026
+
+## Evidências locais
+
+- Runtime dos testes: Node.js 24.21.0.
+- **41 testes de regras e rede aprovados**, incluindo vidas, resultado idempotente, morte súbita, rotação, portas, colisões, salto, laser, os dez poderes, isolamento e 30 conexões simultâneas.
+- **27 verificações de navegador aprovadas** com professor e três alunos. Cobrem corações, perda de uma vida, recarregamento, Espaço sem ativar poder, botão de pulo, cooldown, foco no chat, dez poderes, rotação em dois clientes, direcional e pulo por toque, pausa e resultados. Nenhum erro de página.
+- Layouts: 1366×768, 1920×1080, 800×650 e 390×844. Sem overflow horizontal; canvas ajustado à altura real do mapa, sem cortar a arena. Legenda fixa e letras no chão acompanham a arena; o aviso de eventos fica fora do mapa para não cobrir respostas. A tela móvel permite rolagem vertical.
+- `render.yaml` validado contra o schema oficial. Auditoria das dependências instaladas sem vulnerabilidades reportadas.
+
+### Carga local desta atualização
+
+| Métrica | Resultado |
+| --- | --- |
+| Alunos / professor | 30 / 1 |
+| Duração | 120,018 s |
+| Pulos aceitos | 1.470 |
+| Falhas / desconexões | 0 / 0 |
+| RTT mediana / p95 / máximo | 7,5 / 31,8 / 211,2 ms |
+| Pico de RSS | 139 MB |
+| Maior p95 do event loop | 32,2 ms |
+| Volume JSON estimado | 127,7 MB |
+
+A carga incluiu obstáculos, portas, laser, rotação e pulos. Os números são locais e não representam a rede da escola nem desempenho do Render. Arquivos de evidência: `test-results/load-local-30.json`, `test-results/browser-report.json` e capturas `arena-*.png`.
+
+## Publicação desta atualização
+
+A confirmação do deploy público será registrada após a publicação. O serviço existente permanece Free, em Virginia, com uma instância, Node.js 24, `npm ci`, `npm start` e `/healthz`. As salas continuam em memória, sem persistência entre deploys.
+
+---
+
+# Histórico: publicação original — 4 de outubro de 2026
 
 - Jogo: https://arena-do-saber.onrender.com
 - Código: https://github.com/FernandoBalbino/ArenaDoSaber
